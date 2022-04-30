@@ -8,5 +8,6 @@
 - [[学习笔记]]
 	- [[Logseq]]
 	- [[GeoGebra]]
-- 阅读笔记
+- [[阅读笔记]]
+	- [[Word_Power_Made_Easy]]
 	-
