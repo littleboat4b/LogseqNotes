@@ -2,8 +2,8 @@ title:: Word_Power_Made_Easy
 authoer:: Norman Lewis
 mark:: 英语单词
 status:: 正在读
+Part One: Getting Off to a Good Start
 
-- Part One: Getting Off to a Good Start
 	- 1. How to Test Your Present Vocabulary
 	- 2. How to Start Building Your Vocabulary
 	- 3. How to Talk About Personality Types (Sessions 1–3)
@@ -26,3 +26,4 @@ status:: 正在读
 	- 18. How to Check Your Standing as an Amateur Etymologist
 	- 19. How to Keep Building Your Vocabulary
 	  Other Books by This Author
+-

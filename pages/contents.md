@@ -52,7 +52,6 @@
 		- ((5f3110d9-5351-444d-9477-55d6b6a7b8b1))
 	-
 - [[阅读笔记]]
-  collapsed:: true
 	- [[Word_Power_Made_Easy]]
 	-
 - [[生活百事]]
