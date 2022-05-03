@@ -5,6 +5,7 @@ status:: 正在学习
 
 - Geogebra入门—使用工具
   id:: 626d2320-2163-4e8c-9e6c-a00baf0f79d6
+  collapsed:: true
 	- 1.1 Geogebra简介
 	- 1.2 Geogebra下载与安装
 		- Geogebra重要网址
@@ -112,55 +113,137 @@ status:: 正在学习
 		- 点 - 最重要，构成其他对象的基础
 			- 点的表示
 				- `(x,y)` 直角坐标
-				- (r==;==θ) 极坐标
+				- (r==;==θ) {{cloze 极坐标}}
 					- θ: 弧度 or 角度（alt+o）
 					- 直角坐标改成极坐标：
 						- 坐标网格点右键 -> Graphic -> Grid -> Grid Type ->Polar
-				- `x+y i` 复数
-				- `A+Vector(C,D)` 向量：A点向x方向移动C，向y方向移动D
+				- `x+y i` {{cloze 复数}}
+				- `A+Vector(C,D)` {{cloze 向量}} ：A点向x方向移动C，向y方向移动D
 			- 动点
-				- `Point(对象)` 描点：圆周上可以动的点
-				- `Pointin(对象)` 内点：圆内可以动的点
-				- `RandomPointIn()` 随机内点，==随机产生，不能移动==
+				- `Point(对象)` {{cloze 描点}} ：圆周上可以动的点
+				- `Pointin(对象)` {{cloze 内点}} ：圆内可以动的点
+				- `RandomPointIn()` {{cloze 随机内点}} ，==随机产生，不能移动==
 			- 特殊点
-				- `O` 原点（当O未被自定义时）
-				- `Midpoint()` 中点
-				- `Intersect()` 交点（可以指定要第几个交点）
-				- `Center()` 中心 （一般用于圆，椭圆，圆锥曲线等）
-				- `Centroid()` 重心（主要用于三角形）
+				- `O` {{cloze 原点}} （当O未被自定义时）
+				- `Midpoint()` {{cloze 中点}}
+				- `Intersect()` {{cloze 交点}} （可以指定要第几个交点）
+				- `Center()` {{cloze 中心}} （一般用于圆，椭圆，圆锥曲线等）
+				- `Centroid()` {{cloze 重心}} （主要用于三角形）
 		- 线
 			- 直线
-				- Line(A,B) 直线 - 过AB的直线
-				- Segment(C,D) 线段 - 以CD为端点的线段
-				- Ray(E，F) 射线 - 以E为端点，向F延伸的射线
-				- Vector(O,A) 向量 - 从圆点到A点的向量
+				- Line(A,B) {{cloze 直线}} - 过AB的直线
+				- Segment(C,D) {{cloze 线段}} - 以CD为端点的线段
+				- Ray(E，F) {{cloze 射线}} - 以E为端点，向F延伸的射线
+				- Vector(O,A) {{cloze 向量}} - 从圆点到A点的向量
 					- 向量：有方向，可参与运算，可用来画箭头
 			- 特殊直线
-				- `xAxis`, `yAxis` x轴，y轴
+				- `xAxis`, `yAxis` {{cloze x轴，y轴}}
 					- `Point(xAxis)` - 画一个x轴上的动点
-				- `Line(A,f)` 平行线 - 过A点画f的平行线
-				- `PerpendicularLine()` 垂线
+				- `Line(A,f)` {{cloze 平行线}} - 过A点画f的平行线
+				- `PerpendicularLine()` {{cloze 垂线}}
 					- `PerpendicularLine(A,f)` - 画从A点到f的垂线
-				- `PerpendicularBisector()` 中垂线（两点或线段的）
+				- `PerpendicularBisector()` {{cloze 中垂线}} （两点或线段的）
 					- `PerpendicularBisector(A,B)` - 画从A和B点间的中垂线
 		- 多边形
-			- Polygon(A,B,...) 多边形
+			- Polygon(A,B,...) {{cloze 多边形}}
 				- A,B... 为多边形顶点
-			- Polygon(A,B,n) 正多边形
+			- Polygon(A,B,n) {{cloze 正多边形}}
 				- A,B 为正多边形的边长
 				- n为多少条边
-			- Polyline(E,F,A,B) 折线 - 围成多边形的==线==
+			- Polyline(E,F,A,B) {{cloze 折线}} - 围成多边形的==线==
 		- 圆
-			- `Circle(O,r)` 圆形 - O圆心，r半径
-			- `Circle(A,B)`  O圆心，A圆周上的点
-			- `Circle(A,B,C)` 过ABC三点的圆
-			- `Circle(O,A,B)` 弧  过圆心O和AB两点做圆弧
-			- `CircumcircularArc(A,B,C)` 过ABC三点做圆弧
+			- `Circle(O,r)` {{cloze 圆形 - O圆心，r半径}}
+			- `Circle(A,B)` {{cloze  A圆心，B圆周上的点}}
+			- `Circle(A,B,C)` {{cloze 过ABC三点的圆}}
+			- `Circle(O,A,B)` 弧 {{cloze 过圆心O和AB两点做圆弧}}
+			- `CircumcircularArc(A,B,C)` {{cloze 过ABC三点做圆弧}}
 	- 2.4 几何对象的度量
+		- 常规度量
+			- `Distance()` 距离
+				- `Distantce(A,B)` - AB两点间的距离
+			- `Length()` 长度
+				- `Length(Segment(A,B))` - AB这个线段的长度
+			- `Angle()` 角度
+				- `Angle(ABC)` - ∠ABC 的角度，==逆时针测量==
+			- `Area()` 面积
+				- `Area(t1)` - t1这个图形的面积
+			- `Perimeter()` {{cloze 周长}}
+				- `Perimeter(t1)` - t1这个图形的周长
+			- `Circumference()` {{cloze 圆周长}}
+		- 关系判断
+			- `AreCollinear()` {{cloze 共线}}
+			  id:: 62718974-70cd-4f72-beb2-9f486262692d
+				- `AreCollinear(A,B,C)`
+				- ABC三个点是否共线，`ture or false`
+			- `AreConcurrent()` {{cloze 共点}}
+				- `AreConcurrent(f,g,h)`
+				- f,g,h三条线是否交汇于一点（共点），`ture or false`
+			- `AreConcyclic()` {{cloze 共圆}}
+				- `AreConcyclic(A,B,C,D)`
+				- A,B,C,D是否在同一个圆上（共圆），`ture or false`
+			- `AreCongruent()` {{cloze 全等}}
+				- `AreCongruent(t1,g1)`
+				- t1,gi两个三角形是否全等，`ture or false`
+			- `AreEqual()` {{cloze 相等}}
+				- `AreEqual(A,B)`
+				- A,B两点是否相等，`ture or false`
+			- `AreParallel()` {{cloze 平行}} //
+				- `AreParallel(f,g)`
+				- f,g两条直线是否平行，`ture or false`
+				- 可以使用符号`//`，用浮动键盘输入
+			- `ArePerpendicular()`  {{cloze 垂直 }}   ⟂
+				- `ArePerpendicular(f,g)`
+				- f,g两条直线是否垂直，`ture or false`
+				- 可以使用符号`⟂`，用浮动键盘输入
 	- 2.5 几何对象的变换
+		- 变换
+			- `Translate()` {{cloze 平移}}
+				- `Translate(A,(3,1))`
+					- A点在x方向移动3，在y方向上移动1
+				- `Translate(t1,(m,n))`
+					- 图形t1在x方向移动m，在y方向上移动n
+			- `Rotate()` {{cloze 旋转}}
+				- `Rotate(t1,α)`  图形t1移动α弧度（π）
+			- `Reflect()` {{cloze 对称}}
+				- `Reflect(t1, O)` - 图形t1对于O点的中心对称
+				- `Reflect(t1,xAxis)` - 图形t1对于x轴的轴对称
+			- `Dilate()` {{cloze 位似-缩放}}
+				- `Dilate(t1, 1.5,A)` - 以A点为放缩中心，将图形t1放大1.5倍
+		- 使用向量进行计算
+			- `Vector()` {{cloze 向量}}
+				- ==小写字母==系统认为是==向量==，==大写字母==系统认为是==点==
+			- 求线段AB上的一个点
+				- ½处的点`Vector()` - `(A+B)/2`
+				- ⅓处的点`Vector()` - `(A+2B)/3` - 靠近B点
+				- ⅔处的点`Vector()`- `(2A+B)/3`- 靠近A点
+				- `1/n`处的点`Vector()`- `A+(B-A)/n` - 靠近A点
+				  :LOGBOOK:
+				  CLOCK: [2022-05-03 Tue 17:05:05]
+				  :END:
 	- 2.6 函数与分段函数
+		- 函数的输入
+			- 一般输入（以下几种都可以）
+				- `x^2`, `f:x^2`, `f(x):x^2`, `f(x)=x^2`, `f(t)=t^2`
+				- 注意：最好不要用y，比如：`y=x^2` 与 `y(x)=x^2`
+		- 坐标轴的设置
+			- 缩放绘图区：滚轮
+			- 缩放坐标轴：shift+**拖动**坐标轴
+			- 坐标轴设置：
+				- 点绘图区右键，出现小窗口（Graphics）
+				- 选择 Graphics -> 出现设置窗口
+		- 复合函数
+			- f(g(x))
+		- 函数的运算
+			- f*2
+		- 分段函数
+			- 基本形式：`x^2, 0<=x<=4`
+			- 一般表达式：
+				- `if(条件，表达式，条件，表达式， ...，其他)`
+				- 举例：`if(x<0, 0, x<2, x/2, x<3, x/3, 1)`
 	- 2.7 函数的根、极值
+		-
 	- 2.8 函数的导数、积分
+		-
 - Geogebra深入—动态
   id:: 626d23d0-c2a7-4cc8-8adb-a9e16cf1e76c
 	- 3.1 变量、滑动条
