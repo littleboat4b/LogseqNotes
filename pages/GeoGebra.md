@@ -47,7 +47,7 @@ status:: 正在学习
 			- 最好用==**英文**==
 - Geogebra进阶—使用命令
   id:: 626d23c2-0160-43e2-b378-b447d072ebf6
-	- 2.1 Geogebra指令 -（command）- 命令
+	- **2.1 Geogebra指令 -（command）- 命令**
 		- 优点：全面（比工具条多）、快捷、精确（比鼠标点更精确）、复杂
 		- **语法**：
 		  例: ==c==: ==Circle(A,3)==
@@ -68,8 +68,94 @@ status:: 正在学习
 			- 菜单栏上的`Help`，F1，或 Input 键盘上的`...`
 			- [关于Geogebra的指令](https://wiki.geogebra.org/en/Commands)
 			- [Geogebra指令的列表](https://wiki.geogebra.org/en/Category:Commands)
-	- 2.2 变量、运算符、内建函数
-	- 2.3 几何对象的构建
+	- **2.2 变量(Variable)、运算符(Operator)、内建函数(Function)**
+	  [Functions and Operators](https://wiki.geogebra.org/en/Predefined_Functions_and_Operators)
+		- 变量(Variable)
+		  collapsed:: true
+			- 简单型
+				- 数值： a=5
+				- 文本：`Text功能` or 通过`input + "  "`  "输入文本"
+				- 布尔（逻辑）： b = true ；a = false
+			- 对象型
+				- 几何对象：点、线、面
+				- 交互对象：图形、按钮 [[交互对象]]
+		- 运算符(Operator)
+		  collapsed:: true
+			- 代数
+				- `+, -, *, /, **或^, √(Alt+r)`
+			- 逻辑、几何、集合等
+				- 用==符号键盘输入==比较方便
+		- 内建函数(Function)
+		  collapsed:: true
+			- **数值函数**
+				- `abs()` 绝对值 `|5|`
+				- `sqrt()` 平方根`nroot（x,n)`
+				- `exp()` 指数 `ln()` or `log(10,x)` 对数
+				- `random()` 随机数
+				- `floor()` 向下取整 `ceil()` 向上取整
+				- `round()` 舍入（四舍五入）
+			- **三角函数**
+				- `sin() cos() tan()` 弧度单位 or 度数（`alt+o`）
+				- `asin() acos() atan()`
+			- **复数函数**
+				- `real()`实部
+				- `imaginary()` 虚部
+				- `abs()` 复数求模（复数求绝对值） `|a|`； `arg()` 角度
+					- `abs(3+4i)` =4  `i的输入：alt+i`
+					- `arg(3+4i)`
+			- **取坐标的函数**
+				- `x(), y(), z()`
+				- `x(A)  y(A)` A点的横坐标和纵坐标
+				- 一般变量不要用x，y，z（除非在函数中）
+			-
+	- **2.3 几何对象的构建**
+		- 点 - 最重要，构成其他对象的基础
+			- 点的表示
+				- `(x,y)` 直角坐标
+				- (r==;==θ) 极坐标
+					- θ: 弧度 or 角度（alt+o）
+					- 直角坐标改成极坐标：
+						- 坐标网格点右键 -> Graphic -> Grid -> Grid Type ->Polar
+				- `x+y i` 复数
+				- `A+Vector(C,D)` 向量：A点向x方向移动C，向y方向移动D
+			- 动点
+				- `Point(对象)` 描点：圆周上可以动的点
+				- `Pointin(对象)` 内点：圆内可以动的点
+				- `RandomPointIn()` 随机内点，==随机产生，不能移动==
+			- 特殊点
+				- `O` 原点（当O未被自定义时）
+				- `Midpoint()` 中点
+				- `Intersect()` 交点（可以指定要第几个交点）
+				- `Center()` 中心 （一般用于圆，椭圆，圆锥曲线等）
+				- `Centroid()` 重心（主要用于三角形）
+		- 线
+			- 直线
+				- Line(A,B) 直线 - 过AB的直线
+				- Segment(C,D) 线段 - 以CD为端点的线段
+				- Ray(E，F) 射线 - 以E为端点，向F延伸的射线
+				- Vector(O,A) 向量 - 从圆点到A点的向量
+					- 向量：有方向，可参与运算，可用来画箭头
+			- 特殊直线
+				- `xAxis`, `yAxis` x轴，y轴
+					- `Point(xAxis)` - 画一个x轴上的动点
+				- `Line(A,f)` 平行线 - 过A点画f的平行线
+				- `PerpendicularLine()` 垂线
+					- `PerpendicularLine(A,f)` - 画从A点到f的垂线
+				- `PerpendicularBisector()` 中垂线（两点或线段的）
+					- `PerpendicularBisector(A,B)` - 画从A和B点间的中垂线
+		- 多边形
+			- Polygon(A,B,...) 多边形
+				- A,B... 为多边形顶点
+			- Polygon(A,B,n) 正多边形
+				- A,B 为正多边形的边长
+				- n为多少条边
+			- Polyline(E,F,A,B) 折线 - 围成多边形的==线==
+		- 圆
+			- `Circle(O,r)` 圆形 - O圆心，r半径
+			- `Circle(A,B)`  O圆心，A圆周上的点
+			- `Circle(A,B,C)` 过ABC三点的圆
+			- `Circle(O,A,B)` 弧  过圆心O和AB两点做圆弧
+			- `CircumcircularArc(A,B,C)` 过ABC三点做圆弧
 	- 2.4 几何对象的度量
 	- 2.5 几何对象的变换
 	- 2.6 函数与分段函数
