@@ -49,6 +49,7 @@ status:: 正在学习
 - Geogebra进阶—使用命令
   id:: 626d23c2-0160-43e2-b378-b447d072ebf6
 	- **2.1 Geogebra指令 -（command）- 命令**
+	  collapsed:: true
 		- 优点：全面（比工具条多）、快捷、精确（比鼠标点更精确）、复杂
 		- **语法**：
 		  例: ==c==: ==Circle(A,3)==
@@ -70,6 +71,7 @@ status:: 正在学习
 			- [关于Geogebra的指令](https://wiki.geogebra.org/en/Commands)
 			- [Geogebra指令的列表](https://wiki.geogebra.org/en/Category:Commands)
 	- **2.2 变量(Variable)、运算符(Operator)、内建函数(Function)**
+	  collapsed:: true
 	  [Functions and Operators](https://wiki.geogebra.org/en/Predefined_Functions_and_Operators)
 		- 变量(Variable)
 		  collapsed:: true
@@ -110,6 +112,7 @@ status:: 正在学习
 				- 一般变量不要用x，y，z（除非在函数中）
 			-
 	- **2.3 几何对象的构建**
+	  collapsed:: true
 		- 点 - 最重要，构成其他对象的基础
 			- 点的表示
 				- `(x,y)` 直角坐标
@@ -157,7 +160,8 @@ status:: 正在学习
 			- `Circle(A,B,C)` {{cloze 过ABC三点的圆}}
 			- `Circle(O,A,B)` 弧 {{cloze 过圆心O和AB两点做圆弧}}
 			- `CircumcircularArc(A,B,C)` {{cloze 过ABC三点做圆弧}}
-	- 2.4 几何对象的度量
+	- **2.4 几何对象的度量**
+	  collapsed:: true
 		- 常规度量
 			- `Distance()` 距离
 				- `Distantce(A,B)` - AB两点间的距离
@@ -195,7 +199,8 @@ status:: 正在学习
 				- `ArePerpendicular(f,g)`
 				- f,g两条直线是否垂直，`ture or false`
 				- 可以使用符号`⟂`，用浮动键盘输入
-	- 2.5 几何对象的变换
+	- **2.5 几何对象的变换**
+	  collapsed:: true
 		- 变换
 			- `Translate()` {{cloze 平移}}
 				- `Translate(A,(3,1))`
@@ -220,7 +225,8 @@ status:: 正在学习
 				  :LOGBOOK:
 				  CLOCK: [2022-05-03 Tue 17:05:05]
 				  :END:
-	- 2.6 函数与分段函数
+	- **2.6 函数与分段函数**
+	  collapsed:: true
 		- 函数的输入
 			- 一般输入（以下几种都可以）
 				- `x^2`, `f:x^2`, `f(x):x^2`, `f(x)=x^2`, `f(t)=t^2`
@@ -240,13 +246,45 @@ status:: 正在学习
 			- 一般表达式：
 				- `if(条件，表达式，条件，表达式， ...，其他)`
 				- 举例：`if(x<0, 0, x<2, x/2, x<3, x/3, 1)`
-	- 2.7 函数的根、极值
-		-
-	- 2.8 函数的导数、积分
-		-
+		- 逻辑条件
+			- 比较
+				- `>, <, >=(≧), <=(≦), ==(≟ 等于), !=(≠)``
+			- 逻辑运算
+				- 并且： `&& (∧)`
+				- 或者： `|| (∨)`
+				- 非： `！(﹁)`
+	- **2.7 函数的根、极值**
+		- Root(f) 零点
+			- 求`f函数`的根，函数不止一个根
+			- ComplexRoot(f) - 求`f函数`的复数根，函数不止一个根
+		- Roots(f,a,b) 零值点
+			- 在a～b这个范围内，求`f函数`的根，函数不止一个根
+		- Extremum(f) 极值点
+			- 求`f函数`的极值，极大和极小值
+	- **2.8 函数的导数、积分**
+	  collapsed:: true
+		- 导数
+			- f' 或 Derivative() 导数
+		- 积分
+			- Integral(f)  积分（算函数）
+				- Integral(f,a,b) 积分（算值）- 函数f在a～b之间的积分
+			- IntegralBetween(f,g,a,b,false)
+				- 求f，g两个函数在a～b之间的积分
+				- 区域积分
+				- 最后一个参数false表示只**绘图**
 - Geogebra深入—动态
   id:: 626d23d0-c2a7-4cc8-8adb-a9e16cf1e76c
-	- 3.1 变量、滑动条
+	- **3.1 变量、滑动条**
+		- 动态数学软件
+			- 对象可拖动
+			- 变量可改变
+			- 属性（对象的颜色、可否显示等）可为变量
+			- 特殊指令
+				- SlowPlot 缓慢绘制
+					- SlowPlot(sin(x)) - 动态的缓慢的绘制出`函数sin(x)`的图形
+		- 原动力
+			- Slider （滑动条）
+			- Point （动点）
 	- 3.2 动点、轨迹
 	- 3.3 曲线、不等式
 	- 3.4 曲线欣赏
