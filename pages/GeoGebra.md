@@ -71,10 +71,8 @@ status:: 正在学习
 			- [关于Geogebra的指令](https://wiki.geogebra.org/en/Commands)
 			- [Geogebra指令的列表](https://wiki.geogebra.org/en/Category:Commands)
 	- **2.2 变量(Variable)、运算符(Operator)、内建函数(Function)**
-	  collapsed:: true
 	  [Functions and Operators](https://wiki.geogebra.org/en/Predefined_Functions_and_Operators)
 		- 变量(Variable)
-		  collapsed:: true
 			- 简单型
 				- 数值： a=5
 				- 文本：`Text功能` or 通过`input + "  "`  "输入文本"
@@ -83,13 +81,11 @@ status:: 正在学习
 				- 几何对象：点、线、面
 				- 交互对象：图形、按钮 [[交互对象]]
 		- 运算符(Operator)
-		  collapsed:: true
 			- 代数
 				- `+, -, *, /, **或^, √(Alt+r)`
 			- 逻辑、几何、集合等
 				- 用==符号键盘输入==比较方便
 		- 内建函数(Function)
-		  collapsed:: true
 			- **数值函数**
 				- `abs()` 绝对值 `|5|`
 				- `sqrt()` 平方根`nroot（x,n)`
@@ -202,6 +198,7 @@ status:: 正在学习
 	- **2.5 几何对象的变换**
 	  collapsed:: true
 		- 变换
+		  collapsed:: true
 			- `Translate()` {{cloze 平移}}
 				- `Translate(A,(3,1))`
 					- A点在x方向移动3，在y方向上移动1
@@ -254,6 +251,7 @@ status:: 正在学习
 				- 或者： `|| (∨)`
 				- 非： `！(﹁)`
 	- **2.7 函数的根、极值**
+	  collapsed:: true
 		- Root(f) 零点
 			- 求`f函数`的根，函数不止一个根
 			- ComplexRoot(f) - 求`f函数`的复数根，函数不止一个根
@@ -279,7 +277,7 @@ status:: 正在学习
 			- 对象可拖动
 			- 变量可改变
 			- 属性（对象的颜色、可否显示等）可为变量
-			- 特殊指令
+			- **特殊指令**
 				- SlowPlot 缓慢绘制
 					- SlowPlot(sin(x)) - 动态的缓慢的绘制出`函数sin(x)`的图形
 		- 原动力
