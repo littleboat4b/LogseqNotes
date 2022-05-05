@@ -21,10 +21,14 @@ status:: 正在读
 	- 2. How to Start Building Your Vocabulary
 		- HOW CHILDREN INCREASE THEIR VOCABULARIES
 		- HOW ADULTS STOP BUILDING THEIR VOCABULARIES
-		-
+		- WHY AGE MAKES LITTLE DIFFERENCE IN VOCABULARY BUILDING
+		- WHAT THIS BOOK CAN DO FOR YOU
+		- A NOTE ON TIME SCHEDULES
 		- New Word
 			- radical: [\`rædIkḷ;\`rædikәl] {{cloze a. 1. 根本的, 基本的; 彻底的}}
 			- discernible: [dI\`sˏnәbḷ;di\`sә:nәbl] {{cloze a. 1. 可识别的}}
+			- compulsive: [kәm\`pʌlsIv;kәm\`pʌlsiv] {{cloze a.1. 强迫的; 强制的}}
+			- senility: [sә\`nIlәtI;si\`niliti] {{cloze n.1. 高龄; 衰老; 年老糊涂}}
 			- obscure: [әb\`skjʊr;әb\`skjuә] #card
 			  card-last-interval:: 4
 			  card-repeats:: 1
@@ -32,7 +36,6 @@ status:: 正在读
 			  card-next-schedule:: 2022-05-08T20:20:20.263Z
 			  card-last-reviewed:: 2022-05-04T20:20:20.268Z
 			  card-last-score:: 3
-			  collapsed:: true
 				- a.
 				  1. 暗的, 黑暗的; 朦胧的
 				  The room is too obscure for reading.
@@ -40,7 +43,12 @@ status:: 正在读
 				  2. 模糊的; 含糊不清的; 晦涩的, 难解的[(+to)]
 				  The meaning of the passage is obscure.
 			- acquaint: [ә\`kwent;ә\`kweint] #card
-			  collapsed:: true
+			  card-last-interval:: -1
+			  card-repeats:: 1
+			  card-ease-factor:: 2.5
+			  card-next-schedule:: 2022-05-05T04:00:00.000Z
+			  card-last-reviewed:: 2022-05-05T01:21:44.617Z
+			  card-last-score:: 1
 				- vt.[(+with)]
 				- 1. 使认识, 介绍
 				  Philip became acquainted with Kathy.
@@ -49,13 +57,23 @@ status:: 正在读
 				  I acquainted him with the facts of the case.
 				  我让他熟悉了案情
 			- pore: *[pɒ:] #card 
-			  collapsed:: true
+			  card-last-interval:: 4
+			  card-repeats:: 1
+			  card-ease-factor:: 2.6
+			  card-next-schedule:: 2022-05-09T01:21:30.101Z
+			  card-last-reviewed:: 2022-05-05T01:21:30.105Z
+			  card-last-score:: 5
 				- n. 毛孔, 小孔, 气孔
 				  vi. 专心阅读, 细想, 钻研, 沉思, 注视
 				  Did you spend hours every day poring over a dictionary?
 				  vt. 使注视得
 			- absurd: [әb\`sˏd;әb\`sә:d] #card
-			  collapsed:: true
+			  card-last-interval:: -1
+			  card-repeats:: 1
+			  card-ease-factor:: 2.5
+			  card-next-schedule:: 2022-05-05T04:00:00.000Z
+			  card-last-reviewed:: 2022-05-05T01:21:16.380Z
+			  card-last-score:: 1
 				- a.
 				  1. 不合理的, 荒谬的; 可笑的, 愚蠢的
 				  It is absurd to go out in such terrible weather.
@@ -63,15 +81,39 @@ status:: 正在读
 				  His idea is absurd.
 				  他的想法是愚蠢可笑的。
 			- insatiable: [In\`seʃIәbḷ;in\`seiʃiәbl] #card
-			  collapsed:: true
+			  card-last-interval:: -1
+			  card-repeats:: 1
+			  card-ease-factor:: 2.5
+			  card-next-schedule:: 2022-05-05T04:00:00.000Z
+			  card-last-reviewed:: 2022-05-05T01:21:03.090Z
+			  card-last-score:: 1
 				- a.
 				  1. 永不满足的; 贪得无厌的[(+for/of)]
 				  They are insatiable of profits.
 				  他们一味追求利润。
 				  He had an insatiable love for music.
 				  他对音乐爱得入迷。
-			-
-	-
+			- prodigious: [prә\`dIdʒәs;prә\`didʒәs] #card
+				- a.
+				  1. 巨大的; 庞大的
+				  The cost has been prodigious.
+				  耗资巨大。
+				  2. 异常的; 惊人的; 奇妙的
+			- delusion: [dI\`luʒәn;di\`lu:ʒәn] #card
+				- n.
+				  1. 迷惑, 欺骗[U]
+				  2. 受骗, 上当[U]
+				  3. 误会, 错觉; 妄想症[C]
+				  Carson suffers from delusions.
+				  卡森患有妄想症。
+				  Tom was under the delusion that he was a VIP.
+				  汤姆怀有错觉, 认为自己是个要人。
+			- superstition: [ˏsupɚ\`stIʃәn;ˏsju:pә\`stiʃәn] #card
+				- n.[C][U]
+				  1. 迷信; 迷信行为
+				  He holds that ignorance leads to superstition.
+				  他认为无知会导致迷信。
+				  2. 盲目崇拜; 盲目恐惧
 	-
 	-
 	-
