@@ -48,6 +48,7 @@ status:: 正在学习
 			- 最好用==**英文**==
 - Geogebra进阶—使用命令
   id:: 626d23c2-0160-43e2-b378-b447d072ebf6
+  collapsed:: true
 	- **2.1 Geogebra指令 -（command）- 命令**
 	  collapsed:: true
 		- 优点：全面（比工具条多）、快捷、精确（比鼠标点更精确）、复杂
@@ -278,12 +279,49 @@ status:: 正在学习
 			- 变量可改变
 			- 属性（对象的颜色、可否显示等）可为变量
 			- **特殊指令**
+			  background-color:: #793e3e
 				- SlowPlot 缓慢绘制
 					- SlowPlot(sin(x)) - 动态的缓慢的绘制出`函数sin(x)`的图形
 		- 原动力
 			- Slider （滑动条）
 			- Point （动点）
+		- Slider （滑动条）
+			- 本质 - 是帮我们创建了一个`变量`
+				- 数值变量
+				- 角度变量
+			- 可以设置增量
+			- **属性：**
+			  background-color:: #793e3e
+				- 最大值、最小值、Increment - 增量
+				- Speed - 滑动条变化速度
+				- Repeat - 滑动条重复的方式
+				- 启动/停止动画
+				  background-color:: #793e3e
+					- 右击 -> 选AnimationOn（启动动画）
+					- 绘图区左下角，Play/Pause 按钮
+		- **再谈变量**
+			- FreeObject 自由变量
+				- a = 5
+				- A = (0,0)
+			- Dependent 依赖变量
+				- b = a+3 - b的值依赖a的值
+				- Line(A,B) - 这条线的值依赖AB两个点的位置
+			- 课件建构过程
+				- 从自由变量起
+				- 一步一步建立其他对象
+			- 变量的使用
+				- 构造其他变量
+				- 构造其他对象
+				- 设置对象的属性
+					- 变量用于属性
+						- 控制另一个Slider的速度
+						- 逻辑变量（复选框checkbox）
+							- 控制其他对象是否显示
+								- 设置一个布尔变量 `b = true`
+								- Advanced -> Condition to show -> 填入b
+								- 这样这个`b的☑（复选框）`就可以控制函数是否显示了
 	- 3.2 动点、轨迹
+		-
 	- 3.3 曲线、不等式
 	- 3.4 曲线欣赏
 	- 3.5 曲面

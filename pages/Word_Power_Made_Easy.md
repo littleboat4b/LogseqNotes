@@ -26,12 +26,25 @@ status:: 正在读
 		- HOW ADULTS STOP BUILDING THEIR VOCABULARIES
 		- WHY AGE MAKES LITTLE DIFFERENCE IN VOCABULARY BUILDING
 		- WHAT THIS BOOK CAN DO FOR YOU
+			- Two simple principles of the book:
+				- 1) words are the verbal symbols of ideas
+				- 2) the more ideas you are familiar with, the more words you know
+			- The approach:
+				- First, there will be a “teaser preview” in which the ideas are briefly hinted at(有暗示的预览)
+				- Then a “headline,” in which each idea is examined somewhat more closely（展示相关主题）
+				- Next a clear, detailed paragraph or more will analyze the idea in all its ramifications（展示分支）
+				- Finally the word itself, which you will meet only after you are completely familiar with the idea（熟悉这个主题后学习这个词汇）
+				- In the etymology (derivation of words) section, you will learn what Greek or Latin root gives the word its unique meaning and what other words contain the same, or related, roots（学习这个词的起源，以及相近、相关的词、词根）
 		- A NOTE ON TIME SCHEDULES
+			- Each session will take from thirty to forty-five minutes to learn (要每节花45分钟)
+			- Do one or two sessions at a time every day（每次学习1～2节，别贪多，但要每天都学）
+			- Finish the material in two to three months, give or take a few weeks either way （2～3个月可以学完）
 		- [[English New Word]]
 			- radical: [\`rædIkḷ;\`rædikәl] {{cloze a. 1. 根本的, 基本的; 彻底的}}
 			- discernible: [dI\`sˏnәbḷ;di\`sә:nәbl] {{cloze a. 1. 可识别的}}
 			- compulsive: [kәm\`pʌlsIv;kәm\`pʌlsiv] {{cloze a.1. 强迫的; 强制的}}
 			- senility: [sә\`nIlәtI;si\`niliti] {{cloze n.1. 高龄; 衰老; 年老糊涂}}
+			- teaser: [\`tizɚ;\`ti:zә] < {{cloze n.1. 戏弄者, 嘲弄者; 欺负他人者 2. 【口】难事, 难题}}
 			- obscure: [әb\`skjʊr;әb\`skjuә] [[card]]
 			  card-last-score:: 3
 			  card-repeats:: 1
@@ -39,6 +52,7 @@ status:: 正在读
 			  card-last-interval:: 4
 			  card-ease-factor:: 2.36
 			  card-last-reviewed:: 2022-05-04T20:20:20.268Z
+			  collapsed:: true
 				- a.
 				  1. 暗的, 黑暗的; 朦胧的
 				  The room is too obscure for reading.
@@ -52,6 +66,7 @@ status:: 正在读
 			  card-last-interval:: 4
 			  card-ease-factor:: 2.36
 			  card-last-reviewed:: 2022-05-05T20:19:21.394Z
+			  collapsed:: true
 				- vt.[(+with)]
 				- 1. 使认识, 介绍
 				  Philip became acquainted with Kathy.
@@ -66,6 +81,7 @@ status:: 正在读
 			  card-last-interval:: 4
 			  card-ease-factor:: 2.6
 			  card-last-reviewed:: 2022-05-05T01:21:30.105Z
+			  collapsed:: true
 				- n. 毛孔, 小孔, 气孔
 				  vi. 专心阅读, 细想, 钻研, 沉思, 注视
 				  Did you spend hours every day poring over a dictionary?
@@ -77,6 +93,7 @@ status:: 正在读
 			  card-last-interval:: -1
 			  card-ease-factor:: 2.5
 			  card-last-reviewed:: 2022-05-05T20:18:55.257Z
+			  collapsed:: true
 				- a.
 				  1. 不合理的, 荒谬的; 可笑的, 愚蠢的
 				  It is absurd to go out in such terrible weather.
@@ -90,6 +107,7 @@ status:: 正在读
 			  card-last-interval:: -1
 			  card-ease-factor:: 2.5
 			  card-last-reviewed:: 2022-05-05T20:18:46.577Z
+			  collapsed:: true
 				- a.
 				  1. 永不满足的; 贪得无厌的[(+for/of)]
 				  They are insatiable of profits.
@@ -103,6 +121,7 @@ status:: 正在读
 			  card-last-interval:: -1
 			  card-ease-factor:: 2.5
 			  card-last-reviewed:: 2022-05-05T20:19:36.263Z
+			  collapsed:: true
 				- a.
 				  1. 巨大的; 庞大的
 				  The cost has been prodigious.
@@ -115,6 +134,7 @@ status:: 正在读
 			  card-last-interval:: 4
 			  card-ease-factor:: 2.36
 			  card-last-reviewed:: 2022-05-05T20:18:05.587Z
+			  collapsed:: true
 				- n.
 				  1. 迷惑, 欺骗[U]
 				  2. 受骗, 上当[U]
@@ -130,16 +150,18 @@ status:: 正在读
 			  card-last-interval:: 4
 			  card-ease-factor:: 2.36
 			  card-last-reviewed:: 2022-05-05T20:18:14.129Z
+			  collapsed:: true
 				- n.[C][U]
 				  1. 迷信; 迷信行为
 				  He holds that ignorance leads to superstition.
 				  他认为无知会导致迷信。
 				  2. 盲目崇拜; 盲目恐惧
-	-
-	-
-	-
 	- id:: 62707813-9315-4f79-b447-84f18aad56a2
 	  3. How to Talk About Personality Types (Sessions 1–3)
+		- SESSION 1
+		- SESSION 2
+		- SESSION 3
+		- [[English New Word]]
 	- 4. How to Talk About Doctors (Sessions 4–6)
 	- 5. How to Talk About Various Practitioners (Sessions 7–10)
 	- 6. How to Talk About Science and Scientists (Sessions 11–13)
