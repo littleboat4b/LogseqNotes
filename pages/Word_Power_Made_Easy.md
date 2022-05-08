@@ -89,10 +89,10 @@ status:: 正在读
 			- absurd: [әb\`sˏd;әb\`sә:d] [[card]]
 			  card-last-score:: 1
 			  card-repeats:: 1
-			  card-next-schedule:: 2022-05-06T04:00:00.000Z
+			  card-next-schedule:: 2022-05-08T04:00:00.000Z
 			  card-last-interval:: -1
 			  card-ease-factor:: 2.5
-			  card-last-reviewed:: 2022-05-05T20:18:55.257Z
+			  card-last-reviewed:: 2022-05-08T02:34:11.961Z
 			  collapsed:: true
 				- a.
 				  1. 不合理的, 荒谬的; 可笑的, 愚蠢的
@@ -101,12 +101,12 @@ status:: 正在读
 				  His idea is absurd.
 				  他的想法是愚蠢可笑的。
 			- insatiable: [In\`seʃIәbḷ;in\`seiʃiәbl] [[card]]
-			  card-last-score:: 1
-			  card-repeats:: 1
-			  card-next-schedule:: 2022-05-06T04:00:00.000Z
-			  card-last-interval:: -1
-			  card-ease-factor:: 2.5
-			  card-last-reviewed:: 2022-05-05T20:18:46.577Z
+			  card-last-score:: 3
+			  card-repeats:: 2
+			  card-next-schedule:: 2022-05-12T02:34:01.176Z
+			  card-last-interval:: 4
+			  card-ease-factor:: 2.36
+			  card-last-reviewed:: 2022-05-08T02:34:01.180Z
 			  collapsed:: true
 				- a.
 				  1. 永不满足的; 贪得无厌的[(+for/of)]
@@ -117,10 +117,10 @@ status:: 正在读
 			- prodigious: [prә\`dIdʒәs;prә\`didʒәs] [[card]]
 			  card-last-score:: 1
 			  card-repeats:: 1
-			  card-next-schedule:: 2022-05-06T04:00:00.000Z
+			  card-next-schedule:: 2022-05-08T04:00:00.000Z
 			  card-last-interval:: -1
 			  card-ease-factor:: 2.5
-			  card-last-reviewed:: 2022-05-05T20:19:36.263Z
+			  card-last-reviewed:: 2022-05-08T02:34:20.928Z
 			  collapsed:: true
 				- a.
 				  1. 巨大的; 庞大的
