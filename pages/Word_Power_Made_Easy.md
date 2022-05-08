@@ -6,13 +6,14 @@ status:: 正在读
 - Part One: Getting Off to a Good Start
   id:: 6272cac5-ea41-40e6-98ba-fe0e3bd5eaed
 	- id:: 62707813-2a31-4956-bd16-cb6932b4d86a
+	  collapsed:: true
 	  1. How to Test Your Present Vocabulary
 		- A TEST OF VOCABULARY RANGE
 			- 0-11: below average - 10
 		- A TEST OF VERBAL SPEED
 			- 21–25 correct answers—75 points - 25 correct
 			- Up to 30 words:	25 points - 25 words
-		- My score: 75:	average
+		- **My score: 75:	average**
 		- A TEST OF VERBAL RESPONSIVENESS
 			- 11–20:	average- 20 correct
 		- VOCABULARY AND SUCCESS
@@ -21,6 +22,7 @@ status:: 正在读
 			  “Why do large vocabularies characterize executives and possibly outstanding men and women in other fields? The final answer seems to be that words are the instruments by means of which men and women grasp the thoughts of others and with which they do much of their own thinking. They are the tools of thought.”
 			  #+END_QUOTE
 	- id:: 62707813-0022-46ce-a12e-ea874e76dc46
+	  collapsed:: true
 	  2. How to Start Building Your Vocabulary
 		- HOW CHILDREN INCREASE THEIR VOCABULARIES
 		- HOW ADULTS STOP BUILDING THEIR VOCABULARIES
@@ -89,10 +91,10 @@ status:: 正在读
 			- absurd: [әb\`sˏd;әb\`sә:d] [[card]]
 			  card-last-score:: 1
 			  card-repeats:: 1
-			  card-next-schedule:: 2022-05-08T04:00:00.000Z
+			  card-next-schedule:: 2022-05-09T04:00:00.000Z
 			  card-last-interval:: -1
 			  card-ease-factor:: 2.5
-			  card-last-reviewed:: 2022-05-08T02:34:11.961Z
+			  card-last-reviewed:: 2022-05-08T10:53:28.541Z
 			  collapsed:: true
 				- a.
 				  1. 不合理的, 荒谬的; 可笑的, 愚蠢的
@@ -117,10 +119,10 @@ status:: 正在读
 			- prodigious: [prә\`dIdʒәs;prә\`didʒәs] [[card]]
 			  card-last-score:: 1
 			  card-repeats:: 1
-			  card-next-schedule:: 2022-05-08T04:00:00.000Z
+			  card-next-schedule:: 2022-05-09T04:00:00.000Z
 			  card-last-interval:: -1
 			  card-ease-factor:: 2.5
-			  card-last-reviewed:: 2022-05-08T02:34:20.928Z
+			  card-last-reviewed:: 2022-05-08T10:53:42.398Z
 			  collapsed:: true
 				- a.
 				  1. 巨大的; 庞大的
@@ -157,11 +159,290 @@ status:: 正在读
 				  他认为无知会导致迷信。
 				  2. 盲目崇拜; 盲目恐惧
 	- id:: 62707813-9315-4f79-b447-84f18aad56a2
+	  collapsed:: true
 	  3. How to Talk About Personality Types (Sessions 1–3)
 		- SESSION 1
+			- Idears
+			  collapsed:: true
+				- An egoist - me first
+					- egoist: [\`igoIst;\`egәuist] {{cloze n. 1. 利己主义者; 自我中心者; 自负的人}}
+					- aboveboard: [ә\`bʌv\`bord;ә\`bʌv\`bɔ:d] {{cloze ad. 1. 率直地; 光明正大地; 公开地}}
+				- An egotist - the height of conceit
+					- egotist:[\`igәtIst;\`egәutist] {{cloze n.1. 自大者; 自我中心的人}}
+					- amorous: [\`æmәrәs;\`æmәrәs] {{cloze a. 1. 色情的; 2. 恋爱的; 传情的; 多情的; 3. 热情的}}
+				- An altruist - let me help you
+					- altruist:[\`æltrʊˏIst;\`æltruist] {{cloze n.1. 利他主义者}}
+				- An introvert - leave me alone
+					- introvert:[\`Intrәˏvˏt;\`intrәuˏvә:t] {{cloze n.1. 内向的人}}
+				- An extrovert - let's do it together
+					- extrovert: [\`єkstrovˏt;\`ekstrәuvә:t] {{cloze n.1. 个性外向的人}}
+				- An ambivert - neither extreme
+					- ambivert:[\`æmbIvɚt;\`æmbivә:t]` {{cloze n.1. 【心】既外向又内向的人}}
+				- A misanthrope - people are no damn good
+					- misanthrope: [\`mIzәnˏθrop;\`mizәnθrәup] {{cloze n.
+					  1. 不愿与人来往者; 厌世者}}
+				- A misogynist - women are no damn good
+					- misogynist: [maI`sɑdʒInIst;mai`sɔdʒinist] {{cloze n.
+					  1. 【心】厌恶女人的人}}
+				- A misogamist - "marriage is an institution - and who wants to live in an institution"
+					- misogamist:[mI\`sɑgәmIst;mi\`sɔgәmist] {{cloze n. 1. 厌恶结婚的人}}
+				- An ascetic - "... that the flesh is heir to ..."
+					- ascetic:[ә\`sєtIk;ә\`setik] {{cloze n. 1. 禁欲主义者; 苦行者; 苦修者a. 1. 禁欲主义的; 苦行的}}
+			- Using the words
+			  collapsed:: true
+				- Can you pronounce the words?
+					- 1. egoist	EE′-gō-ist
+						- g. believes in self-advancement
+					- 2. egotist	EE′-gō-tist
+						- c. talks about accomplishments
+					- 3. altruist	AL′-tr-ist
+						- f. is interested in the welfare of others
+					- 4. introvert	IN′-trƏ-vurt′
+						- a. turns thoughts inward
+					- 5. extrovert	EKS′-trƏ-vurt′
+						- j. turns thoughts outward
+					- 6. ambivert	AM′-bƏ-vurt′
+						- h. turns thoughts both inward and outward
+					- 7. misanthrope	MIS′-Ən-thrōp′
+						- d. hates people
+					- 8. misogynist	mƏ-SOJ′-Ə-nist
+						- i. hates women
+					- 9. misogamist	mƏ-SOG′-Ə-mist
+						- b. hates marriage
+					- 10. ascetic	Ə-SET′-ik
+						- e. does not pursue pleasures of the flesh
+			- [[English New Word]]
+			  collapsed:: true
+				- heredity: [hә\`rєdәtI;hi\`rediti] [[card]]
+				  collapsed:: true
+					- n.
+					  1. 遗传[U]
+					  My height comes from my heredity.
+					  我的身高来自于遗传。
+				- ruthless: [\`ruθlIs;\`ru:θlis] [[card]]
+				  collapsed:: true
+					- a.
+					  1. 无情的, 残忍的
+					  2. 硬著心肠下定决心的, 坚决的
+					  We'll have to be ruthless if we want to eliminate unnecessary waste.
+					  如果我们要杜绝不必要的浪费, 就得硬著心肠做。
+					  形变: more ruthless; most ruthless
+				- conceit: [kәn\`sit;kәn\`si:t] [[card]] 
+				  collapsed:: true
+					- n.
+					  1. 自满, 自大, 自负[U]
+					  His conceit is intolerable.
+					  他的自负令人不能容忍。
+					  2. 幻想, 奇想; (诗中)夸张的比喻[C]
+					  3. 个人意见(或想法)[C]
+					  He jotted down the conceits of his idle hours.
+					  他记下了闲暇时想到的一些看法。
+					  4. 好评[U]
+					  I don't have much conceit of his poems.
+					  我对他的诗作没有什么好评。
+				- conquest: [\`kɑŋkwєst;\`kɔŋkwest] [[card]] 
+				  collapsed:: true
+					- n.
+					  1. 征服; 克服; 占领[U]
+					  The basic aim of this institution is the conquest of disease.
+					  本协会的基本宗旨是征服疾病。
+					  2. (由征服所得的)掠夺物, 缴获品, 占领地[C]
+					  The Romans extended their conquests to Britain.
+					  罗马人把征服范围扩大到了不列颠。
+					  3. 博得欢心, 赢得关注[C]
+					  The rich and handsome young man made a conquest of Jeanne.
+					  这位富裕而又英俊的年轻人赢得了琴的爱情。
+					  4. 【谑】(爱情的)俘虏[C]
+					  5. 【史】(大写)(诺曼人的)征服英国[the S]
+				- boastful: [\`bostfәl;\`bәustfәl] [[card]] 
+				  collapsed:: true
+					- a.
+					  1. 自夸的; 爱自夸的[(+of/about)]
+					  He is boastful of his learning.
+					  他总是夸耀自己的学识。
+				- obnoxious:[әb\`nɑkʃәs;әb\`nɔkʃәs][[card]]
+				  collapsed:: true
+					- a.
+					  1. 【文】令人非常不快的, 讨厌的, 可憎的
+					  an obnoxious smell
+					  一种难闻的气味
+					  形变: more obnoxious; most obnoxious
+				- monotonous:[mә\`nɑtәnәs;mә\`nɔtәnәs] [[card]] 
+				  collapsed:: true
+					- a.
+					  1. (声音)单调的, 无抑扬顿挫的
+					  The preacher's monotonous voice put me to sleep.
+					  传教士单调的声音催我入眠。
+					  2. 因单一而使人厌倦的; 无变化的; 无聊的
+					  The explorers lived on a monotonous diet of beans and rice.
+					  探险者靠吃豆子和米饭这些单调的食物为生。
+				- colony: [\`kɑlәnI;\`kɔlәni] [[card]] 
+				  collapsed:: true
+					- n.[C]
+					  1. 殖民地
+					  India was once a British colony.
+					  印度曾是英国的殖民地。
+					  2. 侨民; 侨居地; 聚居地
+					  This is the Chinese colony in New York.
+					  这是纽约华侨的聚居区。
+					  3. (人种, 宗教或职业相同的)聚居人群[G]
+					  4. 移民队, 殖民团[G]
+					  **5. 【生】集群; 群体; 菌落[G]
+					  A colony of gulls inhabits the island.
+					  一群海鸥栖息于这个岛上。**
+				- futile: [\`fjutḷ;\`fju:tail] [[card]] 
+				  collapsed:: true
+					- a.
+					  1. 无益的, 无效的, 无用的; 无希望的
+					  His efforts to save the business were futile.
+					  他挽救企业的努力未能奏效。
+					  **2. 不重要的, 微不足道的**
+					  3. 忙于小事的; 缺少目的的
+					  He lived a futile life.
+					  他一生过得庸庸碌碌。
+					  4. (人)愚蠢的, 没有出息的
+					  That futile young man does nothing but waste money.
+					  那个没出息的青年人只会浪费钱。
+				- nagging:[\`nægIŋ;\`nægiŋ] [[card]] 
+				  collapsed:: true
+					- a.
+					  1. 唠叨的; 挑剔的
+					  I have a nagging wife.
+					  我的妻子爱唠叨。
+					  2. 使人不得安宁的
+					  John has a number of nagging worries.
+					  约翰有不少牵肠挂肚的心事。
+				- solitude:[\`sɑlәˏtjud;\`sɔlitju:d] [[card]] 
+				  collapsed:: true
+					- n.
+					  1. 孤独; 寂寞; 隐居[U]
+					  They searched for a place where they could live in solitude.
+					  他们寻找一个可以过隐居生活的地方。
+					  2. 冷僻(处); 荒凉(之地)[C][U]
+				- crowd:[kraʊd;kraud] [[card]] 
+				  collapsed:: true
+					- n.
+					  1. 人群[C][G]
+					  There was a crowd of people in front of the town hall.
+					  市政大厅前有一群人。
+					  vt.
+					  1. 挤满
+					  Passengers crowded the platform.
+					  月台挤满了乘客。
+					  vi.
+					  1. 挤, 拥挤[Q]
+					  People crowded into the cinema.
+					  人们挤进电影院。
+				- cynical:[\`sInIkḷ;\`sinikәl] [[card]] 
+				  collapsed:: true
+					- a.
+					  1. 愤世嫉俗的; 怀疑人间有真诚善意的; 悲观的[(+about)]
+					  He's cynical about her motives. 他怀疑她的动机。
+					  She's cynical about recovering her lost watch. 她不相信能找回丢失的手表。
+					  2. 挖苦的, 冷嘲的
+					  cynical remarks  挖苦话
+					  3. (大写)犬儒主义的
+				- embitter:[Im\`bItɚ;im\`bitә] [[card]] 
+				  collapsed:: true
+					- vt.[H]
+					  1. 使难受, 使痛苦; 使有苦味
+					  He was embittered by repeated failures. 他因屡遭失败而痛苦。
+					  2. 使更苦; 使怨恨; 激怒
+				- mortal:[\`mɔrtḷ;\`mɔ:tl] [[card]] 
+				  collapsed:: true
+					- a.
+						- 1. 会死的; 死的; 临死的
+						  All things that live are mortal.所有生物都会死的。
+						  2. 人的, 凡人的[B]
+						  It's beyond mortal power to bring a dead man back to life. 要死人复活非凡人所能为。
+						  3. 致死的, 致命的
+						  He received a mortal blow. 他受到了致命的一击。
+						  4. 你死我活的, 不共戴天的[B]
+						  He is my mortal enemy. 他是我不共戴天的敌人。
+						  5. 极大的, 极度的[B]
+						  She lives in mortal terror of her husband's anger. 她极度害怕她丈夫发脾气。
+					- n.
+						- 1. 人, 凡人[C][P1]
+						  No mortal could have survived the fire. 没有人经历这场火灾而能生还。
+				- dim:[dIm;dim] [[card]]
+				  collapsed:: true
+					- a.
+					   1. 微暗的; 暗淡的
+					  The light is too dim for me to read.
+					  光线太暗, 我无法看书。
+					  2. 模糊的, 朦胧的
+					  A dim sound came from the next room.
+					  从隔壁房间隐约传来声音。
+					  3. (眼睛)模糊的, 看不清楚的
+					  Her eyesight grew dim with age.
+					  她的视力因年岁的增长而变差了。
+					  4. 【口】头脑迟钝的
+					  He is a bit dim about her sarcastic remarks.
+					  他不太领会她的挖苦话。
+					  5. 悲观的, 怀疑的
+				- scorn:[skɔrn;skɔ:n] [[card]]
+				  collapsed:: true
+					- n.
+						- 1. 轻蔑; 藐视[U][(+for)]
+						  The artist looked at her with scorn.
+						  艺术家以蔑视的眼光看著她。
+						  2. 嘲笑; 奚落[U]
+						  3. 藐视(或嘲笑)的对象[the S][(+of/to)]
+						  That guy is the scorn of the school.
+						  那家伙受到全校的鄙视。
+					- vt.
+						- 1. 轻蔑; 藐视
+						  You've no right to scorn a poor girl.
+						  你没有权利藐视一个穷女孩。
+						  2. 拒绝; 不屑做[+to-v][+v-ing]
+						  He scorned begging for help.
+						  他鄙视乞求援助。
+						  She scorned to reply to the charge.
+						  她不屑答覆那种指控。
+					- vi.
+						- 1. 表示轻蔑, 表示鄙视
+				- commitment:[kә\`mItmәnt;kә\`mitmәnt] [[card]] 
+				  collapsed:: true
+					- n.
+					  1. 托付, 交托; 委任[U]
+					  2. 下狱; 收监[U]
+					  3. 关进精神病院[U]
+					  4. 承诺, 保证; 承担的义务[U][C][(+to)]
+					  I felt I did not have to make such a commitment to them. 我觉得我没有必要对他们作出那样的承诺。
+					  5. 信奉; 支持; 献身[U][C][(+to)]
+					  My aunt has a sincere commitment to Buddhism. 我姑妈笃信佛教。
+					  6. 犯罪, 罪行[U][C]
+					  commitment of infanticide 杀婴
+				- austerity:[ɔ\`stєrәtI;ɔ:s\`teriti] [[card]] 
+				  collapsed:: true
+					- n.
+					  1. 严厉; 严格; 严酷[U]
+					  A peculiar austerity marked his judgments of modern life. 他对现代生活的批评带著一种特殊的苛刻。
+					  2. 朴素, 朴实[U]
+					  3. 苦行, 禁欲生活[P]
+					  early Christian austerities 早期基督教徒的苦行
+					  4. 紧缩, 严格的节制消费[U]
+				- contemplation:[ˏkɑntєm\`pleʃәn;ˏkɔntem\`pleiʃәn] [[card]] 
+				  collapsed:: true
+					- n.[U]
+					  1. 凝视; 沉思, 冥想
+					  She spent an hour in quiet contemplation. 她静静地沉思了一个小时。
+					  2. 深思熟虑, 研究
+					  He reached his decision after a good deal of contemplation. 他经过周密思考后作出了决定。
+					  3. 意图; 期望
+					  She bought three dresses in contemplation of her trip. 她为了作一次旅行买了三套衣服。
+				- abstinence:[\`æbstәnәns;\`æbstinәns] [[card]] 
+				  collapsed:: true
+					- n.[U]
+					  1.  (饮食及享乐方面的)节制; 禁饮; 戒酒[(+from)]
+					  protracted abstinence from soap  长期不用肥皂
+					  total abstinence from alcohol  绝对戒酒
+					  2. 【宗】禁食
 		- SESSION 2
+			- ORIGINS AND RELATED WORDS
+			- USING THE WORDS
+			- [[English New Word]]
 		- SESSION 3
-		- [[English New Word]]
 	- 4. How to Talk About Doctors (Sessions 4–6)
 	- 5. How to Talk About Various Practitioners (Sessions 7–10)
 	- 6. How to Talk About Science and Scientists (Sessions 11–13)
