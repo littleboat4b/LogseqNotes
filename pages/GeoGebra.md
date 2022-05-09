@@ -48,7 +48,6 @@ status:: 正在学习
 			- 最好用==**英文**==
 - Geogebra进阶—使用命令
   id:: 626d23c2-0160-43e2-b378-b447d072ebf6
-  collapsed:: true
 	- **2.1 Geogebra指令 -（command）- 命令**
 	  collapsed:: true
 		- 优点：全面（比工具条多）、快捷、精确（比鼠标点更精确）、复杂
@@ -109,7 +108,6 @@ status:: 正在学习
 				- 一般变量不要用x，y，z（除非在函数中）
 			-
 	- **2.3 几何对象的构建**
-	  collapsed:: true
 		- 点 - 最重要，构成其他对象的基础
 			- 点的表示
 				- `(x,y)` 直角坐标
@@ -158,7 +156,6 @@ status:: 正在学习
 			- `Circle(O,A,B)` 弧 {{cloze 过圆心O和AB两点做圆弧}}
 			- `CircumcircularArc(A,B,C)` {{cloze 过ABC三点做圆弧}}
 	- **2.4 几何对象的度量**
-	  collapsed:: true
 		- 常规度量
 			- `Distance()` 距离
 				- `Distantce(A,B)` - AB两点间的距离
@@ -197,7 +194,6 @@ status:: 正在学习
 				- f,g两条直线是否垂直，`ture or false`
 				- 可以使用符号`⟂`，用浮动键盘输入
 	- **2.5 几何对象的变换**
-	  collapsed:: true
 		- 变换
 		  collapsed:: true
 			- `Translate()` {{cloze 平移}}
@@ -224,7 +220,6 @@ status:: 正在学习
 				  CLOCK: [2022-05-03 Tue 17:05:05]
 				  :END:
 	- **2.6 函数与分段函数**
-	  collapsed:: true
 		- 函数的输入
 			- 一般输入（以下几种都可以）
 				- `x^2`, `f:x^2`, `f(x):x^2`, `f(x)=x^2`, `f(t)=t^2`
@@ -252,7 +247,6 @@ status:: 正在学习
 				- 或者： `|| (∨)`
 				- 非： `！(﹁)`
 	- **2.7 函数的根、极值**
-	  collapsed:: true
 		- Root(f) 零点
 			- 求`f函数`的根，函数不止一个根
 			- ComplexRoot(f) - 求`f函数`的复数根，函数不止一个根
@@ -261,7 +255,6 @@ status:: 正在学习
 		- Extremum(f) 极值点
 			- 求`f函数`的极值，极大和极小值
 	- **2.8 函数的导数、积分**
-	  collapsed:: true
 		- 导数
 			- f' 或 Derivative() 导数
 		- 积分
@@ -283,9 +276,11 @@ status:: 正在学习
 				- SlowPlot 缓慢绘制
 					- SlowPlot(sin(x)) - 动态的缓慢的绘制出`函数sin(x)`的图形
 		- 原动力
-			- Slider （滑动条）
-			- Point （动点）
-		- Slider （滑动条）
+		  id:: 6272ea2d-1f37-45e7-9877-c3c55e195db1
+			- Slider （滑动条） ((62748210-894e-40b5-a73d-36c7aeb1f369))
+			- Point （动点） ((627488dd-a622-4f96-88b8-a9eca5d9ceb9))
+		- ==Slider （滑动条）==
+		  id:: 62748210-894e-40b5-a73d-36c7aeb1f369
 			- 本质 - 是帮我们创建了一个`变量`
 				- 数值变量
 				- 角度变量
@@ -321,8 +316,55 @@ status:: 正在学习
 								- Advanced -> Condition to show -> 填入b
 								- 这样这个`b的☑（复选框）`就可以控制函数是否显示了
 	- 3.2 动点、轨迹
-		-
+		- ==Point - 动点==
+		  id:: 627488dd-a622-4f96-88b8-a9eca5d9ceb9
+		  Point - 对象上的点（动点/半自由点）
+		  是另一个**原动力** ((6272ea2d-1f37-45e7-9877-c3c55e195db1))
+		- **用动点产生轨迹**
+			- 跟踪功能
+			  background-color:: #793e3e
+			  id:: 627985d2-7b85-479a-9e11-af12b33e8a40
+				- 右击 -> Trace on (跟踪)
+				- Ctrl+F 刷新（当图形有变换时，刷新，产生新的跟踪轨迹）
+				- #+BEGIN_TIP
+				  右击 -> Animation on：可以让图自动运动，产生轨迹
+				  #+END_TIP
+			- 轨迹 Locus
+			  background-color:: #793e3e
+			  id:: 627985e1-d9fe-481f-bbb4-416d88ff4edb
+				- Locus(轨迹点, 控制点) -
+					- 轨迹点 - 需要产生轨迹的点
+					- 控制点 - 原始的点
+					- 由控制点产生轨迹点
+					- #+BEGIN_IMPORTANT
+					  Locus(M, C) - 可以固定轨迹，刷新后，轨迹不会消失
+					  #+END_IMPORTANT
+				- 构建顺序 Construction Protocol
+				  background-color:: #793e3e
+					- View -> Construction Protocol
+					- 可以查看所有objects的构造顺序
+					- 可以一步一步的显示构建的过程。
 	- 3.3 曲线、不等式
+		- 曲线 Curve
+		  点、线是Geogebra最重要的元素，有很多种方法产生曲线
+		- 曲线六法
+			- 函数 f(x)
+			- 跟踪 Trace On ((627985d2-7b85-479a-9e11-af12b33e8a40))
+			- 轨迹 Locus(A,B) ((627985e1-d9fe-481f-bbb4-416d88ff4edb))
+			- 隐式曲线（implicit curve）
+				- 由一个等式（方程）得到的曲线
+					- x^4+y^4=1
+					- x^3-y^2=0
+					- y=x^2(有时可理解为函数)
+			- 参数曲线
+				- 由参数方程对应的曲线
+					- 简单的
+						- (3cos(t), 2sin(t))
+						- (t;t)
+					- 一般的 Curve 曲线
+						- Curve(3t,5t^{2},t,-∞,∞)
+							- 注：Alt+U 输入 ∞
+			- 拟合曲线 Fit - 由多个点拟合（回归）成一个曲线
 	- 3.4 曲线欣赏
 	- 3.5 曲面
 	- 3.6 曲面欣赏
@@ -332,3 +374,4 @@ status:: 正在学习
   id:: 626d23dc-f9ec-4669-979e-01cd90c5f34a
 - Geogebra应用—交互性
   id:: 626d23eb-434a-43f1-8270-29888b8c3313
+-
