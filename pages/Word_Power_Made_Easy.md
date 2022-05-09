@@ -159,7 +159,6 @@ status:: 正在读
 				  他认为无知会导致迷信。
 				  2. 盲目崇拜; 盲目恐惧
 	- id:: 62707813-9315-4f79-b447-84f18aad56a2
-	  collapsed:: true
 	  3. How to Talk About Personality Types (Sessions 1–3)
 		- SESSION 1
 			- Idears
@@ -440,9 +439,176 @@ status:: 正在读
 					  2. 【宗】禁食
 		- SESSION 2
 			- ORIGINS AND RELATED WORDS
+				- the ego
+				  collapsed:: true
+					- `egoist` and `egotist`
+						- built on the same Latin root—the pronoun `ego`, meaning `I`.
+						- Keep the words differentiated in your own mind by thinking of the **t** in talk, and the additional t in ego**t**ist.
+					- `egocentric` (ee′-gō-SEN′-trik)
+						- you consider yourself the center of the universe—you are an extreme form of the egoist.
+						- a noun
+							- “What an egocentric her new roommate is!”
+						- an adjective
+							- “He is the most egocentric person I have ever met!”
+					- `egomaniac` (ee′-gō-MAY′-nee-ak)
+						- you carry egoism to such an extreme that your needs, desires, and interests have become a morbid obsession, a mania.
+						- `egomaniacal` (ee′-gō-mƏ-NĪ′-Ə-kƏl)
+							- `-al`, a common adjective suffix
+					- The `egoist` or `egotist` is obnoxious,
+					- the `egocentric` is intolerable,
+					- the `egomaniac` is dangerous and slightly mad.
+				- others
+					- In Latin, the word for `other` is `alter`
+					- `altruism` (AL′-tr-iz-Əm)
+						- the philosophy practiced by `altruists`, comes from one of the variant spellings of Latin alter, other.
+					- `altruistic` (al-tr-IS′-tik)
+						- actions look toward the benefit of others.
+					- `alternate` (AWL′-tƏr-nayt′)
+						- you skip one and take the other, so to speak, as when you play golf on `alternate` (AWL′-tƏr-nƏt) Saturdays.
+						- An `alternate` (AWL′-tƏr-nƏt) in a debate, contest, or convention is the other person who will take over if the original choice is unable to attend.
+						- if you have no alternative (awl-TUR′-nƏ-tiv), you have no other choice.
+					- `alteration` (awl′-tƏ-RAY′-shƏn)
+						- a change—a making into something other.
+					- `alter` (AWL′-tƏr)
+						- When you `alter` (AWL′-tƏr) your plans, you make other plans.
+					- `altercation` (awl′-tƏr-KAY′-shƏn)
+						- is a verbal dispute.
+						- When you have an altercation with someone, you have a violent disagreement, a “fight” with words.
+						- `Altercation`, by the way, is `stronger` than `quarrel` or `dispute`—the sentiment is more heated, the disagreement is likely to be angry or even hot-tempered, there may be recourse, if the disputants are human, to profanity or obscenity.
+						- You have `altercations`, in short, over pretty important issues, and the word implies that you get **quite excited**.
+					- Alter ego (AWL′-tƏr EE′-gō)
+						- which combines `alter`, `other`, with `ego`, `I, self,` generally refers to someone with whom you are so close that you both **do the same things**, think alike, react similarly, and are, in temperament, almost mirror images of each other.
+						- Any such friend is your other I, your other self, your alter ego.
+			- USING THE WORDS
+				- pronounce the words
+				  collapsed:: true
+					- 1. ego	EE′-gō
+					- 2. egocentric	ee-gō-SEN′-trik
+					- 3. egomaniac	ee-gō-MAY′-nee-ak
+					- 4. egomaniacal	ee′-gō-mƏ-NĪ′-Ə-kƏl
+					- 5. altruism	AL′-tr-iz-Əm
+					- 6. altruistic	al-tr-IS′-tik
+					- 7. to alternate (v.)	AWL′-tƏr-nayt′
+					- 8. alternate (adj. or noun)	AWL′-tƏr-nƏt
+					- 9. alternative	awl-TUR′-nƏ-tiv
+					- 10. alteration	awl′-tƏr-AY′-shƏn
+					- 11. to alter	AWL′-tƏr
+					- 12. altercation	awl′-tƏr-KAY′-shƏn
+					- 13. alter ego	AWL′-tƏr EE′-gō
+				- work with the words
+				  collapsed:: true
+					- 1. ego
+						- d. one’s concept of oneself
+					- 2. egocentric
+						- a. one who is excessively fixated on his own desires, needs, etc.
+						- utterly involved with oneself; self-centered
+					- 3. altruism
+						- f. philosophy of putting another’s welfare above one’s own
+					- 4. to alternate
+						- e. to take one, skip one, etc.
+					- 5. to alter
+						- b. to change
+					- 6. altercation
+						- c. argument
+						- a heated dispute
+					- 7. egomaniacal
+						- f. morbidly, obsessively wrapped up in oneself
+						- excessively, morbidly obsessed with one’s own needs, desires, or ambitions
+					- 8. altruistic
+						- c. interested in the welfare of others
+						- unselfish; more interested in the welfare of others than in one’s own
+					- 9. alternative
+						- e. a choice
+					- 10. alteration
+						- a. a change
+					- 11. alter ego
+						- d. one’s other self
+					- 12. alternate (adj.)
+						- b. other possible
+						- one who substitutes for another
+			- [[English New Word]]
+			  collapsed:: true
+				- excursion：[Ik\`skˏʒәn;ikskә:ʃәn] [[card]]
+				  collapsed:: true
+					- n.
+					  1. 远足; 短途旅行[C]
+					  We are planning for our excursion next week.
+					  我们正在为下周的远足作准备。
+					  We took the weekend excursion to the seashore.
+					  周末我们去海滨游玩了。
+					  2. 远足队, 游览团[C]
+					  3. 离题[U][(+from)]
+					  Your comments are an excursion from the major theme.
+					  你的话偏离了主题。
+					  excursion from the major theme
+					  偏离主题
+				- denote:[dI\`not;di\`nәut] [[card]]
+				  collapsed:: true
+					- vt.
+					  1. 表示; 预示; (符号等)代表
+					  Dark clouds denote rain.
+					  乌云是下雨的预兆。
+					  2. 意思是
+					  The word "dentist" denotes a doctor whose work is the care of teeth.
+					  "dentist"一词的意思是牙科医生。
+					  3. 【逻】指称
+				- morbid:[\`mɔrbId;\`mɔ:bid] [[card]] 
+				  collapsed:: true
+					- a.
+					  1. 疾病的; 疾病所致的
+					  a morbid growth 一种疾病所致的赘生物
+					  2. 病变部位的; 病理的
+					  morbid anatomy 病理解剖
+					  3. 病态的; 【口】忧郁的
+					  a morbid liking for horrors 对恐怖片病态的喜爱
+					  4. 可怖的; 令人厌恶的
+					  the morbid details of a story 故事中令人毛骨悚然的细节
+				- dispute:[dI\`spjut;di\`spju:t] [[card]] 
+				  collapsed:: true
+					- vi.
+					  1. 争论; 争执[(+about/on/over/with/against)]
+					  The two countries disputed for years over a small strip of land on their border. 这两个国家为了边界上一块土地已经争执多年。
+					  It is ridiculous to dispute about such things. 争论这类事情真是可笑。
+					- vt.
+					  1. 争论; 争执[+wh-]
+					  The couple disputed where to spend the holiday. 夫妻俩为上哪儿度假而发生争论。
+					  2. 对…提出质疑
+					  They disputed the election results. 他们对选举结果提出异议。
+					  3. 阻止, 抵抗
+					  4. 争夺(土地, 胜利等)
+					  The two teams were disputing the cup.两队正在争夺奖杯。
+					- n.
+					  1. 争论; 争执; 争端[C][U][(+about/over/with)]
+					  The dispute was settled last week. 争端在上周解决了。
+				- sentiment:[\`sєntәmәnt;\`sentimәnt][[card]]
+				  collapsed:: true
+					- n.
+					  1. 感情, 心情; 情操[U][C]
+					  The song aroused patriotic sentiment. 这首歌唤起了爱国情操。
+					  2. 情绪[C][U][(+for/towards)]
+					  They have hostile sentiments towards us. 他们对我们怀有敌意。
+					  3. 感伤, 多愁善感[U][C]
+					  She is a woman of sentiment. 她是一个多愁善感的女人。
+					  4. 意见, 观点[C][P1][(+on)]
+					  I share your sentiments on this matter. 在这件事上我与你意见一致。
+					  5. 简单的致词; 感想[S]
+					  Mr.Jones was called on for a sentiment. 琼斯先生应邀发表感想。
+				- inferior:\[In\`fIrIɚ;in\`fiәriә] [[card]] 
+				  collapsed:: true
+					- a.[Z]
+					  1. (地位等)低等的; 下级的; 低于…的[(+to)]
+					  2. (质量等)次的; 较差的; 次于…的[(+to)]
+					  Synthetic fabric is inferior to cotton fabric. 合成纤维织物不如棉织品好。
+					  3. (位置)下方的
+					- n.[C]
+					  1. (地位等)低于他人者; 部下, 属下
+					  The manager is friendly with his inferiors. 经理对他的部属很友好。
+					  2. 次品
+		- SESSION 3
+			- ORIGINS AND RELATED WORDS
+			- REVIEW OF ETYMOLOGY
 			- USING THE WORDS
 			- [[English New Word]]
-		- SESSION 3
 	- 4. How to Talk About Doctors (Sessions 4–6)
 	- 5. How to Talk About Various Practitioners (Sessions 7–10)
 	- 6. How to Talk About Science and Scientists (Sessions 11–13)
