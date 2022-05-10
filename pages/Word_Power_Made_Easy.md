@@ -49,11 +49,11 @@ status:: 正在读
 			- teaser: [\`tizɚ;\`ti:zә] < {{cloze n.1. 戏弄者, 嘲弄者; 欺负他人者 2. 【口】难事, 难题}}
 			- obscure: [әb\`skjʊr;әb\`skjuә] [[card]]
 			  card-last-score:: 3
-			  card-repeats:: 1
-			  card-next-schedule:: 2022-05-08T20:20:20.263Z
+			  card-repeats:: 2
+			  card-next-schedule:: 2022-05-14T13:54:32.464Z
 			  card-last-interval:: 4
-			  card-ease-factor:: 2.36
-			  card-last-reviewed:: 2022-05-04T20:20:20.268Z
+			  card-ease-factor:: 2.22
+			  card-last-reviewed:: 2022-05-10T13:54:32.465Z
 			  collapsed:: true
 				- a.
 				  1. 暗的, 黑暗的; 朦胧的
@@ -62,12 +62,12 @@ status:: 正在读
 				  2. 模糊的; 含糊不清的; 晦涩的, 难解的[(+to)]
 				  The meaning of the passage is obscure.
 			- acquaint: [ә\`kwent;ә\`kweint] [[card]]
-			  card-last-score:: 3
-			  card-repeats:: 2
-			  card-next-schedule:: 2022-05-09T20:19:21.393Z
-			  card-last-interval:: 4
-			  card-ease-factor:: 2.36
-			  card-last-reviewed:: 2022-05-05T20:19:21.394Z
+			  card-last-score:: 5
+			  card-repeats:: 3
+			  card-next-schedule:: 2022-05-20T09:52:03.166Z
+			  card-last-interval:: 9.84
+			  card-ease-factor:: 2.46
+			  card-last-reviewed:: 2022-05-10T13:52:03.167Z
 			  collapsed:: true
 				- vt.[(+with)]
 				- 1. 使认识, 介绍
@@ -78,23 +78,23 @@ status:: 正在读
 				  我让他熟悉了案情
 			- pore: *[pɒ:] [[card]]
 			  card-last-score:: 5
-			  card-repeats:: 1
-			  card-next-schedule:: 2022-05-09T01:21:30.101Z
+			  card-repeats:: 2
+			  card-next-schedule:: 2022-05-14T13:57:06.511Z
 			  card-last-interval:: 4
-			  card-ease-factor:: 2.6
-			  card-last-reviewed:: 2022-05-05T01:21:30.105Z
+			  card-ease-factor:: 2.7
+			  card-last-reviewed:: 2022-05-10T13:57:06.512Z
 			  collapsed:: true
 				- n. 毛孔, 小孔, 气孔
 				  vi. 专心阅读, 细想, 钻研, 沉思, 注视
 				  Did you spend hours every day poring over a dictionary?
 				  vt. 使注视得
 			- absurd: [әb\`sˏd;әb\`sә:d] [[card]]
-			  card-last-score:: 1
-			  card-repeats:: 1
-			  card-next-schedule:: 2022-05-09T04:00:00.000Z
-			  card-last-interval:: -1
-			  card-ease-factor:: 2.5
-			  card-last-reviewed:: 2022-05-08T10:53:28.541Z
+			  card-last-score:: 3
+			  card-repeats:: 2
+			  card-next-schedule:: 2022-05-14T16:49:47.604Z
+			  card-last-interval:: 4.14
+			  card-ease-factor:: 2.36
+			  card-last-reviewed:: 2022-05-10T13:49:47.605Z
 			  collapsed:: true
 				- a.
 				  1. 不合理的, 荒谬的; 可笑的, 愚蠢的
@@ -117,12 +117,12 @@ status:: 正在读
 				  He had an insatiable love for music.
 				  他对音乐爱得入迷。
 			- prodigious: [prә\`dIdʒәs;prә\`didʒәs] [[card]]
-			  card-last-score:: 1
-			  card-repeats:: 1
-			  card-next-schedule:: 2022-05-09T04:00:00.000Z
-			  card-last-interval:: -1
-			  card-ease-factor:: 2.5
-			  card-last-reviewed:: 2022-05-08T10:53:42.398Z
+			  card-last-score:: 3
+			  card-repeats:: 2
+			  card-next-schedule:: 2022-05-14T16:56:36.004Z
+			  card-last-interval:: 4.13
+			  card-ease-factor:: 2.36
+			  card-last-reviewed:: 2022-05-10T13:56:36.005Z
 			  collapsed:: true
 				- a.
 				  1. 巨大的; 庞大的
@@ -130,12 +130,12 @@ status:: 正在读
 				  耗资巨大。
 				  2. 异常的; 惊人的; 奇妙的
 			- delusion: [dI\`luʒәn;di\`lu:ʒәn] [[card]]
-			  card-last-score:: 3
-			  card-repeats:: 1
-			  card-next-schedule:: 2022-05-09T20:18:05.583Z
+			  card-last-score:: 5
+			  card-repeats:: 2
+			  card-next-schedule:: 2022-05-14T13:52:17.960Z
 			  card-last-interval:: 4
-			  card-ease-factor:: 2.36
-			  card-last-reviewed:: 2022-05-05T20:18:05.587Z
+			  card-ease-factor:: 2.46
+			  card-last-reviewed:: 2022-05-10T13:52:17.964Z
 			  collapsed:: true
 				- n.
 				  1. 迷惑, 欺骗[U]
@@ -146,12 +146,12 @@ status:: 正在读
 				  Tom was under the delusion that he was a VIP.
 				  汤姆怀有错觉, 认为自己是个要人。
 			- superstition: [ˏsupɚ\`stIʃәn;ˏsju:pә\`stiʃәn] [[card]]
-			  card-last-score:: 3
-			  card-repeats:: 1
-			  card-next-schedule:: 2022-05-09T20:18:14.128Z
+			  card-last-score:: 5
+			  card-repeats:: 2
+			  card-next-schedule:: 2022-05-14T13:49:37.977Z
 			  card-last-interval:: 4
-			  card-ease-factor:: 2.36
-			  card-last-reviewed:: 2022-05-05T20:18:14.129Z
+			  card-ease-factor:: 2.46
+			  card-last-reviewed:: 2022-05-10T13:49:37.986Z
 			  collapsed:: true
 				- n.[C][U]
 				  1. 迷信; 迷信行为
@@ -213,12 +213,24 @@ status:: 正在读
 			- [[English New Word]]
 			  collapsed:: true
 				- heredity: [hә\`rєdәtI;hi\`rediti] [[card]]
+				  card-last-interval:: 4.13
+				  card-repeats:: 1
+				  card-ease-factor:: 2.36
+				  card-next-schedule:: 2022-05-14T16:56:15.654Z
+				  card-last-reviewed:: 2022-05-10T13:56:15.658Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- n.
 					  1. 遗传[U]
 					  My height comes from my heredity.
 					  我的身高来自于遗传。
 				- ruthless: [\`ruθlIs;\`ru:θlis] [[card]]
+				  card-last-interval:: 4
+				  card-repeats:: 1
+				  card-ease-factor:: 2.6
+				  card-next-schedule:: 2022-05-14T13:51:53.835Z
+				  card-last-reviewed:: 2022-05-10T13:51:53.836Z
+				  card-last-score:: 5
 				  collapsed:: true
 					- a.
 					  1. 无情的, 残忍的
@@ -227,6 +239,12 @@ status:: 正在读
 					  如果我们要杜绝不必要的浪费, 就得硬著心肠做。
 					  形变: more ruthless; most ruthless
 				- conceit: [kәn\`sit;kәn\`si:t] [[card]] 
+				  card-last-interval:: -1
+				  card-repeats:: 1
+				  card-ease-factor:: 2.5
+				  card-next-schedule:: 2022-05-11T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-10T13:53:10.000Z
+				  card-last-score:: 1
 				  collapsed:: true
 					- n.
 					  1. 自满, 自大, 自负[U]
@@ -240,6 +258,12 @@ status:: 正在读
 					  I don't have much conceit of his poems.
 					  我对他的诗作没有什么好评。
 				- conquest: [\`kɑŋkwєst;\`kɔŋkwest] [[card]] 
+				  card-last-interval:: 4.14
+				  card-repeats:: 1
+				  card-ease-factor:: 2.6
+				  card-next-schedule:: 2022-05-14T16:58:09.533Z
+				  card-last-reviewed:: 2022-05-10T13:58:09.534Z
+				  card-last-score:: 5
 				  collapsed:: true
 					- n.
 					  1. 征服; 克服; 占领[U]
@@ -254,12 +278,24 @@ status:: 正在读
 					  4. 【谑】(爱情的)俘虏[C]
 					  5. 【史】(大写)(诺曼人的)征服英国[the S]
 				- boastful: [\`bostfәl;\`bәustfәl] [[card]] 
+				  card-last-interval:: 4
+				  card-repeats:: 1
+				  card-ease-factor:: 2.6
+				  card-next-schedule:: 2022-05-14T13:56:29.088Z
+				  card-last-reviewed:: 2022-05-10T13:56:29.089Z
+				  card-last-score:: 5
 				  collapsed:: true
 					- a.
 					  1. 自夸的; 爱自夸的[(+of/about)]
 					  He is boastful of his learning.
 					  他总是夸耀自己的学识。
 				- obnoxious:[әb\`nɑkʃәs;әb\`nɔkʃәs][[card]]
+				  card-last-interval:: 4.14
+				  card-repeats:: 1
+				  card-ease-factor:: 2.36
+				  card-next-schedule:: 2022-05-14T16:51:20.136Z
+				  card-last-reviewed:: 2022-05-10T13:51:20.138Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- a.
 					  1. 【文】令人非常不快的, 讨厌的, 可憎的
@@ -267,6 +303,12 @@ status:: 正在读
 					  一种难闻的气味
 					  形变: more obnoxious; most obnoxious
 				- monotonous:[mә\`nɑtәnәs;mә\`nɔtәnәs] [[card]] 
+				  card-last-interval:: -1
+				  card-repeats:: 1
+				  card-ease-factor:: 2.5
+				  card-next-schedule:: 2022-05-11T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-10T13:50:23.589Z
+				  card-last-score:: 1
 				  collapsed:: true
 					- a.
 					  1. (声音)单调的, 无抑扬顿挫的
@@ -276,6 +318,12 @@ status:: 正在读
 					  The explorers lived on a monotonous diet of beans and rice.
 					  探险者靠吃豆子和米饭这些单调的食物为生。
 				- colony: [\`kɑlәnI;\`kɔlәni] [[card]] 
+				  card-last-interval:: 4
+				  card-repeats:: 1
+				  card-ease-factor:: 2.6
+				  card-next-schedule:: 2022-05-14T13:54:19.813Z
+				  card-last-reviewed:: 2022-05-10T13:54:19.814Z
+				  card-last-score:: 5
 				  collapsed:: true
 					- n.[C]
 					  1. 殖民地
@@ -290,6 +338,12 @@ status:: 正在读
 					  A colony of gulls inhabits the island.
 					  一群海鸥栖息于这个岛上。**
 				- futile: [\`fjutḷ;\`fju:tail] [[card]] 
+				  card-last-interval:: -1
+				  card-repeats:: 1
+				  card-ease-factor:: 2.5
+				  card-next-schedule:: 2022-05-11T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-10T13:58:03.732Z
+				  card-last-score:: 1
 				  collapsed:: true
 					- a.
 					  1. 无益的, 无效的, 无用的; 无希望的
@@ -303,6 +357,12 @@ status:: 正在读
 					  That futile young man does nothing but waste money.
 					  那个没出息的青年人只会浪费钱。
 				- nagging:[\`nægIŋ;\`nægiŋ] [[card]] 
+				  card-last-interval:: -1
+				  card-repeats:: 1
+				  card-ease-factor:: 2.5
+				  card-next-schedule:: 2022-05-11T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-10T13:55:32.183Z
+				  card-last-score:: 1
 				  collapsed:: true
 					- a.
 					  1. 唠叨的; 挑剔的
@@ -312,6 +372,12 @@ status:: 正在读
 					  John has a number of nagging worries.
 					  约翰有不少牵肠挂肚的心事。
 				- solitude:[\`sɑlәˏtjud;\`sɔlitju:d] [[card]] 
+				  card-last-interval:: 4.28
+				  card-repeats:: 1
+				  card-ease-factor:: 2.36
+				  card-next-schedule:: 2022-05-14T19:53:45.695Z
+				  card-last-reviewed:: 2022-05-10T13:53:45.700Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- n.
 					  1. 孤独; 寂寞; 隐居[U]
@@ -319,6 +385,12 @@ status:: 正在读
 					  他们寻找一个可以过隐居生活的地方。
 					  2. 冷僻(处); 荒凉(之地)[C][U]
 				- crowd:[kraʊd;kraud] [[card]] 
+				  card-last-interval:: 4
+				  card-repeats:: 1
+				  card-ease-factor:: 2.6
+				  card-next-schedule:: 2022-05-14T13:50:53.918Z
+				  card-last-reviewed:: 2022-05-10T13:50:53.920Z
+				  card-last-score:: 5
 				  collapsed:: true
 					- n.
 					  1. 人群[C][G]
@@ -333,6 +405,12 @@ status:: 正在读
 					  People crowded into the cinema.
 					  人们挤进电影院。
 				- cynical:[\`sInIkḷ;\`sinikәl] [[card]] 
+				  card-last-interval:: -1
+				  card-repeats:: 1
+				  card-ease-factor:: 2.5
+				  card-next-schedule:: 2022-05-11T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-10T13:53:22.959Z
+				  card-last-score:: 1
 				  collapsed:: true
 					- a.
 					  1. 愤世嫉俗的; 怀疑人间有真诚善意的; 悲观的[(+about)]
@@ -342,12 +420,24 @@ status:: 正在读
 					  cynical remarks  挖苦话
 					  3. (大写)犬儒主义的
 				- embitter:[Im\`bItɚ;im\`bitә] [[card]] 
+				  card-last-interval:: 4
+				  card-repeats:: 1
+				  card-ease-factor:: 2.6
+				  card-next-schedule:: 2022-05-14T13:54:08.812Z
+				  card-last-reviewed:: 2022-05-10T13:54:08.813Z
+				  card-last-score:: 5
 				  collapsed:: true
 					- vt.[H]
 					  1. 使难受, 使痛苦; 使有苦味
 					  He was embittered by repeated failures. 他因屡遭失败而痛苦。
 					  2. 使更苦; 使怨恨; 激怒
 				- mortal:[\`mɔrtḷ;\`mɔ:tl] [[card]] 
+				  card-last-interval:: -1
+				  card-repeats:: 1
+				  card-ease-factor:: 2.5
+				  card-next-schedule:: 2022-05-11T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-10T13:58:26.962Z
+				  card-last-score:: 1
 				  collapsed:: true
 					- a.
 						- 1. 会死的; 死的; 临死的
@@ -364,6 +454,12 @@ status:: 正在读
 						- 1. 人, 凡人[C][P1]
 						  No mortal could have survived the fire. 没有人经历这场火灾而能生还。
 				- dim:[dIm;dim] [[card]]
+				  card-last-interval:: 4.14
+				  card-repeats:: 1
+				  card-ease-factor:: 2.6
+				  card-next-schedule:: 2022-05-14T16:58:15.783Z
+				  card-last-reviewed:: 2022-05-10T13:58:15.787Z
+				  card-last-score:: 5
 				  collapsed:: true
 					- a.
 					   1. 微暗的; 暗淡的
@@ -380,6 +476,12 @@ status:: 正在读
 					  他不太领会她的挖苦话。
 					  5. 悲观的, 怀疑的
 				- scorn:[skɔrn;skɔ:n] [[card]]
+				  card-last-interval:: -1
+				  card-repeats:: 1
+				  card-ease-factor:: 2.5
+				  card-next-schedule:: 2022-05-11T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-10T13:52:49.472Z
+				  card-last-score:: 1
 				  collapsed:: true
 					- n.
 						- 1. 轻蔑; 藐视[U][(+for)]
@@ -401,6 +503,12 @@ status:: 正在读
 					- vi.
 						- 1. 表示轻蔑, 表示鄙视
 				- commitment:[kә\`mItmәnt;kә\`mitmәnt] [[card]] 
+				  card-last-interval:: 4
+				  card-repeats:: 1
+				  card-ease-factor:: 2.6
+				  card-next-schedule:: 2022-05-14T13:56:21.685Z
+				  card-last-reviewed:: 2022-05-10T13:56:21.687Z
+				  card-last-score:: 5
 				  collapsed:: true
 					- n.
 					  1. 托付, 交托; 委任[U]
@@ -413,6 +521,12 @@ status:: 正在读
 					  6. 犯罪, 罪行[U][C]
 					  commitment of infanticide 杀婴
 				- austerity:[ɔ\`stєrәtI;ɔ:s\`teriti] [[card]] 
+				  card-last-interval:: -1
+				  card-repeats:: 1
+				  card-ease-factor:: 2.5
+				  card-next-schedule:: 2022-05-11T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-10T13:51:45.153Z
+				  card-last-score:: 1
 				  collapsed:: true
 					- n.
 					  1. 严厉; 严格; 严酷[U]
@@ -422,6 +536,12 @@ status:: 正在读
 					  early Christian austerities 早期基督教徒的苦行
 					  4. 紧缩, 严格的节制消费[U]
 				- contemplation:[ˏkɑntєm\`pleʃәn;ˏkɔntem\`pleiʃәn] [[card]] 
+				  card-last-interval:: -1
+				  card-repeats:: 1
+				  card-ease-factor:: 2.5
+				  card-next-schedule:: 2022-05-11T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-10T13:57:40.836Z
+				  card-last-score:: 1
 				  collapsed:: true
 					- n.[U]
 					  1. 凝视; 沉思, 冥想
@@ -431,6 +551,12 @@ status:: 正在读
 					  3. 意图; 期望
 					  She bought three dresses in contemplation of her trip. 她为了作一次旅行买了三套衣服。
 				- abstinence:[\`æbstәnәns;\`æbstinәns] [[card]] 
+				  card-last-interval:: -1
+				  card-repeats:: 1
+				  card-ease-factor:: 2.5
+				  card-next-schedule:: 2022-05-11T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-10T13:55:03.132Z
+				  card-last-score:: 1
 				  collapsed:: true
 					- n.[U]
 					  1.  (饮食及享乐方面的)节制; 禁饮; 戒酒[(+from)]
@@ -529,6 +655,12 @@ status:: 正在读
 			- [[English New Word]]
 			  collapsed:: true
 				- excursion：[Ik\`skˏʒәn;ikskә:ʃәn] [[card]]
+				  card-last-interval:: 4.28
+				  card-repeats:: 1
+				  card-ease-factor:: 2.36
+				  card-next-schedule:: 2022-05-14T19:53:59.396Z
+				  card-last-reviewed:: 2022-05-10T13:53:59.397Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- n.
 					  1. 远足; 短途旅行[C]
@@ -543,6 +675,12 @@ status:: 正在读
 					  excursion from the major theme
 					  偏离主题
 				- denote:[dI\`not;di\`nәut] [[card]]
+				  card-last-interval:: -1
+				  card-repeats:: 1
+				  card-ease-factor:: 2.5
+				  card-next-schedule:: 2022-05-11T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-10T13:53:00.035Z
+				  card-last-score:: 1
 				  collapsed:: true
 					- vt.
 					  1. 表示; 预示; (符号等)代表
@@ -553,6 +691,12 @@ status:: 正在读
 					  "dentist"一词的意思是牙科医生。
 					  3. 【逻】指称
 				- morbid:[\`mɔrbId;\`mɔ:bid] [[card]] 
+				  card-last-interval:: -1
+				  card-repeats:: 1
+				  card-ease-factor:: 2.5
+				  card-next-schedule:: 2022-05-11T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-10T13:57:02.542Z
+				  card-last-score:: 1
 				  collapsed:: true
 					- a.
 					  1. 疾病的; 疾病所致的
@@ -564,6 +708,12 @@ status:: 正在读
 					  4. 可怖的; 令人厌恶的
 					  the morbid details of a story 故事中令人毛骨悚然的细节
 				- dispute:[dI\`spjut;di\`spju:t] [[card]] 
+				  card-last-interval:: 4
+				  card-repeats:: 1
+				  card-ease-factor:: 2.6
+				  card-next-schedule:: 2022-05-14T13:52:28.328Z
+				  card-last-reviewed:: 2022-05-10T13:52:28.329Z
+				  card-last-score:: 5
 				  collapsed:: true
 					- vi.
 					  1. 争论; 争执[(+about/on/over/with/against)]
@@ -581,6 +731,12 @@ status:: 正在读
 					  1. 争论; 争执; 争端[C][U][(+about/over/with)]
 					  The dispute was settled last week. 争端在上周解决了。
 				- sentiment:[\`sєntәmәnt;\`sentimәnt][[card]]
+				  card-last-interval:: 4.13
+				  card-repeats:: 1
+				  card-ease-factor:: 2.36
+				  card-next-schedule:: 2022-05-14T16:55:45.845Z
+				  card-last-reviewed:: 2022-05-10T13:55:45.846Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- n.
 					  1. 感情, 心情; 情操[U][C]
@@ -594,6 +750,12 @@ status:: 正在读
 					  5. 简单的致词; 感想[S]
 					  Mr.Jones was called on for a sentiment. 琼斯先生应邀发表感想。
 				- inferior:\[In\`fIrIɚ;in\`fiәriә] [[card]] 
+				  card-last-interval:: -1
+				  card-repeats:: 1
+				  card-ease-factor:: 2.5
+				  card-next-schedule:: 2022-05-11T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-10T13:55:24.642Z
+				  card-last-score:: 1
 				  collapsed:: true
 					- a.[Z]
 					  1. (地位等)低等的; 下级的; 低于…的[(+to)]
