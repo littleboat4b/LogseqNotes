@@ -178,11 +178,9 @@ status:: 正在读
 				- An ambivert - neither extreme
 					- ambivert:[\`æmbIvɚt;\`æmbivә:t]` {{cloze n.1. 【心】既外向又内向的人}}
 				- A misanthrope - people are no damn good
-					- misanthrope: [\`mIzәnˏθrop;\`mizәnθrәup] {{cloze n.
-					  1. 不愿与人来往者; 厌世者}}
+					- misanthrope: [\`mIzәnˏθrop;\`mizәnθrәup]  {{cloze n. 1. 不愿与人来往者; 厌世者}}
 				- A misogynist - women are no damn good
-					- misogynist: [maI`sɑdʒInIst;mai`sɔdʒinist] {{cloze n.
-					  1. 【心】厌恶女人的人}}
+					- misogynist: [maI\`sɑdʒInIst;mai\`sɔdʒinist] {{cloze n.1. 【心】厌恶女人的人}}
 				- A misogamist - "marriage is an institution - and who wants to live in an institution"
 					- misogamist:[mI\`sɑgәmIst;mi\`sɔgәmist] {{cloze n. 1. 厌恶结婚的人}}
 				- An ascetic - "... that the flesh is heir to ..."
@@ -566,7 +564,6 @@ status:: 正在读
 		- SESSION 2
 			- ORIGINS AND RELATED WORDS
 				- the ego
-				  collapsed:: true
 					- `egoist` and `egotist`
 						- built on the same Latin root—the pronoun `ego`, meaning `I`.
 						- Keep the words differentiated in your own mind by thinking of the **t** in talk, and the additional t in ego**t**ist.
@@ -592,7 +589,7 @@ status:: 正在读
 					- `alternate` (AWL′-tƏr-nayt′)
 						- you skip one and take the other, so to speak, as when you play golf on `alternate` (AWL′-tƏr-nƏt) Saturdays.
 						- An `alternate` (AWL′-tƏr-nƏt) in a debate, contest, or convention is the other person who will take over if the original choice is unable to attend.
-						- if you have no alternative (awl-TUR′-nƏ-tiv), you have no other choice.
+						- if you have no `alternative` (awl-TUR′-nƏ-tiv), you have no other choice.
 					- `alteration` (awl′-tƏ-RAY′-shƏn)
 						- a change—a making into something other.
 					- `alter` (AWL′-tƏr)
@@ -607,7 +604,6 @@ status:: 正在读
 						- Any such friend is your other I, your other self, your alter ego.
 			- USING THE WORDS
 				- pronounce the words
-				  collapsed:: true
 					- 1. ego	EE′-gō
 					- 2. egocentric	ee-gō-SEN′-trik
 					- 3. egomaniac	ee-gō-MAY′-nee-ak
@@ -622,7 +618,6 @@ status:: 正在读
 					- 12. altercation	awl′-tƏr-KAY′-shƏn
 					- 13. alter ego	AWL′-tƏr EE′-gō
 				- work with the words
-				  collapsed:: true
 					- 1. ego
 						- d. one’s concept of oneself
 					- 2. egocentric
@@ -768,9 +763,13 @@ status:: 正在读
 					  2. 次品
 		- SESSION 3
 			- ORIGINS AND RELATED WORDS
+				-
 			- REVIEW OF ETYMOLOGY
+				-
 			- USING THE WORDS
+				-
 			- [[English New Word]]
+				-
 	- 4. How to Talk About Doctors (Sessions 4–6)
 	- 5. How to Talk About Various Practitioners (Sessions 7–10)
 	- 6. How to Talk About Science and Scientists (Sessions 11–13)
