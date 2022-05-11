@@ -86,6 +86,7 @@ status:: 正在学习
 			- 逻辑、几何、集合等
 				- 用==符号键盘输入==比较方便
 		- 内建函数(Function)
+		  collapsed:: true
 			- **数值函数**
 				- `abs()` 绝对值 `|5|`
 				- `sqrt()` 平方根`nroot（x,n)`
@@ -108,7 +109,9 @@ status:: 正在学习
 				- 一般变量不要用x，y，z（除非在函数中）
 			-
 	- **2.3 几何对象的构建**
+	  collapsed:: true
 		- 点 - 最重要，构成其他对象的基础
+		  collapsed:: true
 			- 点的表示
 				- `(x,y)` 直角坐标
 				- (r==;==θ) {{cloze 极坐标}}
@@ -156,6 +159,7 @@ status:: 正在学习
 			- `Circle(O,A,B)` 弧 {{cloze 过圆心O和AB两点做圆弧}}
 			- `CircumcircularArc(A,B,C)` {{cloze 过ABC三点做圆弧}}
 	- **2.4 几何对象的度量**
+	  collapsed:: true
 		- 常规度量
 			- `Distance()` 距离
 				- `Distantce(A,B)` - AB两点间的距离
@@ -194,6 +198,7 @@ status:: 正在学习
 				- f,g两条直线是否垂直，`ture or false`
 				- 可以使用符号`⟂`，用浮动键盘输入
 	- **2.5 几何对象的变换**
+	  collapsed:: true
 		- 变换
 		  collapsed:: true
 			- `Translate()` {{cloze 平移}}
@@ -220,6 +225,7 @@ status:: 正在学习
 				  CLOCK: [2022-05-03 Tue 17:05:05]
 				  :END:
 	- **2.6 函数与分段函数**
+	  collapsed:: true
 		- 函数的输入
 			- 一般输入（以下几种都可以）
 				- `x^2`, `f:x^2`, `f(x):x^2`, `f(x)=x^2`, `f(t)=t^2`
@@ -247,6 +253,7 @@ status:: 正在学习
 				- 或者： `|| (∨)`
 				- 非： `！(﹁)`
 	- **2.7 函数的根、极值**
+	  collapsed:: true
 		- Root(f) 零点
 			- 求`f函数`的根，函数不止一个根
 			- ComplexRoot(f) - 求`f函数`的复数根，函数不止一个根
@@ -255,6 +262,7 @@ status:: 正在学习
 		- Extremum(f) 极值点
 			- 求`f函数`的极值，极大和极小值
 	- **2.8 函数的导数、积分**
+	  collapsed:: true
 		- 导数
 			- f' 或 Derivative() 导数
 		- 积分
@@ -267,6 +275,7 @@ status:: 正在学习
 - Geogebra深入—动态
   id:: 626d23d0-c2a7-4cc8-8adb-a9e16cf1e76c
 	- **3.1 变量、滑动条**
+	  collapsed:: true
 		- 动态数学软件
 			- 对象可拖动
 			- 变量可改变
@@ -348,6 +357,7 @@ status:: 正在学习
 		- 曲线 Curve
 		  点、线是Geogebra最重要的元素，有很多种方法产生曲线
 		- 曲线六法
+		  collapsed:: true
 			- 函数 f(x)
 			- 跟踪 Trace On ((627985d2-7b85-479a-9e11-af12b33e8a40))
 			- 轨迹 Locus(A,B) ((627985e1-d9fe-481f-bbb4-416d88ff4edb))
@@ -356,17 +366,35 @@ status:: 正在学习
 					- x^4+y^4=1
 					- x^3-y^2=0
 					- y=x^2(有时可理解为函数)
-			- 参数曲线
+			- 参数曲线 - Curve()
 				- 由参数方程对应的曲线
 					- 简单的
 						- (3cos(t), 2sin(t))
 						- (t;t)
-					- 一般的 Curve 曲线
+					- 一般的 Curve() 曲线
 						- Curve(3t,5t^{2},t,-∞,∞)
 							- 注：Alt+U 输入 ∞
 			- 拟合曲线 Fit - 由多个点拟合（回归）成一个曲线
+				- 拟合曲线 Fit( )
+				- 指数拟合 FitExp()
+				- 对数拟合 FitLog( )
+				- 多项式拟合 FitPoly( ) - 常用
+					- FitPoly(A,B,C,D) - 对ABCD四个点进行多项式拟合
+					- FitPoly((A,B,C,D),2) - 对ABCD四个点进行二次多项式拟合
+				- 幂函数拟合 FitPow( ) - 常用
+				- 正弦拟合 FitSin( ) - 常用
+		- 不等式
+			- 可以用表示区域
+				- &&（即^） 可以表示区域相交
+				- || （即v） 可以表示区域相并
+			- 合理使用可以表示：圆环或多图相交的区域
 	- 3.4 曲线欣赏
+		- [心型](https://www.geogebra.org/classic/c5qtyggj)：Curve((1 + cos(θ); θ), θ, 0, 2π) - 笛卡尔曲线（解析几何）
+		- [利萨如图形](https://www.geogebra.org/classic/w9kbxjju)：Curve(sin(a t + k π), sin(b t), t, 0, 100π)
+		- [摆线](https://www.geogebra.org/classic/t3kpszwh) - 最速降线
+		- [圆的渐开线](https://www.geogebra.org/classic/ynkrzhqx) - Locus(M,A) M-轨迹点，A-控制点
 	- 3.5 曲面
+		-
 	- 3.6 曲面欣赏
 	- 3.7 圆锥曲线
 	- 3.8 圆锥曲线与圆锥
