@@ -237,12 +237,12 @@ status:: 正在读
 					  如果我们要杜绝不必要的浪费, 就得硬著心肠做。
 					  形变: more ruthless; most ruthless
 				- conceit: [kәn\`sit;kәn\`si:t] [[card]] 
-				  card-last-interval:: -1
-				  card-repeats:: 1
-				  card-ease-factor:: 2.5
-				  card-next-schedule:: 2022-05-11T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-10T13:53:10.000Z
-				  card-last-score:: 1
+				  card-last-interval:: 4
+				  card-repeats:: 2
+				  card-ease-factor:: 2.36
+				  card-next-schedule:: 2022-05-15T20:55:23.385Z
+				  card-last-reviewed:: 2022-05-11T20:55:23.386Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- n.
 					  1. 自满, 自大, 自负[U]
@@ -304,8 +304,8 @@ status:: 正在读
 				  card-last-interval:: -1
 				  card-repeats:: 1
 				  card-ease-factor:: 2.5
-				  card-next-schedule:: 2022-05-11T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-10T13:50:23.589Z
+				  card-next-schedule:: 2022-05-12T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-11T20:53:47.882Z
 				  card-last-score:: 1
 				  collapsed:: true
 					- a.
@@ -339,8 +339,8 @@ status:: 正在读
 				  card-last-interval:: -1
 				  card-repeats:: 1
 				  card-ease-factor:: 2.5
-				  card-next-schedule:: 2022-05-11T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-10T13:58:03.732Z
+				  card-next-schedule:: 2022-05-12T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-11T20:58:46.045Z
 				  card-last-score:: 1
 				  collapsed:: true
 					- a.
@@ -355,12 +355,12 @@ status:: 正在读
 					  That futile young man does nothing but waste money.
 					  那个没出息的青年人只会浪费钱。
 				- nagging:[\`nægIŋ;\`nægiŋ] [[card]] 
-				  card-last-interval:: -1
-				  card-repeats:: 1
-				  card-ease-factor:: 2.5
-				  card-next-schedule:: 2022-05-11T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-10T13:55:32.183Z
-				  card-last-score:: 1
+				  card-last-interval:: 4
+				  card-repeats:: 2
+				  card-ease-factor:: 2.6
+				  card-next-schedule:: 2022-05-15T20:56:57.661Z
+				  card-last-reviewed:: 2022-05-11T20:56:57.662Z
+				  card-last-score:: 5
 				  collapsed:: true
 					- a.
 					  1. 唠叨的; 挑剔的
@@ -406,8 +406,8 @@ status:: 正在读
 				  card-last-interval:: -1
 				  card-repeats:: 1
 				  card-ease-factor:: 2.5
-				  card-next-schedule:: 2022-05-11T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-10T13:53:22.959Z
+				  card-next-schedule:: 2022-05-12T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-11T20:55:55.022Z
 				  card-last-score:: 1
 				  collapsed:: true
 					- a.
@@ -433,10 +433,13 @@ status:: 正在读
 				  card-last-interval:: -1
 				  card-repeats:: 1
 				  card-ease-factor:: 2.5
-				  card-next-schedule:: 2022-05-11T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-10T13:58:26.962Z
+				  card-next-schedule:: 2022-05-12T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-11T20:59:06.881Z
 				  card-last-score:: 1
 				  collapsed:: true
+					- n.
+						- 1. 人, 凡人[C][P1]
+						  No mortal could have survived the fire. 没有人经历这场火灾而能生还。
 					- a.
 						- 1. 会死的; 死的; 临死的
 						  All things that live are mortal.所有生物都会死的。
@@ -448,9 +451,6 @@ status:: 正在读
 						  He is my mortal enemy. 他是我不共戴天的敌人。
 						  5. 极大的, 极度的[B]
 						  She lives in mortal terror of her husband's anger. 她极度害怕她丈夫发脾气。
-					- n.
-						- 1. 人, 凡人[C][P1]
-						  No mortal could have survived the fire. 没有人经历这场火灾而能生还。
 				- dim:[dIm;dim] [[card]]
 				  card-last-interval:: 4.14
 				  card-repeats:: 1
@@ -477,8 +477,8 @@ status:: 正在读
 				  card-last-interval:: -1
 				  card-repeats:: 1
 				  card-ease-factor:: 2.5
-				  card-next-schedule:: 2022-05-11T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-10T13:52:49.472Z
+				  card-next-schedule:: 2022-05-12T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-11T20:54:43.489Z
 				  card-last-score:: 1
 				  collapsed:: true
 					- n.
@@ -512,33 +512,33 @@ status:: 正在读
 					  1. 托付, 交托; 委任[U]
 					  2. 下狱; 收监[U]
 					  3. 关进精神病院[U]
-					  4. 承诺, 保证; 承担的义务[U][C][(+to)]
+					  **4. 承诺, 保证; 承担的义务[U][C][(+to)]**
 					  I felt I did not have to make such a commitment to them. 我觉得我没有必要对他们作出那样的承诺。
 					  5. 信奉; 支持; 献身[U][C][(+to)]
 					  My aunt has a sincere commitment to Buddhism. 我姑妈笃信佛教。
 					  6. 犯罪, 罪行[U][C]
 					  commitment of infanticide 杀婴
 				- austerity:[ɔ\`stєrәtI;ɔ:s\`teriti] [[card]] 
-				  card-last-interval:: -1
-				  card-repeats:: 1
-				  card-ease-factor:: 2.5
-				  card-next-schedule:: 2022-05-11T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-10T13:51:45.153Z
-				  card-last-score:: 1
+				  card-last-interval:: 4
+				  card-repeats:: 2
+				  card-ease-factor:: 2.36
+				  card-next-schedule:: 2022-05-15T20:54:32.161Z
+				  card-last-reviewed:: 2022-05-11T20:54:32.162Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- n.
 					  1. 严厉; 严格; 严酷[U]
 					  A peculiar austerity marked his judgments of modern life. 他对现代生活的批评带著一种特殊的苛刻。
 					  2. 朴素, 朴实[U]
-					  3. 苦行, 禁欲生活[P]
+					  **3. 苦行, 禁欲生活[P]**
 					  early Christian austerities 早期基督教徒的苦行
-					  4. 紧缩, 严格的节制消费[U]
+					  **4. 紧缩, 严格的节制消费[U]**
 				- contemplation:[ˏkɑntєm\`pleʃәn;ˏkɔntem\`pleiʃәn] [[card]] 
 				  card-last-interval:: -1
 				  card-repeats:: 1
 				  card-ease-factor:: 2.5
-				  card-next-schedule:: 2022-05-11T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-10T13:57:40.836Z
+				  card-next-schedule:: 2022-05-12T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-11T20:58:18.955Z
 				  card-last-score:: 1
 				  collapsed:: true
 					- n.[U]
@@ -546,14 +546,14 @@ status:: 正在读
 					  She spent an hour in quiet contemplation. 她静静地沉思了一个小时。
 					  2. 深思熟虑, 研究
 					  He reached his decision after a good deal of contemplation. 他经过周密思考后作出了决定。
-					  3. 意图; 期望
+					  **3. 意图; 期望**
 					  She bought three dresses in contemplation of her trip. 她为了作一次旅行买了三套衣服。
 				- abstinence:[\`æbstәnәns;\`æbstinәns] [[card]] 
 				  card-last-interval:: -1
 				  card-repeats:: 1
 				  card-ease-factor:: 2.5
-				  card-next-schedule:: 2022-05-11T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-10T13:55:03.132Z
+				  card-next-schedule:: 2022-05-12T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-11T20:56:25.139Z
 				  card-last-score:: 1
 				  collapsed:: true
 					- n.[U]
@@ -670,12 +670,12 @@ status:: 正在读
 					  excursion from the major theme
 					  偏离主题
 				- denote:[dI\`not;di\`nәut] [[card]]
-				  card-last-interval:: -1
-				  card-repeats:: 1
-				  card-ease-factor:: 2.5
-				  card-next-schedule:: 2022-05-11T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-10T13:53:00.035Z
-				  card-last-score:: 1
+				  card-last-interval:: 4
+				  card-repeats:: 2
+				  card-ease-factor:: 2.36
+				  card-next-schedule:: 2022-05-15T20:54:56.828Z
+				  card-last-reviewed:: 2022-05-11T20:54:56.829Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- vt.
 					  1. 表示; 预示; (符号等)代表
@@ -689,8 +689,8 @@ status:: 正在读
 				  card-last-interval:: -1
 				  card-repeats:: 1
 				  card-ease-factor:: 2.5
-				  card-next-schedule:: 2022-05-11T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-10T13:57:02.542Z
+				  card-next-schedule:: 2022-05-12T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-11T20:57:24.024Z
 				  card-last-score:: 1
 				  collapsed:: true
 					- a.
@@ -745,12 +745,12 @@ status:: 正在读
 					  5. 简单的致词; 感想[S]
 					  Mr.Jones was called on for a sentiment. 琼斯先生应邀发表感想。
 				- inferior:\[In\`fIrIɚ;in\`fiәriә] [[card]] 
-				  card-last-interval:: -1
-				  card-repeats:: 1
-				  card-ease-factor:: 2.5
-				  card-next-schedule:: 2022-05-11T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-10T13:55:24.642Z
-				  card-last-score:: 1
+				  card-last-interval:: 4
+				  card-repeats:: 2
+				  card-ease-factor:: 2.36
+				  card-next-schedule:: 2022-05-15T20:56:51.893Z
+				  card-last-reviewed:: 2022-05-11T20:56:51.895Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- a.[Z]
 					  1. (地位等)低等的; 下级的; 低于…的[(+to)]
