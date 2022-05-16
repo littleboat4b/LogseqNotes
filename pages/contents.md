@@ -38,7 +38,6 @@
 			- ((627182be-72ab-4fb5-8f27-e75b178d8252))
 			-
 	- [[GeoGebra]]
-	  collapsed:: true
 		- ((626d2320-2163-4e8c-9e6c-a00baf0f79d6))
 		- ((626d23c2-0160-43e2-b378-b447d072ebf6))
 		- ((626d23d0-c2a7-4cc8-8adb-a9e16cf1e76c))

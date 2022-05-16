@@ -91,10 +91,10 @@ status:: 正在读
 			- absurd: [әb\`sˏd;әb\`sә:d] [[card]]
 			  card-last-score:: 1
 			  card-repeats:: 1
-			  card-next-schedule:: 2022-05-15T04:00:00.000Z
+			  card-next-schedule:: 2022-05-17T04:00:00.000Z
 			  card-last-interval:: -1
 			  card-ease-factor:: 2.36
-			  card-last-reviewed:: 2022-05-14T20:33:39.995Z
+			  card-last-reviewed:: 2022-05-16T17:59:24.022Z
 			  collapsed:: true
 				- a.
 				  1. 不合理的, 荒谬的; 可笑的, 愚蠢的
@@ -237,11 +237,11 @@ status:: 正在读
 					  如果我们要杜绝不必要的浪费, 就得硬著心肠做。
 					  形变: more ruthless; most ruthless
 				- conceit: [kәn\`sit;kәn\`si:t] [[card]] 
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 2.36
-				  card-next-schedule:: 2022-05-15T20:55:23.385Z
-				  card-last-reviewed:: 2022-05-11T20:55:23.386Z
+				  card-last-interval:: 8.88
+				  card-repeats:: 3
+				  card-ease-factor:: 2.22
+				  card-next-schedule:: 2022-05-25T15:00:04.494Z
+				  card-last-reviewed:: 2022-05-16T18:00:04.495Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- n.
@@ -256,12 +256,12 @@ status:: 正在读
 					  I don't have much conceit of his poems.
 					  我对他的诗作没有什么好评。
 				- conquest: [\`kɑŋkwєst;\`kɔŋkwest] [[card]] 
-				  card-last-interval:: -1
-				  card-repeats:: 1
-				  card-ease-factor:: 2.6
-				  card-next-schedule:: 2022-05-15T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-14T20:36:24.024Z
-				  card-last-score:: 1
+				  card-last-interval:: 4
+				  card-repeats:: 2
+				  card-ease-factor:: 2.7
+				  card-next-schedule:: 2022-05-20T18:00:51.296Z
+				  card-last-reviewed:: 2022-05-16T18:00:51.297Z
+				  card-last-score:: 5
 				  collapsed:: true
 					- n.
 					  1. 征服; 克服; 占领[U]
@@ -339,8 +339,8 @@ status:: 正在读
 				  card-last-interval:: -1
 				  card-repeats:: 1
 				  card-ease-factor:: 2.5
-				  card-next-schedule:: 2022-05-15T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-14T20:36:18.725Z
+				  card-next-schedule:: 2022-05-17T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-16T18:00:43.468Z
 				  card-last-score:: 1
 				  collapsed:: true
 					- a.
@@ -355,11 +355,11 @@ status:: 正在读
 					  That futile young man does nothing but waste money.
 					  那个没出息的青年人只会浪费钱。
 				- nagging:[\`nægIŋ;\`nægiŋ] [[card]] 
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 2.6
-				  card-next-schedule:: 2022-05-15T20:56:57.661Z
-				  card-last-reviewed:: 2022-05-11T20:56:57.662Z
+				  card-last-interval:: 10.8
+				  card-repeats:: 3
+				  card-ease-factor:: 2.7
+				  card-next-schedule:: 2022-05-27T13:00:15.006Z
+				  card-last-reviewed:: 2022-05-16T18:00:15.007Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- a.
@@ -519,12 +519,12 @@ status:: 正在读
 					  6. 犯罪, 罪行[U][C]
 					  commitment of infanticide 杀婴
 				- austerity:[ɔ\`stєrәtI;ɔ:s\`teriti] [[card]] 
-				  card-last-interval:: 4
-				  card-repeats:: 2
+				  card-last-interval:: -1
+				  card-repeats:: 1
 				  card-ease-factor:: 2.36
-				  card-next-schedule:: 2022-05-15T20:54:32.161Z
-				  card-last-reviewed:: 2022-05-11T20:54:32.162Z
-				  card-last-score:: 3
+				  card-next-schedule:: 2022-05-17T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-16T17:59:45.799Z
+				  card-last-score:: 1
 				  collapsed:: true
 					- n.
 					  1. 严厉; 严格; 严酷[U]
@@ -670,11 +670,11 @@ status:: 正在读
 					  excursion from the major theme
 					  偏离主题
 				- denote:[dI\`not;di\`nәut] [[card]]
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 2.36
-				  card-next-schedule:: 2022-05-15T20:54:56.828Z
-				  card-last-reviewed:: 2022-05-11T20:54:56.829Z
+				  card-last-interval:: 8.88
+				  card-repeats:: 3
+				  card-ease-factor:: 2.22
+				  card-next-schedule:: 2022-05-25T14:59:55.255Z
+				  card-last-reviewed:: 2022-05-16T17:59:55.256Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- vt.
@@ -686,12 +686,12 @@ status:: 正在读
 					  "dentist"一词的意思是牙科医生。
 					  3. 【逻】指称
 				- morbid:[\`mɔrbId;\`mɔ:bid] [[card]] 
-				  card-last-interval:: -1
-				  card-repeats:: 1
-				  card-ease-factor:: 2.5
-				  card-next-schedule:: 2022-05-15T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-14T20:35:51.747Z
-				  card-last-score:: 1
+				  card-last-interval:: 3.58
+				  card-repeats:: 2
+				  card-ease-factor:: 2.36
+				  card-next-schedule:: 2022-05-20T07:00:27.405Z
+				  card-last-reviewed:: 2022-05-16T18:00:27.406Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- a.
 					  1. 疾病的; 疾病所致的
@@ -745,12 +745,12 @@ status:: 正在读
 					  5. 简单的致词; 感想[S]
 					  Mr.Jones was called on for a sentiment. 琼斯先生应邀发表感想。
 				- inferior:\[In\`fIrIɚ;in\`fiәriә] [[card]] 
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 2.36
-				  card-next-schedule:: 2022-05-15T20:56:51.893Z
-				  card-last-reviewed:: 2022-05-11T20:56:51.895Z
-				  card-last-score:: 3
+				  card-last-interval:: 9.84
+				  card-repeats:: 3
+				  card-ease-factor:: 2.46
+				  card-next-schedule:: 2022-05-26T14:00:10.445Z
+				  card-last-reviewed:: 2022-05-16T18:00:10.445Z
+				  card-last-score:: 5
 				  collapsed:: true
 					- a.[Z]
 					  1. (地位等)低等的; 下级的; 低于…的[(+to)]

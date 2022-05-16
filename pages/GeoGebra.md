@@ -327,6 +327,7 @@ status:: 正在学习
 								- Advanced -> Condition to show -> 填入b
 								- 这样这个`b的☑（复选框）`就可以控制函数是否显示了
 	- 3.2 动点、轨迹
+	  collapsed:: true
 		- ==Point - 动点==
 		  id:: 627488dd-a622-4f96-88b8-a9eca5d9ceb9
 		  Point - 对象上的点（动点/半自由点）
@@ -356,6 +357,7 @@ status:: 正在学习
 					- 可以查看所有objects的构造顺序
 					- 可以一步一步的显示构建的过程。
 	- 3.3 曲线、不等式
+	  collapsed:: true
 		- 曲线 Curve
 		  点、线是Geogebra最重要的元素，有很多种方法产生曲线
 		- 曲线六法
@@ -407,19 +409,129 @@ status:: 正在学习
 				- 平面：x+3z=0 z=0
 				- 球面：x^2+y^2+z^2=1
 				- 有的曲面，画不出来
-			- Surface 参数曲面
-				- Surface 曲面
-				- Surface(x,y,z,u,1,2,v,34)
-					- 需要xyz三个坐标
 			- 跟踪法
 				- 右击，Trace On（跟踪）
 				- 示例：直纹面（ruled surface）
+			- Surface 参数曲面
+				- Surface 曲面
+					- Surface(x,y,z,u,1,2,v,3,4)
+					- u和v是参数，参数需要xyz三个参数的坐标
+					- 1,2 是u的范围，3,4是v的范围
+				- 旋转曲面
+				  一个图形绕这一个轴转动
+					- Surface(对象，角度，轴)
+						- Surface(c,2π,xAxis)
+							- 图形c，绕着x轴，旋转2π
+							- 注：其中轴是直线
+								- Line(A,B)
+								- A+B t
+								- xAxis, yAxis, zAxis
+					- 让旋转曲面更直观的办法
+						- 先在xy平面上画好图形，
+						- 然后，Reflect(对象，y=z)
+						- 可以使对象旋转到xOz平面，（水平面的45度角）
+						- 最后，就可以方便的使对象绕着z轴旋转
 	- 3.6 曲面欣赏
-	- 3.7 圆锥曲线
+		- [花瓣、Klein bottle](https://www.icourse163.org/learn/icourse-1002415002?tid=1466938442#/learn/content?type=detail&id=1247240990&cid=1272899216&replay=true)
+		- [圆锥上最短的一周](https://www.icourse163.org/learn/icourse-1002415002?tid=1466938442#/learn/content?type=detail&id=1247240990&cid=1272899217&replay=true)
+			- 解题思路
+				- 两点间直线距离最短
+				- 圆锥可以展开成一个扇形
+	- 3.7 圆锥曲线 Conic [圆锥曲线](https://www.icourse163.org/learn/icourse-1002415002?tid=1466938442#/learn/content?type=detail&id=1247240991&cid=1272899221&replay=true)
+		- 曲线分类
+		  collapsed:: true
+			- 椭圆 Ellips
+				- 圆 Circle
+			- 抛物线 Parabola
+			- 双曲线 Hyperbola
+		- 圆锥曲线做法
+			- 工具法、指令法
+			- 轨迹法 Locus
+			- 方程
+				- x^2/9+y^2/4=1
+			- 参数方程
+				- (3cos(t),2sin(t))
+			- 极坐标方程
+				- r=e·p/(1-e·cos(θ))
+				- e 为离心率
+					- <1 是椭圆
+					- =1 是抛物线
+					- \>1 是双曲线
+		- 举例：
+			- [圆锥曲线抛物线应用1](https://www.icourse163.org/learn/icourse-1002415002?tid=1466938442#/learn/content?type=detail&id=1247240991&cid=1272899222&replay=true)
+			- [圆锥曲线抛物线应用2](https://www.icourse163.org/learn/icourse-1002415002?tid=1466938442#/learn/content?type=detail&id=1247240991&cid=1272899223&replay=true)
 	- 3.8 圆锥曲线与圆锥
+		- Cone(圆锥) & Conic(圆锥曲线)
+		-
 	-
 - Geogebra技巧—艺术性
   id:: 626d23dc-f9ec-4669-979e-01cd90c5f34a
+	- 实现重复的手段（重复是一种美）
+		- [自定义工具](((62829f01-784c-4c6b-be9a-599c5293c5a7)))
+		- [列表 List](((6282a42c-11c7-4aca-bf4a-1f755fa37d00)))
+		- 序列 Sequence
+		- [迭代 Iteration](((62829f59-1465-4ab6-8431-7fec304b0ace)))
+	- 自定义工具
+	  id:: 62829f01-784c-4c6b-be9a-599c5293c5a7
+		- 创建新工具
+			- Tools(工具) -> Create New Tool (创建新工具)
+			- 用Save as 可以把工具可以保存到.ggt文件中
+			- 别人可以打开这个.ggt文件，使用这个工具
+		- 使用自定义工具
+			- Tools - Customize Tools
+			- 需要重复使用的任务可以做自定义工具
+	- 列表与序列
+		- 列表（list）
+		  id:: 6282a42c-11c7-4aca-bf4a-1f755fa37d00
+			- 定义：
+				- 多个数据或多个对象的合集
+				- 数据是==有顺序==的，可重复的
+			- 基本写法：花括号{ }
+				- {1,2,5}
+				- {A,B,D,A}
+			- 创建列表
+				- 可以手动写
+				- 也可以选中多个对象后，从代数区中，**拖动**到`指令栏（input bar）`中，系统会自动创建列表（list）
+			- 列表的运算
+				- {} × 5
+				- {} + {}
+				- Sum({}) - 总和
+				- Length({}) - 长度
+		- 序列
+			- 定义
+				- 序列是比较有规则的列表
+					- 简答的
+						- 1`..`10 或 1`...`10
+					- 一般的
+						- `Sequence(表达式,变量,初值,终值,增量)`
+						- Sequence(n^2,n,1,10)
+							- n^2 - 表达式
+							- n - 变量
+							- 1 - 初值
+							- 10 - 终值
+							- 增量缺省为 1
+						- Sequence((a,0),a,1,10,0.2)
+			- 举例
+				- 画一系列的圆
+					- `Sequence(Circle(n,0),1),n,-10,10,2)`
+				- 图形旋转
+					- `Sequence(Rotate(t,(n·30)˚),n,1,12)`
+				- 画很多的箭头（序列嵌套 or 二维序列）
+					- `Sequence(Sequence(Vector((i,j)),i,-5,5),j,-5,5)`
+		- 选择多个对象
+			- 在代数区（algebra）zhong
+				- 按住`ctrl`  或 `shift`，并点击选中
+			- 在绘图区中
+				- 按住`鼠标右键`，框选
+	- 绘图艺术
+	- 迭代
+	  id:: 62829f59-1465-4ab6-8431-7fec304b0ace
+	- 分形艺术
+	- 立体艺术
+	- Latex公式美化
+	- 图片与声音
+	- 本周思维导图
+		- ![2022_05_16_image.png](https://cdn.logseq.com/%2F7931a79d-4502-46b5-960f-d524ffe4d9a4951cbd4c-7ece-45e6-a6c1-0618ea3154d82022_05_16_image.png?Expires=4806327510&Signature=O1kRiRiR-XQav-~lA-GsXknF3V99rg1bLHHGfdpkIIuQ~Uj4y8iEdLEl1hwOf~y7uh1rzyqJfD3QtsS3N-sxenBiJkGfYYZeeAv2uKDA1K6E9Q0JOTsTw3SuE76eqUxVFdQvEhXaeq3ssdp4VXSWKL1rIe~1aLgsdRh1m7QXZ~kBf0akoOEekryhvvlBB9eUDxxrNQP8PtppHRd3uFpEx5GYC7gNweHyMD8e5XR63GAq5TXCvHd2iU2T95oC7kV8Tu~ea9yHxTBjUzC~wx7TKK573mUlVkNTLXohZqKQ3DgrALQlHe2enPq3VwZgSvSI0gTGmg5fdF~zqaZ7VDQYfQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 2641, :width 738}
 - Geogebra应用—交互性
   id:: 626d23eb-434a-43f1-8270-29888b8c3313
 -
