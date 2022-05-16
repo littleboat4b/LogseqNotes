@@ -49,11 +49,11 @@ status:: 正在读
 			- teaser: [\`tizɚ;\`ti:zә] < {{cloze n.1. 戏弄者, 嘲弄者; 欺负他人者 2. 【口】难事, 难题}}
 			- obscure: [әb\`skjʊr;әb\`skjuә] [[card]]
 			  card-last-score:: 3
-			  card-repeats:: 2
-			  card-next-schedule:: 2022-05-14T13:54:32.464Z
-			  card-last-interval:: 4
-			  card-ease-factor:: 2.22
-			  card-last-reviewed:: 2022-05-10T13:54:32.465Z
+			  card-repeats:: 3
+			  card-next-schedule:: 2022-05-23T03:34:55.661Z
+			  card-last-interval:: 8.32
+			  card-ease-factor:: 2.08
+			  card-last-reviewed:: 2022-05-14T20:34:55.662Z
 			  collapsed:: true
 				- a.
 				  1. 暗的, 黑暗的; 朦胧的
@@ -78,23 +78,23 @@ status:: 正在读
 				  我让他熟悉了案情
 			- pore: *[pɒ:] [[card]]
 			  card-last-score:: 5
-			  card-repeats:: 2
-			  card-next-schedule:: 2022-05-14T13:57:06.511Z
-			  card-last-interval:: 4
-			  card-ease-factor:: 2.7
-			  card-last-reviewed:: 2022-05-10T13:57:06.512Z
+			  card-repeats:: 3
+			  card-next-schedule:: 2022-05-26T00:35:59.525Z
+			  card-last-interval:: 11.2
+			  card-ease-factor:: 2.8
+			  card-last-reviewed:: 2022-05-14T20:35:59.526Z
 			  collapsed:: true
 				- n. 毛孔, 小孔, 气孔
 				  vi. 专心阅读, 细想, 钻研, 沉思, 注视
 				  Did you spend hours every day poring over a dictionary?
 				  vt. 使注视得
 			- absurd: [әb\`sˏd;әb\`sә:d] [[card]]
-			  card-last-score:: 3
-			  card-repeats:: 2
-			  card-next-schedule:: 2022-05-14T16:49:47.604Z
-			  card-last-interval:: 4.14
+			  card-last-score:: 1
+			  card-repeats:: 1
+			  card-next-schedule:: 2022-05-15T04:00:00.000Z
+			  card-last-interval:: -1
 			  card-ease-factor:: 2.36
-			  card-last-reviewed:: 2022-05-10T13:49:47.605Z
+			  card-last-reviewed:: 2022-05-14T20:33:39.995Z
 			  collapsed:: true
 				- a.
 				  1. 不合理的, 荒谬的; 可笑的, 愚蠢的
@@ -104,11 +104,11 @@ status:: 正在读
 				  他的想法是愚蠢可笑的。
 			- insatiable: [In\`seʃIәbḷ;in\`seiʃiәbl] [[card]]
 			  card-last-score:: 3
-			  card-repeats:: 2
-			  card-next-schedule:: 2022-05-12T02:34:01.176Z
-			  card-last-interval:: 4
-			  card-ease-factor:: 2.36
-			  card-last-reviewed:: 2022-05-08T02:34:01.180Z
+			  card-repeats:: 3
+			  card-next-schedule:: 2022-05-22T08:38:18.214Z
+			  card-last-interval:: 8.88
+			  card-ease-factor:: 2.22
+			  card-last-reviewed:: 2022-05-13T11:38:18.214Z
 			  collapsed:: true
 				- a.
 				  1. 永不满足的; 贪得无厌的[(+for/of)]
@@ -118,11 +118,11 @@ status:: 正在读
 				  他对音乐爱得入迷。
 			- prodigious: [prә\`dIdʒәs;prә\`didʒәs] [[card]]
 			  card-last-score:: 3
-			  card-repeats:: 2
-			  card-next-schedule:: 2022-05-14T16:56:36.004Z
-			  card-last-interval:: 4.13
-			  card-ease-factor:: 2.36
-			  card-last-reviewed:: 2022-05-10T13:56:36.005Z
+			  card-repeats:: 3
+			  card-next-schedule:: 2022-05-23T17:35:39.501Z
+			  card-last-interval:: 8.88
+			  card-ease-factor:: 2.22
+			  card-last-reviewed:: 2022-05-14T20:35:39.502Z
 			  collapsed:: true
 				- a.
 				  1. 巨大的; 庞大的
@@ -131,11 +131,11 @@ status:: 正在读
 				  2. 异常的; 惊人的; 奇妙的
 			- delusion: [dI\`luʒәn;di\`lu:ʒәn] [[card]]
 			  card-last-score:: 5
-			  card-repeats:: 2
-			  card-next-schedule:: 2022-05-14T13:52:17.960Z
-			  card-last-interval:: 4
-			  card-ease-factor:: 2.46
-			  card-last-reviewed:: 2022-05-10T13:52:17.964Z
+			  card-repeats:: 3
+			  card-next-schedule:: 2022-05-25T01:34:09.867Z
+			  card-last-interval:: 10.24
+			  card-ease-factor:: 2.56
+			  card-last-reviewed:: 2022-05-14T20:34:09.868Z
 			  collapsed:: true
 				- n.
 				  1. 迷惑, 欺骗[U]
@@ -147,11 +147,11 @@ status:: 正在读
 				  汤姆怀有错觉, 认为自己是个要人。
 			- superstition: [ˏsupɚ\`stIʃәn;ˏsju:pә\`stiʃәn] [[card]]
 			  card-last-score:: 5
-			  card-repeats:: 2
-			  card-next-schedule:: 2022-05-14T13:49:37.977Z
-			  card-last-interval:: 4
-			  card-ease-factor:: 2.46
-			  card-last-reviewed:: 2022-05-10T13:49:37.986Z
+			  card-repeats:: 3
+			  card-next-schedule:: 2022-05-25T01:33:24.367Z
+			  card-last-interval:: 10.24
+			  card-ease-factor:: 2.56
+			  card-last-reviewed:: 2022-05-14T20:33:24.370Z
 			  collapsed:: true
 				- n.[C][U]
 				  1. 迷信; 迷信行为
@@ -211,11 +211,11 @@ status:: 正在读
 			- [[English New Word]]
 			  collapsed:: true
 				- heredity: [hә\`rєdәtI;hi\`rediti] [[card]]
-				  card-last-interval:: 4.13
-				  card-repeats:: 1
-				  card-ease-factor:: 2.36
-				  card-next-schedule:: 2022-05-14T16:56:15.654Z
-				  card-last-reviewed:: 2022-05-10T13:56:15.658Z
+				  card-last-interval:: 4
+				  card-repeats:: 2
+				  card-ease-factor:: 2.22
+				  card-next-schedule:: 2022-05-18T20:35:16.950Z
+				  card-last-reviewed:: 2022-05-14T20:35:16.952Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- n.
@@ -224,10 +224,10 @@ status:: 正在读
 					  我的身高来自于遗传。
 				- ruthless: [\`ruθlIs;\`ru:θlis] [[card]]
 				  card-last-interval:: 4
-				  card-repeats:: 1
-				  card-ease-factor:: 2.6
-				  card-next-schedule:: 2022-05-14T13:51:53.835Z
-				  card-last-reviewed:: 2022-05-10T13:51:53.836Z
+				  card-repeats:: 2
+				  card-ease-factor:: 2.7
+				  card-next-schedule:: 2022-05-18T20:34:04.850Z
+				  card-last-reviewed:: 2022-05-14T20:34:04.851Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- a.
@@ -256,12 +256,12 @@ status:: 正在读
 					  I don't have much conceit of his poems.
 					  我对他的诗作没有什么好评。
 				- conquest: [\`kɑŋkwєst;\`kɔŋkwest] [[card]] 
-				  card-last-interval:: 4.14
+				  card-last-interval:: -1
 				  card-repeats:: 1
 				  card-ease-factor:: 2.6
-				  card-next-schedule:: 2022-05-14T16:58:09.533Z
-				  card-last-reviewed:: 2022-05-10T13:58:09.534Z
-				  card-last-score:: 5
+				  card-next-schedule:: 2022-05-15T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-14T20:36:24.024Z
+				  card-last-score:: 1
 				  collapsed:: true
 					- n.
 					  1. 征服; 克服; 占领[U]
@@ -277,22 +277,22 @@ status:: 正在读
 					  5. 【史】(大写)(诺曼人的)征服英国[the S]
 				- boastful: [\`bostfәl;\`bәustfәl] [[card]] 
 				  card-last-interval:: 4
-				  card-repeats:: 1
-				  card-ease-factor:: 2.6
-				  card-next-schedule:: 2022-05-14T13:56:29.088Z
-				  card-last-reviewed:: 2022-05-10T13:56:29.089Z
-				  card-last-score:: 5
+				  card-repeats:: 2
+				  card-ease-factor:: 2.46
+				  card-next-schedule:: 2022-05-18T20:35:32.457Z
+				  card-last-reviewed:: 2022-05-14T20:35:32.461Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- a.
 					  1. 自夸的; 爱自夸的[(+of/about)]
 					  He is boastful of his learning.
 					  他总是夸耀自己的学识。
 				- obnoxious:[әb\`nɑkʃәs;әb\`nɔkʃәs][[card]]
-				  card-last-interval:: 4.14
-				  card-repeats:: 1
-				  card-ease-factor:: 2.36
-				  card-next-schedule:: 2022-05-14T16:51:20.136Z
-				  card-last-reviewed:: 2022-05-10T13:51:20.138Z
+				  card-last-interval:: 4
+				  card-repeats:: 2
+				  card-ease-factor:: 2.22
+				  card-next-schedule:: 2022-05-18T20:33:58.712Z
+				  card-last-reviewed:: 2022-05-14T20:33:58.713Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- a.
@@ -301,12 +301,12 @@ status:: 正在读
 					  一种难闻的气味
 					  形变: more obnoxious; most obnoxious
 				- monotonous:[mә\`nɑtәnәs;mә\`nɔtәnәs] [[card]] 
-				  card-last-interval:: -1
-				  card-repeats:: 1
-				  card-ease-factor:: 2.5
-				  card-next-schedule:: 2022-05-12T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-11T20:53:47.882Z
-				  card-last-score:: 1
+				  card-last-interval:: 4
+				  card-repeats:: 2
+				  card-ease-factor:: 2.36
+				  card-next-schedule:: 2022-05-17T11:37:30.253Z
+				  card-last-reviewed:: 2022-05-13T11:37:30.255Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- a.
 					  1. (声音)单调的, 无抑扬顿挫的
@@ -317,10 +317,10 @@ status:: 正在读
 					  探险者靠吃豆子和米饭这些单调的食物为生。
 				- colony: [\`kɑlәnI;\`kɔlәni] [[card]] 
 				  card-last-interval:: 4
-				  card-repeats:: 1
-				  card-ease-factor:: 2.6
-				  card-next-schedule:: 2022-05-14T13:54:19.813Z
-				  card-last-reviewed:: 2022-05-10T13:54:19.814Z
+				  card-repeats:: 2
+				  card-ease-factor:: 2.7
+				  card-next-schedule:: 2022-05-18T20:34:47.440Z
+				  card-last-reviewed:: 2022-05-14T20:34:47.442Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- n.[C]
@@ -339,8 +339,8 @@ status:: 正在读
 				  card-last-interval:: -1
 				  card-repeats:: 1
 				  card-ease-factor:: 2.5
-				  card-next-schedule:: 2022-05-12T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-11T20:58:46.045Z
+				  card-next-schedule:: 2022-05-15T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-14T20:36:18.725Z
 				  card-last-score:: 1
 				  collapsed:: true
 					- a.
@@ -370,11 +370,11 @@ status:: 正在读
 					  John has a number of nagging worries.
 					  约翰有不少牵肠挂肚的心事。
 				- solitude:[\`sɑlәˏtjud;\`sɔlitju:d] [[card]] 
-				  card-last-interval:: 4.28
-				  card-repeats:: 1
-				  card-ease-factor:: 2.36
-				  card-next-schedule:: 2022-05-14T19:53:45.695Z
-				  card-last-reviewed:: 2022-05-10T13:53:45.700Z
+				  card-last-interval:: 4
+				  card-repeats:: 2
+				  card-ease-factor:: 2.22
+				  card-next-schedule:: 2022-05-18T20:34:34.041Z
+				  card-last-reviewed:: 2022-05-14T20:34:34.042Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- n.
@@ -384,10 +384,10 @@ status:: 正在读
 					  2. 冷僻(处); 荒凉(之地)[C][U]
 				- crowd:[kraʊd;kraud] [[card]] 
 				  card-last-interval:: 4
-				  card-repeats:: 1
-				  card-ease-factor:: 2.6
-				  card-next-schedule:: 2022-05-14T13:50:53.918Z
-				  card-last-reviewed:: 2022-05-10T13:50:53.920Z
+				  card-repeats:: 2
+				  card-ease-factor:: 2.7
+				  card-next-schedule:: 2022-05-18T20:33:45.159Z
+				  card-last-reviewed:: 2022-05-14T20:33:45.160Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- n.
@@ -403,12 +403,12 @@ status:: 正在读
 					  People crowded into the cinema.
 					  人们挤进电影院。
 				- cynical:[\`sInIkḷ;\`sinikәl] [[card]] 
-				  card-last-interval:: -1
-				  card-repeats:: 1
-				  card-ease-factor:: 2.5
-				  card-next-schedule:: 2022-05-12T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-11T20:55:55.022Z
-				  card-last-score:: 1
+				  card-last-interval:: 3.86
+				  card-repeats:: 2
+				  card-ease-factor:: 2.36
+				  card-next-schedule:: 2022-05-18T16:34:26.813Z
+				  card-last-reviewed:: 2022-05-14T20:34:26.814Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- a.
 					  1. 愤世嫉俗的; 怀疑人间有真诚善意的; 悲观的[(+about)]
@@ -419,10 +419,10 @@ status:: 正在读
 					  3. (大写)犬儒主义的
 				- embitter:[Im\`bItɚ;im\`bitә] [[card]] 
 				  card-last-interval:: 4
-				  card-repeats:: 1
-				  card-ease-factor:: 2.6
-				  card-next-schedule:: 2022-05-14T13:54:08.812Z
-				  card-last-reviewed:: 2022-05-10T13:54:08.813Z
+				  card-repeats:: 2
+				  card-ease-factor:: 2.7
+				  card-next-schedule:: 2022-05-18T20:34:42.904Z
+				  card-last-reviewed:: 2022-05-14T20:34:42.905Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- vt.[H]
@@ -430,12 +430,12 @@ status:: 正在读
 					  He was embittered by repeated failures. 他因屡遭失败而痛苦。
 					  2. 使更苦; 使怨恨; 激怒
 				- mortal:[\`mɔrtḷ;\`mɔ:tl] [[card]] 
-				  card-last-interval:: -1
-				  card-repeats:: 1
-				  card-ease-factor:: 2.5
-				  card-next-schedule:: 2022-05-12T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-11T20:59:06.881Z
-				  card-last-score:: 1
+				  card-last-interval:: 4
+				  card-repeats:: 2
+				  card-ease-factor:: 2.36
+				  card-next-schedule:: 2022-05-17T11:39:25.483Z
+				  card-last-reviewed:: 2022-05-13T11:39:25.484Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- n.
 						- 1. 人, 凡人[C][P1]
@@ -452,12 +452,12 @@ status:: 正在读
 						  5. 极大的, 极度的[B]
 						  She lives in mortal terror of her husband's anger. 她极度害怕她丈夫发脾气。
 				- dim:[dIm;dim] [[card]]
-				  card-last-interval:: 4.14
-				  card-repeats:: 1
-				  card-ease-factor:: 2.6
-				  card-next-schedule:: 2022-05-14T16:58:15.783Z
-				  card-last-reviewed:: 2022-05-10T13:58:15.787Z
-				  card-last-score:: 5
+				  card-last-interval:: 4
+				  card-repeats:: 2
+				  card-ease-factor:: 2.46
+				  card-next-schedule:: 2022-05-18T20:36:28.997Z
+				  card-last-reviewed:: 2022-05-14T20:36:28.998Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- a.
 					   1. 微暗的; 暗淡的
@@ -474,12 +474,12 @@ status:: 正在读
 					  他不太领会她的挖苦话。
 					  5. 悲观的, 怀疑的
 				- scorn:[skɔrn;skɔ:n] [[card]]
-				  card-last-interval:: -1
-				  card-repeats:: 1
-				  card-ease-factor:: 2.5
-				  card-next-schedule:: 2022-05-12T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-11T20:54:43.489Z
-				  card-last-score:: 1
+				  card-last-interval:: 4
+				  card-repeats:: 2
+				  card-ease-factor:: 2.36
+				  card-next-schedule:: 2022-05-17T11:37:37.662Z
+				  card-last-reviewed:: 2022-05-13T11:37:37.663Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- n.
 						- 1. 轻蔑; 藐视[U][(+for)]
@@ -502,10 +502,10 @@ status:: 正在读
 						- 1. 表示轻蔑, 表示鄙视
 				- commitment:[kә\`mItmәnt;kә\`mitmәnt] [[card]] 
 				  card-last-interval:: 4
-				  card-repeats:: 1
-				  card-ease-factor:: 2.6
-				  card-next-schedule:: 2022-05-14T13:56:21.685Z
-				  card-last-reviewed:: 2022-05-10T13:56:21.687Z
+				  card-repeats:: 2
+				  card-ease-factor:: 2.7
+				  card-next-schedule:: 2022-05-18T20:35:21.651Z
+				  card-last-reviewed:: 2022-05-14T20:35:21.652Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- n.
@@ -534,12 +534,12 @@ status:: 正在读
 					  early Christian austerities 早期基督教徒的苦行
 					  **4. 紧缩, 严格的节制消费[U]**
 				- contemplation:[ˏkɑntєm\`pleʃәn;ˏkɔntem\`pleiʃәn] [[card]] 
-				  card-last-interval:: -1
-				  card-repeats:: 1
-				  card-ease-factor:: 2.5
-				  card-next-schedule:: 2022-05-12T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-11T20:58:18.955Z
-				  card-last-score:: 1
+				  card-last-interval:: 3.59
+				  card-repeats:: 2
+				  card-ease-factor:: 2.36
+				  card-next-schedule:: 2022-05-18T10:36:09.458Z
+				  card-last-reviewed:: 2022-05-14T20:36:09.460Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- n.[U]
 					  1. 凝视; 沉思, 冥想
@@ -549,12 +549,12 @@ status:: 正在读
 					  **3. 意图; 期望**
 					  She bought three dresses in contemplation of her trip. 她为了作一次旅行买了三套衣服。
 				- abstinence:[\`æbstәnәns;\`æbstinәns] [[card]] 
-				  card-last-interval:: -1
-				  card-repeats:: 1
-				  card-ease-factor:: 2.5
-				  card-next-schedule:: 2022-05-12T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-11T20:56:25.139Z
-				  card-last-score:: 1
+				  card-last-interval:: 4
+				  card-repeats:: 2
+				  card-ease-factor:: 2.36
+				  card-next-schedule:: 2022-05-17T11:38:07.476Z
+				  card-last-reviewed:: 2022-05-13T11:38:07.477Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- n.[U]
 					  1.  (饮食及享乐方面的)节制; 禁饮; 戒酒[(+from)]
@@ -650,12 +650,12 @@ status:: 正在读
 			- [[English New Word]]
 			  collapsed:: true
 				- excursion：[Ik\`skˏʒәn;ikskә:ʃәn] [[card]]
-				  card-last-interval:: 4.28
-				  card-repeats:: 1
-				  card-ease-factor:: 2.36
-				  card-next-schedule:: 2022-05-14T19:53:59.396Z
-				  card-last-reviewed:: 2022-05-10T13:53:59.397Z
-				  card-last-score:: 3
+				  card-last-interval:: 4
+				  card-repeats:: 2
+				  card-ease-factor:: 2.46
+				  card-next-schedule:: 2022-05-18T20:34:38.332Z
+				  card-last-reviewed:: 2022-05-14T20:34:38.333Z
+				  card-last-score:: 5
 				  collapsed:: true
 					- n.
 					  1. 远足; 短途旅行[C]
@@ -689,8 +689,8 @@ status:: 正在读
 				  card-last-interval:: -1
 				  card-repeats:: 1
 				  card-ease-factor:: 2.5
-				  card-next-schedule:: 2022-05-12T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-11T20:57:24.024Z
+				  card-next-schedule:: 2022-05-15T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-14T20:35:51.747Z
 				  card-last-score:: 1
 				  collapsed:: true
 					- a.
@@ -704,10 +704,10 @@ status:: 正在读
 					  the morbid details of a story 故事中令人毛骨悚然的细节
 				- dispute:[dI\`spjut;di\`spju:t] [[card]] 
 				  card-last-interval:: 4
-				  card-repeats:: 1
-				  card-ease-factor:: 2.6
-				  card-next-schedule:: 2022-05-14T13:52:28.328Z
-				  card-last-reviewed:: 2022-05-10T13:52:28.329Z
+				  card-repeats:: 2
+				  card-ease-factor:: 2.7
+				  card-next-schedule:: 2022-05-18T20:34:16.083Z
+				  card-last-reviewed:: 2022-05-14T20:34:16.084Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- vi.
@@ -726,11 +726,11 @@ status:: 正在读
 					  1. 争论; 争执; 争端[C][U][(+about/over/with)]
 					  The dispute was settled last week. 争端在上周解决了。
 				- sentiment:[\`sєntәmәnt;\`sentimәnt][[card]]
-				  card-last-interval:: 4.13
-				  card-repeats:: 1
-				  card-ease-factor:: 2.36
-				  card-next-schedule:: 2022-05-14T16:55:45.845Z
-				  card-last-reviewed:: 2022-05-10T13:55:45.846Z
+				  card-last-interval:: 4
+				  card-repeats:: 2
+				  card-ease-factor:: 2.22
+				  card-next-schedule:: 2022-05-18T20:35:01.185Z
+				  card-last-reviewed:: 2022-05-14T20:35:01.186Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- n.

@@ -48,6 +48,7 @@ status:: 正在学习
 			- 最好用==**英文**==
 - Geogebra进阶—使用命令
   id:: 626d23c2-0160-43e2-b378-b447d072ebf6
+  collapsed:: true
 	- **2.1 Geogebra指令 -（command）- 命令**
 	  collapsed:: true
 		- 优点：全面（比工具条多）、快捷、精确（比鼠标点更精确）、复杂
@@ -71,6 +72,7 @@ status:: 正在学习
 			- [关于Geogebra的指令](https://wiki.geogebra.org/en/Commands)
 			- [Geogebra指令的列表](https://wiki.geogebra.org/en/Category:Commands)
 	- **2.2 变量(Variable)、运算符(Operator)、内建函数(Function)**
+	  collapsed:: true
 	  [Functions and Operators](https://wiki.geogebra.org/en/Predefined_Functions_and_Operators)
 		- 变量(Variable)
 			- 简单型
@@ -357,7 +359,6 @@ status:: 正在学习
 		- 曲线 Curve
 		  点、线是Geogebra最重要的元素，有很多种方法产生曲线
 		- 曲线六法
-		  collapsed:: true
 			- 函数 f(x)
 			- 跟踪 Trace On ((627985d2-7b85-479a-9e11-af12b33e8a40))
 			- 轨迹 Locus(A,B) ((627985e1-d9fe-481f-bbb4-416d88ff4edb))
@@ -394,10 +395,29 @@ status:: 正在学习
 		- [摆线](https://www.geogebra.org/classic/t3kpszwh) - 最速降线
 		- [圆的渐开线](https://www.geogebra.org/classic/ynkrzhqx) - Locus(M,A) M-轨迹点，A-控制点
 	- 3.5 曲面
-		-
+		- 显示3D视图（View - 3D）
+		- 曲面的画法
+			- 多变量函数 f(x,y)
+				- 双变量函数
+					- f(x,y)=x^2+y^2
+					- f(x,y)=sqrt(x^2-y^2)
+					  g(x,y)=sqrt(x^2+y^2)
+			- 隐式方程 x+z=0
+				- 一般曲面：z = y^3
+				- 平面：x+3z=0 z=0
+				- 球面：x^2+y^2+z^2=1
+				- 有的曲面，画不出来
+			- Surface 参数曲面
+				- Surface 曲面
+				- Surface(x,y,z,u,1,2,v,34)
+					- 需要xyz三个坐标
+			- 跟踪法
+				- 右击，Trace On（跟踪）
+				- 示例：直纹面（ruled surface）
 	- 3.6 曲面欣赏
 	- 3.7 圆锥曲线
 	- 3.8 圆锥曲线与圆锥
+	-
 - Geogebra技巧—艺术性
   id:: 626d23dc-f9ec-4669-979e-01cd90c5f34a
 - Geogebra应用—交互性
