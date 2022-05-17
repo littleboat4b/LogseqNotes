@@ -89,12 +89,12 @@ status:: 正在读
 				  Did you spend hours every day poring over a dictionary?
 				  vt. 使注视得
 			- absurd: [әb\`sˏd;әb\`sә:d] [[card]]
-			  card-last-score:: 1
-			  card-repeats:: 1
-			  card-next-schedule:: 2022-05-17T04:00:00.000Z
-			  card-last-interval:: -1
-			  card-ease-factor:: 2.36
-			  card-last-reviewed:: 2022-05-16T17:59:24.022Z
+			  card-last-score:: 3
+			  card-repeats:: 2
+			  card-next-schedule:: 2022-05-21T17:59:54.308Z
+			  card-last-interval:: 4
+			  card-ease-factor:: 2.22
+			  card-last-reviewed:: 2022-05-17T17:59:54.313Z
 			  collapsed:: true
 				- a.
 				  1. 不合理的, 荒谬的; 可笑的, 愚蠢的
@@ -301,11 +301,11 @@ status:: 正在读
 					  一种难闻的气味
 					  形变: more obnoxious; most obnoxious
 				- monotonous:[mә\`nɑtәnәs;mә\`nɔtәnәs] [[card]] 
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 2.36
-				  card-next-schedule:: 2022-05-17T11:37:30.253Z
-				  card-last-reviewed:: 2022-05-13T11:37:30.255Z
+				  card-last-interval:: 8.88
+				  card-repeats:: 3
+				  card-ease-factor:: 2.22
+				  card-next-schedule:: 2022-05-26T15:00:12.557Z
+				  card-last-reviewed:: 2022-05-17T18:00:12.557Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- a.
@@ -339,8 +339,8 @@ status:: 正在读
 				  card-last-interval:: -1
 				  card-repeats:: 1
 				  card-ease-factor:: 2.5
-				  card-next-schedule:: 2022-05-17T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-16T18:00:43.468Z
+				  card-next-schedule:: 2022-05-18T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-17T18:02:54.358Z
 				  card-last-score:: 1
 				  collapsed:: true
 					- a.
@@ -354,6 +354,7 @@ status:: 正在读
 					  4. (人)愚蠢的, 没有出息的
 					  That futile young man does nothing but waste money.
 					  那个没出息的青年人只会浪费钱。
+					- 助记法：fu（覆盖）+ tile（瓦片，瓷砖）-> 台风来啦！覆盖瓦片是没用的。
 				- nagging:[\`nægIŋ;\`nægiŋ] [[card]] 
 				  card-last-interval:: 10.8
 				  card-repeats:: 3
@@ -430,11 +431,11 @@ status:: 正在读
 					  He was embittered by repeated failures. 他因屡遭失败而痛苦。
 					  2. 使更苦; 使怨恨; 激怒
 				- mortal:[\`mɔrtḷ;\`mɔ:tl] [[card]] 
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 2.36
-				  card-next-schedule:: 2022-05-17T11:39:25.483Z
-				  card-last-reviewed:: 2022-05-13T11:39:25.484Z
+				  card-last-interval:: 8.88
+				  card-repeats:: 3
+				  card-ease-factor:: 2.22
+				  card-next-schedule:: 2022-05-26T15:03:05.169Z
+				  card-last-reviewed:: 2022-05-17T18:03:05.170Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- n.
@@ -474,12 +475,12 @@ status:: 正在读
 					  他不太领会她的挖苦话。
 					  5. 悲观的, 怀疑的
 				- scorn:[skɔrn;skɔ:n] [[card]]
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 2.36
-				  card-next-schedule:: 2022-05-17T11:37:37.662Z
-				  card-last-reviewed:: 2022-05-13T11:37:37.663Z
-				  card-last-score:: 3
+				  card-last-interval:: 9.84
+				  card-repeats:: 3
+				  card-ease-factor:: 2.46
+				  card-next-schedule:: 2022-05-27T14:00:33.132Z
+				  card-last-reviewed:: 2022-05-17T18:00:33.133Z
+				  card-last-score:: 5
 				  collapsed:: true
 					- n.
 						- 1. 轻蔑; 藐视[U][(+for)]
@@ -519,12 +520,12 @@ status:: 正在读
 					  6. 犯罪, 罪行[U][C]
 					  commitment of infanticide 杀婴
 				- austerity:[ɔ\`stєrәtI;ɔ:s\`teriti] [[card]] 
-				  card-last-interval:: -1
-				  card-repeats:: 1
-				  card-ease-factor:: 2.36
-				  card-next-schedule:: 2022-05-17T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-16T17:59:45.799Z
-				  card-last-score:: 1
+				  card-last-interval:: 4
+				  card-repeats:: 2
+				  card-ease-factor:: 2.22
+				  card-next-schedule:: 2022-05-21T18:00:26.789Z
+				  card-last-reviewed:: 2022-05-17T18:00:26.790Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- n.
 					  1. 严厉; 严格; 严酷[U]
@@ -549,12 +550,12 @@ status:: 正在读
 					  **3. 意图; 期望**
 					  She bought three dresses in contemplation of her trip. 她为了作一次旅行买了三套衣服。
 				- abstinence:[\`æbstәnәns;\`æbstinәns] [[card]] 
-				  card-last-interval:: 4
-				  card-repeats:: 2
+				  card-last-interval:: -1
+				  card-repeats:: 1
 				  card-ease-factor:: 2.36
-				  card-next-schedule:: 2022-05-17T11:38:07.476Z
-				  card-last-reviewed:: 2022-05-13T11:38:07.477Z
-				  card-last-score:: 3
+				  card-next-schedule:: 2022-05-18T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-17T18:00:51.141Z
+				  card-last-score:: 1
 				  collapsed:: true
 					- n.[U]
 					  1.  (饮食及享乐方面的)节制; 禁饮; 戒酒[(+from)]
