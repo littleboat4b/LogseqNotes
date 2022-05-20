@@ -63,11 +63,11 @@ status:: 正在读
 				  The meaning of the passage is obscure.
 			- acquaint: [ә\`kwent;ә\`kweint] [[card]]
 			  card-last-score:: 5
-			  card-repeats:: 3
-			  card-next-schedule:: 2022-05-20T09:52:03.166Z
-			  card-last-interval:: 9.84
-			  card-ease-factor:: 2.46
-			  card-last-reviewed:: 2022-05-10T13:52:03.167Z
+			  card-repeats:: 4
+			  card-next-schedule:: 2022-06-15T17:35:35.839Z
+			  card-last-interval:: 26.21
+			  card-ease-factor:: 2.56
+			  card-last-reviewed:: 2022-05-20T12:35:35.841Z
 			  collapsed:: true
 				- vt.[(+with)]
 				- 1. 使认识, 介绍
@@ -211,11 +211,11 @@ status:: 正在读
 			- [[English New Word]]
 			  collapsed:: true
 				- heredity: [hә\`rєdәtI;hi\`rediti] [[card]]
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 2.22
-				  card-next-schedule:: 2022-05-18T20:35:16.950Z
-				  card-last-reviewed:: 2022-05-14T20:35:16.952Z
+				  card-last-interval:: 8.32
+				  card-repeats:: 3
+				  card-ease-factor:: 2.08
+				  card-next-schedule:: 2022-05-27T21:07:55.558Z
+				  card-last-reviewed:: 2022-05-19T14:07:55.559Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- n.
@@ -223,11 +223,11 @@ status:: 正在读
 					  My height comes from my heredity.
 					  我的身高来自于遗传。
 				- ruthless: [\`ruθlIs;\`ru:θlis] [[card]]
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 2.7
-				  card-next-schedule:: 2022-05-18T20:34:04.850Z
-				  card-last-reviewed:: 2022-05-14T20:34:04.851Z
+				  card-last-interval:: 11.2
+				  card-repeats:: 3
+				  card-ease-factor:: 2.8
+				  card-next-schedule:: 2022-05-30T18:06:20.623Z
+				  card-last-reviewed:: 2022-05-19T14:06:20.624Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- a.
@@ -276,23 +276,23 @@ status:: 正在读
 					  4. 【谑】(爱情的)俘虏[C]
 					  5. 【史】(大写)(诺曼人的)征服英国[the S]
 				- boastful: [\`bostfәl;\`bәustfәl] [[card]] 
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 2.46
-				  card-next-schedule:: 2022-05-18T20:35:32.457Z
-				  card-last-reviewed:: 2022-05-14T20:35:32.461Z
-				  card-last-score:: 3
+				  card-last-interval:: 10.24
+				  card-repeats:: 3
+				  card-ease-factor:: 2.56
+				  card-next-schedule:: 2022-05-29T19:08:08.588Z
+				  card-last-reviewed:: 2022-05-19T14:08:08.589Z
+				  card-last-score:: 5
 				  collapsed:: true
 					- a.
 					  1. 自夸的; 爱自夸的[(+of/about)]
 					  He is boastful of his learning.
 					  他总是夸耀自己的学识。
 				- obnoxious:[әb\`nɑkʃәs;әb\`nɔkʃәs][[card]]
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 2.22
-				  card-next-schedule:: 2022-05-18T20:33:58.712Z
-				  card-last-reviewed:: 2022-05-14T20:33:58.713Z
+				  card-last-interval:: 8.32
+				  card-repeats:: 3
+				  card-ease-factor:: 2.08
+				  card-next-schedule:: 2022-05-27T21:06:15.355Z
+				  card-last-reviewed:: 2022-05-19T14:06:15.356Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- a.
@@ -316,11 +316,11 @@ status:: 正在读
 					  The explorers lived on a monotonous diet of beans and rice.
 					  探险者靠吃豆子和米饭这些单调的食物为生。
 				- colony: [\`kɑlәnI;\`kɔlәni] [[card]] 
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 2.7
-				  card-next-schedule:: 2022-05-18T20:34:47.440Z
-				  card-last-reviewed:: 2022-05-14T20:34:47.442Z
+				  card-last-interval:: 11.2
+				  card-repeats:: 3
+				  card-ease-factor:: 2.8
+				  card-next-schedule:: 2022-05-30T18:07:19.460Z
+				  card-last-reviewed:: 2022-05-19T14:07:19.461Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- n.[C]
@@ -336,12 +336,12 @@ status:: 正在读
 					  A colony of gulls inhabits the island.
 					  一群海鸥栖息于这个岛上。**
 				- futile: [\`fjutḷ;\`fju:tail] [[card]] 
-				  card-last-interval:: -1
-				  card-repeats:: 1
-				  card-ease-factor:: 2.5
-				  card-next-schedule:: 2022-05-18T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-17T18:02:54.358Z
-				  card-last-score:: 1
+				  card-last-interval:: 3.58
+				  card-repeats:: 2
+				  card-ease-factor:: 2.36
+				  card-next-schedule:: 2022-05-22T08:29:08.621Z
+				  card-last-reviewed:: 2022-05-18T19:29:08.622Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- a.
 					  1. 无益的, 无效的, 无用的; 无希望的
@@ -371,12 +371,12 @@ status:: 正在读
 					  John has a number of nagging worries.
 					  约翰有不少牵肠挂肚的心事。
 				- solitude:[\`sɑlәˏtjud;\`sɔlitju:d] [[card]] 
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 2.22
-				  card-next-schedule:: 2022-05-18T20:34:34.041Z
-				  card-last-reviewed:: 2022-05-14T20:34:34.042Z
-				  card-last-score:: 3
+				  card-last-interval:: 9.28
+				  card-repeats:: 3
+				  card-ease-factor:: 2.32
+				  card-next-schedule:: 2022-05-28T20:06:54.445Z
+				  card-last-reviewed:: 2022-05-19T14:06:54.446Z
+				  card-last-score:: 5
 				  collapsed:: true
 					- n.
 					  1. 孤独; 寂寞; 隐居[U]
@@ -384,11 +384,11 @@ status:: 正在读
 					  他们寻找一个可以过隐居生活的地方。
 					  2. 冷僻(处); 荒凉(之地)[C][U]
 				- crowd:[kraʊd;kraud] [[card]] 
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 2.7
-				  card-next-schedule:: 2022-05-18T20:33:45.159Z
-				  card-last-reviewed:: 2022-05-14T20:33:45.160Z
+				  card-last-interval:: 11.2
+				  card-repeats:: 3
+				  card-ease-factor:: 2.8
+				  card-next-schedule:: 2022-05-30T18:06:06.709Z
+				  card-last-reviewed:: 2022-05-19T14:06:06.711Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- n.
@@ -404,11 +404,11 @@ status:: 正在读
 					  People crowded into the cinema.
 					  人们挤进电影院。
 				- cynical:[\`sInIkḷ;\`sinikәl] [[card]] 
-				  card-last-interval:: 3.86
+				  card-last-interval:: 4
 				  card-repeats:: 2
-				  card-ease-factor:: 2.36
-				  card-next-schedule:: 2022-05-18T16:34:26.813Z
-				  card-last-reviewed:: 2022-05-14T20:34:26.814Z
+				  card-ease-factor:: 2.22
+				  card-next-schedule:: 2022-05-23T14:06:48.594Z
+				  card-last-reviewed:: 2022-05-19T14:06:48.595Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- a.
@@ -418,12 +418,13 @@ status:: 正在读
 					  2. 挖苦的, 冷嘲的
 					  cynical remarks  挖苦话
 					  3. (大写)犬儒主义的
+					- 助记法：cynical的读法就是吸你哥.若你把它想成——因为你很嫉妒,所以你去洗你哥的血!
 				- embitter:[Im\`bItɚ;im\`bitә] [[card]] 
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 2.7
-				  card-next-schedule:: 2022-05-18T20:34:42.904Z
-				  card-last-reviewed:: 2022-05-14T20:34:42.905Z
+				  card-last-interval:: 11.2
+				  card-repeats:: 3
+				  card-ease-factor:: 2.8
+				  card-next-schedule:: 2022-05-30T18:07:10.882Z
+				  card-last-reviewed:: 2022-05-19T14:07:10.883Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- vt.[H]
@@ -453,12 +454,12 @@ status:: 正在读
 						  5. 极大的, 极度的[B]
 						  She lives in mortal terror of her husband's anger. 她极度害怕她丈夫发脾气。
 				- dim:[dIm;dim] [[card]]
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 2.46
-				  card-next-schedule:: 2022-05-18T20:36:28.997Z
-				  card-last-reviewed:: 2022-05-14T20:36:28.998Z
-				  card-last-score:: 3
+				  card-last-interval:: 10.24
+				  card-repeats:: 3
+				  card-ease-factor:: 2.56
+				  card-next-schedule:: 2022-05-29T19:08:14.101Z
+				  card-last-reviewed:: 2022-05-19T14:08:14.102Z
+				  card-last-score:: 5
 				  collapsed:: true
 					- a.
 					   1. 微暗的; 暗淡的
@@ -502,11 +503,11 @@ status:: 正在读
 					- vi.
 						- 1. 表示轻蔑, 表示鄙视
 				- commitment:[kә\`mItmәnt;kә\`mitmәnt] [[card]] 
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 2.7
-				  card-next-schedule:: 2022-05-18T20:35:21.651Z
-				  card-last-reviewed:: 2022-05-14T20:35:21.652Z
+				  card-last-interval:: 11.2
+				  card-repeats:: 3
+				  card-ease-factor:: 2.8
+				  card-next-schedule:: 2022-05-30T18:08:03.540Z
+				  card-last-reviewed:: 2022-05-19T14:08:03.541Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- n.
@@ -535,11 +536,11 @@ status:: 正在读
 					  early Christian austerities 早期基督教徒的苦行
 					  **4. 紧缩, 严格的节制消费[U]**
 				- contemplation:[ˏkɑntєm\`pleʃәn;ˏkɔntem\`pleiʃәn] [[card]] 
-				  card-last-interval:: 3.59
-				  card-repeats:: 2
-				  card-ease-factor:: 2.36
-				  card-next-schedule:: 2022-05-18T10:36:09.458Z
-				  card-last-reviewed:: 2022-05-14T20:36:09.460Z
+				  card-last-interval:: 8.88
+				  card-repeats:: 3
+				  card-ease-factor:: 2.22
+				  card-next-schedule:: 2022-05-27T16:29:00.260Z
+				  card-last-reviewed:: 2022-05-18T19:29:00.265Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- n.[U]
@@ -549,19 +550,24 @@ status:: 正在读
 					  He reached his decision after a good deal of contemplation. 他经过周密思考后作出了决定。
 					  **3. 意图; 期望**
 					  She bought three dresses in contemplation of her trip. 她为了作一次旅行买了三套衣服。
+					- 助记法：
+						- contemplate => vt. 沉思；注视；思忖；预期
+						  vi. 冥思苦想；深思熟虑
+						- 【词根】con（一起、共同）+ templ（=temple，n.庙宇）+ ate (动词后缀) -> 一起在庙里想...
 				- abstinence:[\`æbstәnәns;\`æbstinәns] [[card]] 
-				  card-last-interval:: -1
-				  card-repeats:: 1
-				  card-ease-factor:: 2.36
-				  card-next-schedule:: 2022-05-18T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-17T18:00:51.141Z
-				  card-last-score:: 1
+				  card-last-interval:: 4
+				  card-repeats:: 2
+				  card-ease-factor:: 2.22
+				  card-next-schedule:: 2022-05-23T14:07:36.540Z
+				  card-last-reviewed:: 2022-05-19T14:07:36.541Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- n.[U]
 					  1.  (饮食及享乐方面的)节制; 禁饮; 戒酒[(+from)]
 					  protracted abstinence from soap  长期不用肥皂
 					  total abstinence from alcohol  绝对戒酒
 					  2. 【宗】禁食
+					- 助记法：abstinence＝ab 离开 ＋stin 刺 （sting 刺）＋ence戒除，节制
 		- SESSION 2
 			- ORIGINS AND RELATED WORDS
 				- the ego
@@ -651,11 +657,11 @@ status:: 正在读
 			- [[English New Word]]
 			  collapsed:: true
 				- excursion：[Ik\`skˏʒәn;ikskә:ʃәn] [[card]]
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 2.46
-				  card-next-schedule:: 2022-05-18T20:34:38.332Z
-				  card-last-reviewed:: 2022-05-14T20:34:38.333Z
+				  card-last-interval:: 10.24
+				  card-repeats:: 3
+				  card-ease-factor:: 2.56
+				  card-next-schedule:: 2022-05-29T19:07:02.356Z
+				  card-last-reviewed:: 2022-05-19T14:07:02.357Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- n.
@@ -687,11 +693,11 @@ status:: 正在读
 					  "dentist"一词的意思是牙科医生。
 					  3. 【逻】指称
 				- morbid:[\`mɔrbId;\`mɔ:bid] [[card]] 
-				  card-last-interval:: 3.58
-				  card-repeats:: 2
-				  card-ease-factor:: 2.36
-				  card-next-schedule:: 2022-05-20T07:00:27.405Z
-				  card-last-reviewed:: 2022-05-16T18:00:27.406Z
+				  card-last-interval:: 8.88
+				  card-repeats:: 3
+				  card-ease-factor:: 2.22
+				  card-next-schedule:: 2022-05-29T09:35:44.724Z
+				  card-last-reviewed:: 2022-05-20T12:35:44.726Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- a.
@@ -704,11 +710,11 @@ status:: 正在读
 					  4. 可怖的; 令人厌恶的
 					  the morbid details of a story 故事中令人毛骨悚然的细节
 				- dispute:[dI\`spjut;di\`spju:t] [[card]] 
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 2.7
-				  card-next-schedule:: 2022-05-18T20:34:16.083Z
-				  card-last-reviewed:: 2022-05-14T20:34:16.084Z
+				  card-last-interval:: 11.2
+				  card-repeats:: 3
+				  card-ease-factor:: 2.8
+				  card-next-schedule:: 2022-05-30T18:06:26.209Z
+				  card-last-reviewed:: 2022-05-19T14:06:26.210Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- vi.
@@ -727,12 +733,12 @@ status:: 正在读
 					  1. 争论; 争执; 争端[C][U][(+about/over/with)]
 					  The dispute was settled last week. 争端在上周解决了。
 				- sentiment:[\`sєntәmәnt;\`sentimәnt][[card]]
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 2.22
-				  card-next-schedule:: 2022-05-18T20:35:01.185Z
-				  card-last-reviewed:: 2022-05-14T20:35:01.186Z
-				  card-last-score:: 3
+				  card-last-interval:: 9.28
+				  card-repeats:: 3
+				  card-ease-factor:: 2.32
+				  card-next-schedule:: 2022-05-28T20:07:43.035Z
+				  card-last-reviewed:: 2022-05-19T14:07:43.036Z
+				  card-last-score:: 5
 				  collapsed:: true
 					- n.
 					  1. 感情, 心情; 情操[U][C]
