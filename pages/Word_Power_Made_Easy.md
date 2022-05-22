@@ -89,12 +89,12 @@ status:: 正在读
 				  Did you spend hours every day poring over a dictionary?
 				  vt. 使注视得
 			- absurd: [әb\`sˏd;әb\`sә:d] [[card]]
-			  card-last-score:: 3
-			  card-repeats:: 2
-			  card-next-schedule:: 2022-05-21T17:59:54.308Z
-			  card-last-interval:: 4
+			  card-last-score:: 1
+			  card-repeats:: 1
+			  card-next-schedule:: 2022-05-23T04:00:00.000Z
+			  card-last-interval:: -1
 			  card-ease-factor:: 2.22
-			  card-last-reviewed:: 2022-05-17T17:59:54.313Z
+			  card-last-reviewed:: 2022-05-22T19:00:53.877Z
 			  collapsed:: true
 				- a.
 				  1. 不合理的, 荒谬的; 可笑的, 愚蠢的
@@ -102,13 +102,14 @@ status:: 正在读
 				  在这么恶劣的天气里出去太荒唐。
 				  His idea is absurd.
 				  他的想法是愚蠢可笑的。
+				- 【词根】ab(away)+surd(sure确信)→不能令人信的→不合理的
 			- insatiable: [In\`seʃIәbḷ;in\`seiʃiәbl] [[card]]
-			  card-last-score:: 3
-			  card-repeats:: 3
-			  card-next-schedule:: 2022-05-22T08:38:18.214Z
-			  card-last-interval:: 8.88
-			  card-ease-factor:: 2.22
-			  card-last-reviewed:: 2022-05-13T11:38:18.214Z
+			  card-last-score:: 5
+			  card-repeats:: 4
+			  card-next-schedule:: 2022-06-13T07:01:17.666Z
+			  card-last-interval:: 21.53
+			  card-ease-factor:: 2.32
+			  card-last-reviewed:: 2022-05-22T19:01:17.667Z
 			  collapsed:: true
 				- a.
 				  1. 永不满足的; 贪得无厌的[(+for/of)]
@@ -256,11 +257,11 @@ status:: 正在读
 					  I don't have much conceit of his poems.
 					  我对他的诗作没有什么好评。
 				- conquest: [\`kɑŋkwєst;\`kɔŋkwest] [[card]] 
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 2.7
-				  card-next-schedule:: 2022-05-20T18:00:51.296Z
-				  card-last-reviewed:: 2022-05-16T18:00:51.297Z
+				  card-last-interval:: 11.2
+				  card-repeats:: 3
+				  card-ease-factor:: 2.8
+				  card-next-schedule:: 2022-06-02T23:01:32.011Z
+				  card-last-reviewed:: 2022-05-22T19:01:32.012Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- n.
@@ -336,11 +337,11 @@ status:: 正在读
 					  A colony of gulls inhabits the island.
 					  一群海鸥栖息于这个岛上。**
 				- futile: [\`fjutḷ;\`fju:tail] [[card]] 
-				  card-last-interval:: 3.58
-				  card-repeats:: 2
-				  card-ease-factor:: 2.36
-				  card-next-schedule:: 2022-05-22T08:29:08.621Z
-				  card-last-reviewed:: 2022-05-18T19:29:08.622Z
+				  card-last-interval:: 8.88
+				  card-repeats:: 3
+				  card-ease-factor:: 2.22
+				  card-next-schedule:: 2022-05-31T16:01:27.260Z
+				  card-last-reviewed:: 2022-05-22T19:01:27.261Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- a.
@@ -521,11 +522,11 @@ status:: 正在读
 					  6. 犯罪, 罪行[U][C]
 					  commitment of infanticide 杀婴
 				- austerity:[ɔ\`stєrәtI;ɔ:s\`teriti] [[card]] 
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 2.22
-				  card-next-schedule:: 2022-05-21T18:00:26.789Z
-				  card-last-reviewed:: 2022-05-17T18:00:26.790Z
+				  card-last-interval:: 8.32
+				  card-repeats:: 3
+				  card-ease-factor:: 2.08
+				  card-next-schedule:: 2022-05-31T02:01:06.064Z
+				  card-last-reviewed:: 2022-05-22T19:01:06.065Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- n.
