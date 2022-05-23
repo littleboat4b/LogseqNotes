@@ -1,0 +1,7 @@
+- 学习
+- [[艺术网站]]
+	- [创建英文字体的网站](https://beizhedenglong.github.io/weird-fonts/)
+		- mr jock, tv quiz phd, bags few lynx. - 含26个字母的练习
+	- [中英文字体设计](https://www.fonts.net.cn/) - 可下载
+-
+-
