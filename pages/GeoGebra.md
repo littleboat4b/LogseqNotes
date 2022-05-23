@@ -527,6 +527,7 @@ status:: 正在学习
 						- Sequence((Element({1,3,6},n)^2,n,1,Lenght({1,3,6})))
 		- 序列 Sequence()
 		  id:: 6282a432-53ac-4394-a1fa-ce56f24f4392
+		  collapsed:: true
 			- 定义
 				- 序列是比较有规则的列表
 					- 简答的
