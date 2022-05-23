@@ -467,12 +467,14 @@ status:: 正在学习
 - Geogebra技巧—艺术性
   id:: 626d23dc-f9ec-4669-979e-01cd90c5f34a
 	- 实现重复的手段（重复是一种美）
+	  collapsed:: true
 		- [自定义工具](((62829f01-784c-4c6b-be9a-599c5293c5a7)))
 		- [列表 List](((6282a42c-11c7-4aca-bf4a-1f755fa37d00)))
 		- [序列 Sequence](((6282a432-53ac-4394-a1fa-ce56f24f4392)))
 		- [迭代 Iteration](((62829f59-1465-4ab6-8431-7fec304b0ace)))
 	- 自定义工具
 	  id:: 62829f01-784c-4c6b-be9a-599c5293c5a7
+	  collapsed:: true
 		- 创建新工具
 			- Tools(工具) -> Create New Tool (创建新工具)
 			- 用Save as 可以把工具可以保存到.ggt文件中
@@ -483,6 +485,7 @@ status:: 正在学习
 	- 列表与序列
 		- 列表（list）
 		  id:: 6282a42c-11c7-4aca-bf4a-1f755fa37d00
+		  collapsed:: true
 			- 定义：
 				- 多个数据或多个对象的合集
 				- 数据是==有顺序==的，可重复的
@@ -544,12 +547,18 @@ status:: 正在学习
 					- `Sequence(Rotate(t,(n·30)˚),n,1,12)`
 				- 画很多的箭头（序列嵌套 or 二维序列）
 					- `Sequence(Sequence(Vector((i,j)),i,-5,5),j,-5,5)`
+				- 圆形展开-理解圆形面积的求法
+					- [圆的面积-展开板](https://www.geogebra.org/classic/hp4q8as4)
 		- 选择多个对象
 			- 在代数区（algebra）zhong
 				- 按住`ctrl`  或 `shift`，并点击选中
 			- 在绘图区中
 				- 按住`鼠标右键`，框选
 	- 绘图艺术
+		- [重复绘图 - 金刚石](https://www.geogebra.org/classic/dct4yjvq)
+			- 多边形-连接多个对角线
+			- 多边形：Polygon(A,B,n)
+		-
 	- 迭代
 	  id:: 62829f59-1465-4ab6-8431-7fec304b0ace
 	- 分形艺术
