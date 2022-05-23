@@ -558,6 +558,12 @@ status:: 正在学习
 		- [重复绘图 - 金刚石](https://www.geogebra.org/classic/dct4yjvq)
 			- 多边形-连接多个对角线
 			- 多边形：Polygon(A,B,n)
+			- A点固定（0,5）
+			- B点 - Rotate(A, 2π/n, O) - 以O为圆心，旋转，保证B点在一个圆上
+			- 其他顶点：
+				- list1: {Vertex(poly1)} - 形成一个序列
+			- 顶点之间的连线：
+				- list2: Sequence(Sequence(Segment(Element(list1, i), Element(list1, j)), j, i + 1, n, 4), i, 1, n - 1)
 		-
 	- 迭代
 	  id:: 62829f59-1465-4ab6-8431-7fec304b0ace
