@@ -565,9 +565,17 @@ status:: 正在学习
 				- list1: {Vertex(poly1)} - 形成一个序列
 			- 顶点之间的连线：
 				- list2: Sequence(Sequence(Segment(Element(list1, i), Element(list1, j)), j, i + 1, n, 4), i, 1, n - 1)
-		-
-	- 迭代
+		- 见4.3的所有图片和ggb
+	- 迭代 Iteration
 	  id:: 62829f59-1465-4ab6-8431-7fec304b0ace
+		- Iteration() 迭代，`得到最后的结果`
+			- Iteration(函数，初值，步数)
+			- Iteration(**表达式，变量**，=={初值}==，步数)
+		- IterationList() 迭代列表，`得到一系列值`
+			- IterationList(函数，初值，步数)
+			- IterationList(**表达式，变量，**=={初值}==，步数)
+		- `变量不要用x，也尽量不用i`
+		- 举例见 4.4
 	- 分形艺术
 	- 立体艺术
 	- Latex公式美化

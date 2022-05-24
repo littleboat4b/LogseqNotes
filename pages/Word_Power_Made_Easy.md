@@ -49,11 +49,11 @@ status:: 正在读
 			- teaser: [\`tizɚ;\`ti:zә] < {{cloze n.1. 戏弄者, 嘲弄者; 欺负他人者 2. 【口】难事, 难题}}
 			- obscure: [әb\`skjʊr;әb\`skjuә] [[card]]
 			  card-last-score:: 3
-			  card-repeats:: 3
-			  card-next-schedule:: 2022-05-23T03:34:55.661Z
-			  card-last-interval:: 8.32
-			  card-ease-factor:: 2.08
-			  card-last-reviewed:: 2022-05-14T20:34:55.662Z
+			  card-repeats:: 4
+			  card-next-schedule:: 2022-06-08T13:30:26.178Z
+			  card-last-interval:: 15.05
+			  card-ease-factor:: 1.94
+			  card-last-reviewed:: 2022-05-24T12:30:26.180Z
 			  collapsed:: true
 				- a.
 				  1. 暗的, 黑暗的; 朦胧的
@@ -89,12 +89,12 @@ status:: 正在读
 				  Did you spend hours every day poring over a dictionary?
 				  vt. 使注视得
 			- absurd: [әb\`sˏd;әb\`sә:d] [[card]]
-			  card-last-score:: 1
-			  card-repeats:: 1
-			  card-next-schedule:: 2022-05-23T04:00:00.000Z
-			  card-last-interval:: -1
-			  card-ease-factor:: 2.22
-			  card-last-reviewed:: 2022-05-22T19:00:53.877Z
+			  card-last-score:: 3
+			  card-repeats:: 2
+			  card-next-schedule:: 2022-05-28T12:30:06.116Z
+			  card-last-interval:: 4
+			  card-ease-factor:: 2.08
+			  card-last-reviewed:: 2022-05-24T12:30:06.120Z
 			  collapsed:: true
 				- a.
 				  1. 不合理的, 荒谬的; 可笑的, 愚蠢的
@@ -103,6 +103,7 @@ status:: 正在读
 				  His idea is absurd.
 				  他的想法是愚蠢可笑的。
 				- 【词根】ab(away)+surd(sure确信)→不能令人信的→不合理的
+				- [:audio {:controls true :src "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abs/absur/absurd__gb_1.mp3"}]
 			- insatiable: [In\`seʃIәbḷ;in\`seiʃiәbl] [[card]]
 			  card-last-score:: 5
 			  card-repeats:: 4
@@ -119,11 +120,11 @@ status:: 正在读
 				  他对音乐爱得入迷。
 			- prodigious: [prә\`dIdʒәs;prә\`didʒәs] [[card]]
 			  card-last-score:: 3
-			  card-repeats:: 3
-			  card-next-schedule:: 2022-05-23T17:35:39.501Z
-			  card-last-interval:: 8.88
-			  card-ease-factor:: 2.22
-			  card-last-reviewed:: 2022-05-14T20:35:39.502Z
+			  card-repeats:: 4
+			  card-next-schedule:: 2022-06-10T05:30:50.849Z
+			  card-last-interval:: 16.72
+			  card-ease-factor:: 2.08
+			  card-last-reviewed:: 2022-05-24T12:30:50.851Z
 			  collapsed:: true
 				- a.
 				  1. 巨大的; 庞大的
@@ -405,11 +406,11 @@ status:: 正在读
 					  People crowded into the cinema.
 					  人们挤进电影院。
 				- cynical:[\`sInIkḷ;\`sinikәl] [[card]] 
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 2.22
-				  card-next-schedule:: 2022-05-23T14:06:48.594Z
-				  card-last-reviewed:: 2022-05-19T14:06:48.595Z
+				  card-last-interval:: 8.32
+				  card-repeats:: 3
+				  card-ease-factor:: 2.08
+				  card-next-schedule:: 2022-06-01T19:30:17.440Z
+				  card-last-reviewed:: 2022-05-24T12:30:17.441Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- a.
@@ -556,12 +557,12 @@ status:: 正在读
 						  vi. 冥思苦想；深思熟虑
 						- 【词根】con（一起、共同）+ templ（=temple，n.庙宇）+ ate (动词后缀) -> 一起在庙里想...
 				- abstinence:[\`æbstәnәns;\`æbstinәns] [[card]] 
-				  card-last-interval:: 4
-				  card-repeats:: 2
+				  card-last-interval:: -1
+				  card-repeats:: 1
 				  card-ease-factor:: 2.22
-				  card-next-schedule:: 2022-05-23T14:07:36.540Z
-				  card-last-reviewed:: 2022-05-19T14:07:36.541Z
-				  card-last-score:: 3
+				  card-next-schedule:: 2022-05-25T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-24T12:30:44.971Z
+				  card-last-score:: 1
 				  collapsed:: true
 					- n.[U]
 					  1.  (饮食及享乐方面的)节制; 禁饮; 戒酒[(+from)]
