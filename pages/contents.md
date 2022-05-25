@@ -1,6 +1,5 @@
 - [[学习笔记]]
 	- [[Logseq]]
-	  collapsed:: true
 		- **[[基础概念]]**
 			- ((b3955026-a5a5-4b6e-88bd-91b3627b56a4))
 			- ((ac92b570-f1aa-4396-ac1a-e0d86de5d9e8))

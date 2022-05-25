@@ -133,11 +133,11 @@ status:: 正在读
 				  2. 异常的; 惊人的; 奇妙的
 			- delusion: [dI\`luʒәn;di\`lu:ʒәn] [[card]]
 			  card-last-score:: 5
-			  card-repeats:: 3
-			  card-next-schedule:: 2022-05-25T01:34:09.867Z
-			  card-last-interval:: 10.24
-			  card-ease-factor:: 2.56
-			  card-last-reviewed:: 2022-05-14T20:34:09.868Z
+			  card-repeats:: 4
+			  card-next-schedule:: 2022-06-23T02:58:52.415Z
+			  card-last-interval:: 28.3
+			  card-ease-factor:: 2.66
+			  card-last-reviewed:: 2022-05-25T19:58:52.416Z
 			  collapsed:: true
 				- n.
 				  1. 迷惑, 欺骗[U]
@@ -149,11 +149,11 @@ status:: 正在读
 				  汤姆怀有错觉, 认为自己是个要人。
 			- superstition: [ˏsupɚ\`stIʃәn;ˏsju:pә\`stiʃәn] [[card]]
 			  card-last-score:: 5
-			  card-repeats:: 3
-			  card-next-schedule:: 2022-05-25T01:33:24.367Z
-			  card-last-interval:: 10.24
-			  card-ease-factor:: 2.56
-			  card-last-reviewed:: 2022-05-14T20:33:24.370Z
+			  card-repeats:: 4
+			  card-next-schedule:: 2022-06-23T02:58:45.469Z
+			  card-last-interval:: 28.3
+			  card-ease-factor:: 2.66
+			  card-last-reviewed:: 2022-05-25T19:58:45.471Z
 			  collapsed:: true
 				- n.[C][U]
 				  1. 迷信; 迷信行为
@@ -239,11 +239,11 @@ status:: 正在读
 					  如果我们要杜绝不必要的浪费, 就得硬著心肠做。
 					  形变: more ruthless; most ruthless
 				- conceit: [kәn\`sit;kәn\`si:t] [[card]] 
-				  card-last-interval:: 8.88
-				  card-repeats:: 3
-				  card-ease-factor:: 2.22
-				  card-next-schedule:: 2022-05-25T15:00:04.494Z
-				  card-last-reviewed:: 2022-05-16T18:00:04.495Z
+				  card-last-interval:: 17.31
+				  card-repeats:: 4
+				  card-ease-factor:: 2.08
+				  card-next-schedule:: 2022-06-12T03:02:21.427Z
+				  card-last-reviewed:: 2022-05-25T20:02:21.430Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- n.
@@ -257,6 +257,7 @@ status:: 正在读
 					  4. 好评[U]
 					  I don't have much conceit of his poems.
 					  我对他的诗作没有什么好评。
+					- **arrogant/conceit都有“傲慢、狂妄”的意思**
 				- conquest: [\`kɑŋkwєst;\`kɔŋkwest] [[card]] 
 				  card-last-interval:: 11.2
 				  card-repeats:: 3
@@ -560,8 +561,8 @@ status:: 正在读
 				  card-last-interval:: -1
 				  card-repeats:: 1
 				  card-ease-factor:: 2.22
-				  card-next-schedule:: 2022-05-25T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-24T12:30:44.971Z
+				  card-next-schedule:: 2022-05-26T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-25T20:05:45.889Z
 				  card-last-score:: 1
 				  collapsed:: true
 					- n.[U]
@@ -570,6 +571,7 @@ status:: 正在读
 					  total abstinence from alcohol  绝对戒酒
 					  2. 【宗】禁食
 					- 助记法：abstinence＝ab 离开 ＋stin 刺 （sting 刺）＋ence戒除，节制
+					- [:audio {:controls true :src "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/a/abs/absti/abstinence__us_1.mp3"}]
 		- SESSION 2
 			- ORIGINS AND RELATED WORDS
 				- the ego
@@ -679,11 +681,11 @@ status:: 正在读
 					  excursion from the major theme
 					  偏离主题
 				- denote:[dI\`not;di\`nәut] [[card]]
-				  card-last-interval:: 8.88
-				  card-repeats:: 3
-				  card-ease-factor:: 2.22
-				  card-next-schedule:: 2022-05-25T14:59:55.255Z
-				  card-last-reviewed:: 2022-05-16T17:59:55.256Z
+				  card-last-interval:: 17.31
+				  card-repeats:: 4
+				  card-ease-factor:: 2.08
+				  card-next-schedule:: 2022-06-12T02:59:00.542Z
+				  card-last-reviewed:: 2022-05-25T19:59:00.543Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- vt.
