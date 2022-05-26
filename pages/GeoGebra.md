@@ -576,10 +576,46 @@ status:: 正在学习
 			- IterationList(**表达式，变量，**=={初值}==，步数)
 		- `变量不要用x，也尽量不用i`
 		- 举例见 4.4
-	- 分形艺术
+	- 分形(fractal)艺术
+		- 分形 fractal
+			- Mandelbort提出
+			- 海岸线的长度
+			- 整体与部分相似
+		- 画分形图
+			- 使用序列 - 简单
+			- 使用迭代 - 复杂
+			- 使用自定义工具 - 复杂的函数
+		- 举例见 4.5
+			- Hilbert 曲线
 	- 立体艺术
+		- 举例见 4.6
 	- Latex公式美化
+		- 公式美化
+			- Text 文本
+				- 文本的位置与角度
+					- Text("Hello", (2,5))
+						- 一个位于（2,5）的“Hello”
+					- Text(RotateText("Hello", 30°), (2,5), **true, true**)
+						- 一个位于（2,5）并且旋转30°的“Hello”
+						- 注意两个**true**
+			- **FormulaText 公式文本**
+			- FractionText 分数文本
+			- SurdText 根式文本
+			- ScientificText 科学记数法
+		- 文本美化
+			- 文本工具中使用Latex
+				- 常用命令
+					- 以后补充
+				- 资料：
+					- 常见公式： https://wiki.geogebra.org/en/LaTeX-code_for_the_most_common_formulas
+					- [一份不太简短的LATEX2介绍.pdf](file:///home/yangyang/nstore/downloads/GeoGebra/%E4%B8%80%E4%BB%BD%E4%B8%8D%E5%A4%AA%E7%AE%80%E7%9F%AD%E7%9A%84LATEX2%E4%BB%8B%E7%BB%8D.pdf)
+					- [GeoGebra中的LaTeX语法](file:///home/yangyang/nstore/downloads/GeoGebra/GeoGebra%20%E4%B8%AD%E7%9A%84%20LaTeX%20%E8%AF%AD%E6%B3%95%20-%20v2.0%20-%20%E6%AE%B5%E6%98%8E.pdf)
+					- LaTeX官网： https://latex.org
+		- 标签美化
+			- 4.7.1 - 以后补充
+		- 举例见 4.7
 	- 图片与声音
+		- 举例见 4.8
 	- 本周思维导图
 		- ![2022_05_16_image.png](https://cdn.logseq.com/%2F7931a79d-4502-46b5-960f-d524ffe4d9a4951cbd4c-7ece-45e6-a6c1-0618ea3154d82022_05_16_image.png?Expires=4806327510&Signature=O1kRiRiR-XQav-~lA-GsXknF3V99rg1bLHHGfdpkIIuQ~Uj4y8iEdLEl1hwOf~y7uh1rzyqJfD3QtsS3N-sxenBiJkGfYYZeeAv2uKDA1K6E9Q0JOTsTw3SuE76eqUxVFdQvEhXaeq3ssdp4VXSWKL1rIe~1aLgsdRh1m7QXZ~kBf0akoOEekryhvvlBB9eUDxxrNQP8PtppHRd3uFpEx5GYC7gNweHyMD8e5XR63GAq5TXCvHd2iU2T95oC7kV8Tu~ea9yHxTBjUzC~wx7TKK573mUlVkNTLXohZqKQ3DgrALQlHe2enPq3VwZgSvSI0gTGmg5fdF~zqaZ7VDQYfQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 2641, :width 738}
 - Geogebra应用—交互性
