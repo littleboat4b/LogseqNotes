@@ -78,11 +78,11 @@ status:: 正在读
 				  我让他熟悉了案情
 			- pore: *[pɒ:] [[card]]
 			  card-last-score:: 5
-			  card-repeats:: 3
-			  card-next-schedule:: 2022-05-26T00:35:59.525Z
-			  card-last-interval:: 11.2
-			  card-ease-factor:: 2.8
-			  card-last-reviewed:: 2022-05-14T20:35:59.526Z
+			  card-repeats:: 4
+			  card-next-schedule:: 2022-06-29T04:28:16.041Z
+			  card-last-interval:: 33.64
+			  card-ease-factor:: 2.9
+			  card-last-reviewed:: 2022-05-26T13:28:16.043Z
 			  collapsed:: true
 				- n. 毛孔, 小孔, 气孔
 				  vi. 专心阅读, 细想, 钻研, 沉思, 注视
@@ -558,12 +558,12 @@ status:: 正在读
 						  vi. 冥思苦想；深思熟虑
 						- 【词根】con（一起、共同）+ templ（=temple，n.庙宇）+ ate (动词后缀) -> 一起在庙里想...
 				- abstinence:[\`æbstәnәns;\`æbstinәns] [[card]] 
-				  card-last-interval:: -1
-				  card-repeats:: 1
-				  card-ease-factor:: 2.22
-				  card-next-schedule:: 2022-05-26T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-25T20:05:45.889Z
-				  card-last-score:: 1
+				  card-last-interval:: 4
+				  card-repeats:: 2
+				  card-ease-factor:: 2.08
+				  card-next-schedule:: 2022-05-30T13:28:09.357Z
+				  card-last-reviewed:: 2022-05-26T13:28:09.361Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- n.[U]
 					  1.  (饮食及享乐方面的)节制; 禁饮; 戒酒[(+from)]
