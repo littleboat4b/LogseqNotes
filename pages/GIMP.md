@@ -1,4 +1,8 @@
 - 学习
+	- GIMP Tutorial: Wrap Text Around A Circle
+	  id:: 628fccd2-0e17-43bd-aa5d-f59fb7ff750a
+		- {{youtube https://www.youtube.com/watch?v=_Wq_A-jkWQE&t=451s}}
+-
 - [[艺术网站]]
 	- [创建英文字体的网站](https://beizhedenglong.github.io/weird-fonts/)
 		- mr jock, tv quiz phd, bags few lynx. - 含26个字母的练习

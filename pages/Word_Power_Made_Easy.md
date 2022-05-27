@@ -164,7 +164,6 @@ status:: 正在读
 	  3. How to Talk About Personality Types (Sessions 1–3)
 		- SESSION 1
 			- Idears
-			  collapsed:: true
 				- An egoist - me first
 					- egoist: [\`igoIst;\`egәuist] {{cloze n. 1. 利己主义者; 自我中心者; 自负的人}}
 					- aboveboard: [ә\`bʌv\`bord;ә\`bʌv\`bɔ:d] {{cloze ad. 1. 率直地; 光明正大地; 公开地}}
@@ -188,7 +187,6 @@ status:: 正在读
 				- An ascetic - "... that the flesh is heir to ..."
 					- ascetic:[ә\`sєtIk;ә\`setik] {{cloze n. 1. 禁欲主义者; 苦行者; 苦修者a. 1. 禁欲主义的; 苦行的}}
 			- Using the words
-			  collapsed:: true
 				- Can you pronounce the words?
 					- 1. egoist	EE′-gō-ist
 						- g. believes in self-advancement
@@ -211,7 +209,6 @@ status:: 正在读
 					- 10. ascetic	Ə-SET′-ik
 						- e. does not pursue pleasures of the flesh
 			- [[English New Word]]
-			  collapsed:: true
 				- heredity: [hә\`rєdәtI;hi\`rediti] [[card]]
 				  card-last-interval:: 8.32
 				  card-repeats:: 3
@@ -219,7 +216,6 @@ status:: 正在读
 				  card-next-schedule:: 2022-05-27T21:07:55.558Z
 				  card-last-reviewed:: 2022-05-19T14:07:55.559Z
 				  card-last-score:: 3
-				  collapsed:: true
 					- n.
 					  1. 遗传[U]
 					  My height comes from my heredity.
@@ -304,11 +300,11 @@ status:: 正在读
 					  一种难闻的气味
 					  形变: more obnoxious; most obnoxious
 				- monotonous:[mә\`nɑtәnәs;mә\`nɔtәnәs] [[card]] 
-				  card-last-interval:: 8.88
-				  card-repeats:: 3
-				  card-ease-factor:: 2.22
-				  card-next-schedule:: 2022-05-26T15:00:12.557Z
-				  card-last-reviewed:: 2022-05-17T18:00:12.557Z
+				  card-last-interval:: 17.31
+				  card-repeats:: 4
+				  card-ease-factor:: 2.08
+				  card-next-schedule:: 2022-06-13T18:58:49.307Z
+				  card-last-reviewed:: 2022-05-27T11:58:49.313Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- a.
@@ -359,11 +355,11 @@ status:: 正在读
 					  那个没出息的青年人只会浪费钱。
 					- 助记法：fu（覆盖）+ tile（瓦片，瓷砖）-> 台风来啦！覆盖瓦片是没用的。
 				- nagging:[\`nægIŋ;\`nægiŋ] [[card]] 
-				  card-last-interval:: 10.8
-				  card-repeats:: 3
-				  card-ease-factor:: 2.7
-				  card-next-schedule:: 2022-05-27T13:00:15.006Z
-				  card-last-reviewed:: 2022-05-16T18:00:15.007Z
+				  card-last-interval:: 31.36
+				  card-repeats:: 4
+				  card-ease-factor:: 2.8
+				  card-next-schedule:: 2022-06-27T21:12:44.609Z
+				  card-last-reviewed:: 2022-05-27T13:12:44.611Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- a.
@@ -435,12 +431,12 @@ status:: 正在读
 					  He was embittered by repeated failures. 他因屡遭失败而痛苦。
 					  2. 使更苦; 使怨恨; 激怒
 				- mortal:[\`mɔrtḷ;\`mɔ:tl] [[card]] 
-				  card-last-interval:: 8.88
-				  card-repeats:: 3
-				  card-ease-factor:: 2.22
-				  card-next-schedule:: 2022-05-26T15:03:05.169Z
-				  card-last-reviewed:: 2022-05-17T18:03:05.170Z
-				  card-last-score:: 3
+				  card-last-interval:: 21.53
+				  card-repeats:: 4
+				  card-ease-factor:: 2.32
+				  card-next-schedule:: 2022-06-18T00:01:19.601Z
+				  card-last-reviewed:: 2022-05-27T12:01:19.602Z
+				  card-last-score:: 5
 				  collapsed:: true
 					- n.
 						- 1. 人, 凡人[C][P1]
@@ -756,11 +752,11 @@ status:: 正在读
 					  5. 简单的致词; 感想[S]
 					  Mr.Jones was called on for a sentiment. 琼斯先生应邀发表感想。
 				- inferior:\[In\`fIrIɚ;in\`fiәriә] [[card]] 
-				  card-last-interval:: 9.84
-				  card-repeats:: 3
-				  card-ease-factor:: 2.46
-				  card-next-schedule:: 2022-05-26T14:00:10.445Z
-				  card-last-reviewed:: 2022-05-16T18:00:10.445Z
+				  card-last-interval:: 26.21
+				  card-repeats:: 4
+				  card-ease-factor:: 2.56
+				  card-next-schedule:: 2022-06-22T17:01:10.789Z
+				  card-last-reviewed:: 2022-05-27T12:01:10.790Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- a.[Z]

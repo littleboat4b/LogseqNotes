@@ -615,9 +615,42 @@ status:: 正在学习
 			- 4.7.1 - 以后补充
 		- 举例见 4.7
 	- 图片与声音
+		- 声音
+			- PlaySound 播放声音
+				- PlaySound(sin(440 2Pi x), 0, 1)
+				- PlaySound("网络上的声音文件.mp3")
+				- PlaySound(false) 暂停
+				- PlaySound(<Note>, <Duration>, <Instrument>)
+		- 图片
+			- 使用图片（Image）工具
+			- 编辑(Edit) - 插入图片(Inser Image From) - 从文件或剪贴板(File or Clipboard)
+			- 设置图片属性
+				- 图片的位置/大小（确定图片的四个角corner）
+				- 图片的透明度（opacity）
 		- 举例见 4.8
 	- 本周思维导图
-		- ![2022_05_16_image.png](https://cdn.logseq.com/%2F7931a79d-4502-46b5-960f-d524ffe4d9a4951cbd4c-7ece-45e6-a6c1-0618ea3154d82022_05_16_image.png?Expires=4806327510&Signature=O1kRiRiR-XQav-~lA-GsXknF3V99rg1bLHHGfdpkIIuQ~Uj4y8iEdLEl1hwOf~y7uh1rzyqJfD3QtsS3N-sxenBiJkGfYYZeeAv2uKDA1K6E9Q0JOTsTw3SuE76eqUxVFdQvEhXaeq3ssdp4VXSWKL1rIe~1aLgsdRh1m7QXZ~kBf0akoOEekryhvvlBB9eUDxxrNQP8PtppHRd3uFpEx5GYC7gNweHyMD8e5XR63GAq5TXCvHd2iU2T95oC7kV8Tu~ea9yHxTBjUzC~wx7TKK573mUlVkNTLXohZqKQ3DgrALQlHe2enPq3VwZgSvSI0gTGmg5fdF~zqaZ7VDQYfQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 2641, :width 738}
+		- ![2022_05_16_image.png](https://cdn.logseq.com/%2F7931a79d-4502-46b5-960f-d524ffe4d9a4951cbd4c-7ece-45e6-a6c1-0618ea3154d82022_05_16_image.png?Expires=4806327510&Signature=O1kRiRiR-XQav-~lA-GsXknF3V99rg1bLHHGfdpkIIuQ~Uj4y8iEdLEl1hwOf~y7uh1rzyqJfD3QtsS3N-sxenBiJkGfYYZeeAv2uKDA1K6E9Q0JOTsTw3SuE76eqUxVFdQvEhXaeq3ssdp4VXSWKL1rIe~1aLgsdRh1m7QXZ~kBf0akoOEekryhvvlBB9eUDxxrNQP8PtppHRd3uFpEx5GYC7gNweHyMD8e5XR63GAq5TXCvHd2iU2T95oC7kV8Tu~ea9yHxTBjUzC~wx7TKK573mUlVkNTLXohZqKQ3DgrALQlHe2enPq3VwZgSvSI0gTGmg5fdF~zqaZ7VDQYfQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 2643, :width 738}
 - Geogebra应用—交互性
   id:: 626d23eb-434a-43f1-8270-29888b8c3313
+	- 交互的Interactive
+		- 交互性
+			- 交互是探索的重要途径
+		- Geogebra的交互性的体现
+			- 任何对象是可以选择、拖动、变换
+			- 变量、滑动条
+			- 动点、轨迹
+		- 使用脚本实现更复杂的控制
+	- 事件及脚本（Events & Scripting）
+		- 事件（events）- 点击或属性改变时，引发的事件
+			- 三种事件（event）
+				- On Click （单击时）- 对具体对象而言
+				- On Update （更新时）- 对具体对象而言
+				- Global（全局） JavaScript
+		- 脚本（Scripting）
+			- 多条指令写在一起
+			- 比写程序简单
+			- 没有一般意义的循环等复杂语句
+			- 针对事件写脚本
+				- 在任意对象的属性中，选Scripting（脚本）
+	- ![2022_05_27_image.png](https://cdn.logseq.com/%2F7931a79d-4502-46b5-960f-d524ffe4d9a490115a90-d9cd-4bbf-bbd8-45b5a93af3182022_05_27_image.png?Expires=4807259689&Signature=F7H2lCayrTaRPw5dSKEH1gE3op8c6j0JDZMhPFj5huj55rndFtOe-q7kXzuuP2GkJ8lxmPUeY5bk7Vslx98LvPMzOK3aMt3-ZBWe0FBTcAQmJyBvPvYY8iwrz0gA~FKqmTKllay41JkeG-RkccS~UcoW5G8XE48Z5m3zpQAddzW2Yfd4WQAF2MzFVvRri8Cfw5K4bYQMW-uGQL9Naz9L7yL0b9tjiQga7ZxV7ftTPEVPNseUtCrjHl5obLrFtD1g4NKJcZYu9GUN4QkzyP4GTEMw8bpBxtCOj6LbW1I3azIcoEp~qIiQIf6ReABjjOqy~u4Uxb1n8CcZ1wf8mA2sOw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 -
