@@ -90,11 +90,11 @@ status:: 正在读
 				  vt. 使注视得
 			- absurd: [әb\`sˏd;әb\`sә:d] [[card]]
 			  card-last-score:: 3
-			  card-repeats:: 2
-			  card-next-schedule:: 2022-05-28T12:30:06.116Z
-			  card-last-interval:: 4
-			  card-ease-factor:: 2.08
-			  card-last-reviewed:: 2022-05-24T12:30:06.120Z
+			  card-repeats:: 3
+			  card-next-schedule:: 2022-06-05T19:25:22.124Z
+			  card-last-interval:: 7.76
+			  card-ease-factor:: 1.94
+			  card-last-reviewed:: 2022-05-29T01:25:22.128Z
 			  collapsed:: true
 				- a.
 				  1. 不合理的, 荒谬的; 可笑的, 愚蠢的
@@ -210,11 +210,11 @@ status:: 正在读
 						- e. does not pursue pleasures of the flesh
 			- [[English New Word]]
 				- heredity: [hә\`rєdәtI;hi\`rediti] [[card]]
-				  card-last-interval:: 8.32
-				  card-repeats:: 3
-				  card-ease-factor:: 2.08
-				  card-next-schedule:: 2022-05-27T21:07:55.558Z
-				  card-last-reviewed:: 2022-05-19T14:07:55.559Z
+				  card-last-interval:: 15.05
+				  card-repeats:: 4
+				  card-ease-factor:: 1.94
+				  card-next-schedule:: 2022-06-13T02:26:59.316Z
+				  card-last-reviewed:: 2022-05-29T01:26:59.317Z
 				  card-last-score:: 3
 					- n.
 					  1. 遗传[U]
@@ -287,12 +287,12 @@ status:: 正在读
 					  He is boastful of his learning.
 					  他总是夸耀自己的学识。
 				- obnoxious:[әb\`nɑkʃәs;әb\`nɔkʃәs][[card]]
-				  card-last-interval:: 8.32
-				  card-repeats:: 3
+				  card-last-interval:: -1
+				  card-repeats:: 1
 				  card-ease-factor:: 2.08
-				  card-next-schedule:: 2022-05-27T21:06:15.355Z
-				  card-last-reviewed:: 2022-05-19T14:06:15.356Z
-				  card-last-score:: 3
+				  card-next-schedule:: 2022-05-29T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-29T01:25:46.226Z
+				  card-last-score:: 1
 				  collapsed:: true
 					- a.
 					  1. 【文】令人非常不快的, 讨厌的, 可憎的
@@ -370,12 +370,12 @@ status:: 正在读
 					  John has a number of nagging worries.
 					  约翰有不少牵肠挂肚的心事。
 				- solitude:[\`sɑlәˏtjud;\`sɔlitju:d] [[card]] 
-				  card-last-interval:: 9.28
-				  card-repeats:: 3
-				  card-ease-factor:: 2.32
-				  card-next-schedule:: 2022-05-28T20:06:54.445Z
-				  card-last-reviewed:: 2022-05-19T14:06:54.446Z
-				  card-last-score:: 5
+				  card-last-interval:: 19.01
+				  card-repeats:: 4
+				  card-ease-factor:: 2.18
+				  card-next-schedule:: 2022-06-17T01:26:13.555Z
+				  card-last-reviewed:: 2022-05-29T01:26:13.556Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- n.
 					  1. 孤独; 寂寞; 隐居[U]
@@ -475,12 +475,12 @@ status:: 正在读
 					  他不太领会她的挖苦话。
 					  5. 悲观的, 怀疑的
 				- scorn:[skɔrn;skɔ:n] [[card]]
-				  card-last-interval:: 9.84
-				  card-repeats:: 3
-				  card-ease-factor:: 2.46
-				  card-next-schedule:: 2022-05-27T14:00:33.132Z
-				  card-last-reviewed:: 2022-05-17T18:00:33.133Z
-				  card-last-score:: 5
+				  card-last-interval:: 21.53
+				  card-repeats:: 4
+				  card-ease-factor:: 2.32
+				  card-next-schedule:: 2022-06-19T13:25:55.806Z
+				  card-last-reviewed:: 2022-05-29T01:25:55.808Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- n.
 						- 1. 轻蔑; 藐视[U][(+for)]
@@ -535,11 +535,11 @@ status:: 正在读
 					  early Christian austerities 早期基督教徒的苦行
 					  **4. 紧缩, 严格的节制消费[U]**
 				- contemplation:[ˏkɑntєm\`pleʃәn;ˏkɔntem\`pleiʃәn] [[card]] 
-				  card-last-interval:: 8.88
-				  card-repeats:: 3
-				  card-ease-factor:: 2.22
-				  card-next-schedule:: 2022-05-27T16:29:00.260Z
-				  card-last-reviewed:: 2022-05-18T19:29:00.265Z
+				  card-last-interval:: 14.39
+				  card-repeats:: 4
+				  card-ease-factor:: 2.08
+				  card-next-schedule:: 2022-06-12T10:27:17.282Z
+				  card-last-reviewed:: 2022-05-29T01:27:17.283Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- n.[U]
@@ -733,12 +733,12 @@ status:: 正在读
 					  1. 争论; 争执; 争端[C][U][(+about/over/with)]
 					  The dispute was settled last week. 争端在上周解决了。
 				- sentiment:[\`sєntәmәnt;\`sentimәnt][[card]]
-				  card-last-interval:: 9.28
-				  card-repeats:: 3
-				  card-ease-factor:: 2.32
-				  card-next-schedule:: 2022-05-28T20:07:43.035Z
-				  card-last-reviewed:: 2022-05-19T14:07:43.036Z
-				  card-last-score:: 5
+				  card-last-interval:: 19.01
+				  card-repeats:: 4
+				  card-ease-factor:: 2.18
+				  card-next-schedule:: 2022-06-17T01:26:43.879Z
+				  card-last-reviewed:: 2022-05-29T01:26:43.880Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- n.
 					  1. 感情, 心情; 情操[U][C]
@@ -748,7 +748,7 @@ status:: 正在读
 					  3. 感伤, 多愁善感[U][C]
 					  She is a woman of sentiment. 她是一个多愁善感的女人。
 					  4. 意见, 观点[C][P1][(+on)]
-					  I share your sentiments on this matter. 在这件事上我与你意见一致。
+					  I share your **sentiments on** this matter. 在这件事上我与你意见一致。
 					  5. 简单的致词; 感想[S]
 					  Mr.Jones was called on for a sentiment. 琼斯先生应邀发表感想。
 				- inferior:\[In\`fIrIɚ;in\`fiәriә] [[card]] 

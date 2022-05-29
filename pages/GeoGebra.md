@@ -644,13 +644,54 @@ status:: 正在学习
 		- 事件（events）- 点击或属性改变时，引发的事件
 			- 三种事件（event）
 				- On Click （单击时）- 对具体对象而言
+					- ZoomIn(1.2) - 点击一次放大1.2倍
+					- ZoomIn(1.5) - 点击一次缩小1.5倍
+					- StartAnimation(M, running) - 启动M点的动画
+					- SetCaption(button3, if(running, "暂停", "启动")) - 按钮在"暂停", "启动"之间切换
 				- On Update （更新时）- 对具体对象而言
-				- Global（全局） JavaScript
+					- SetValue(A, A+(C-A)/10) - C位置变动，A跟着变动
+					- SetColor(M, if(y(M)>0, "red", "green")) - M的Y轴大于0，M点为红色，小于0，M点为绿色
+				- Global（全局）- 用`JavaScript`来写
 		- 脚本（Scripting）
 			- 多条指令写在一起
 			- 比写程序简单
 			- 没有一般意义的循环等复杂语句
 			- 针对事件写脚本
 				- 在任意对象的属性中，选Scripting（脚本）
+		- 脚本常见任务
+			- 改变其他对象的属性
+			- 隐藏或显示
+			- 启动或触发动画
+			- 改变环境的状态
+			- 进行一些数据的计算
+		- 脚本指令
+			- 设置对象
+				- SetCaption - 标题（按钮）
+				- SetColor - 颜色
+				- SetBackgroundColor - 背景颜色
+				- SetLineStyle - 线型
+				- SetLineThichness - 线宽
+				- SetPointSize - 点径
+				- SetPointStyle - 点型
+			- 设置环境
+				- ShowAxes - 显示坐标轴
+				- ShowGrid - 显示网格
+				- ShowLabel - 显示标签
+				- SetVisibleInView - 显示对象
+				- SetActiveView - 激活绘图区
+				- SetAxesRatio - 坐标轴比例
+			- 其他重要指令
+				- SetValue - 赋值
+					- SetValue(a, a+1) - 从a变成a+1
+						- a 是自由对象，不依赖另外的值存在，比如定义了的对象
+					- SetValue(P, CopyFreeObject(%0))
+						- CopyFreeObject() - 拷贝P点，成为一个自由对象，和原来的P点没有任何关系
+				- StartAnimation - 开启动画
+				- **UpdateConstruction - 更新作图**
+				- ZoomIn - 放大
+				- ZoomOut - 缩小
+				- Pan - 平移视图（上下左右移动）
+				- SetTrace - 追踪
+				-
 	- ![2022_05_27_image.png](https://cdn.logseq.com/%2F7931a79d-4502-46b5-960f-d524ffe4d9a490115a90-d9cd-4bbf-bbd8-45b5a93af3182022_05_27_image.png?Expires=4807259689&Signature=F7H2lCayrTaRPw5dSKEH1gE3op8c6j0JDZMhPFj5huj55rndFtOe-q7kXzuuP2GkJ8lxmPUeY5bk7Vslx98LvPMzOK3aMt3-ZBWe0FBTcAQmJyBvPvYY8iwrz0gA~FKqmTKllay41JkeG-RkccS~UcoW5G8XE48Z5m3zpQAddzW2Yfd4WQAF2MzFVvRri8Cfw5K4bYQMW-uGQL9Naz9L7yL0b9tjiQga7ZxV7ftTPEVPNseUtCrjHl5obLrFtD1g4NKJcZYu9GUN4QkzyP4GTEMw8bpBxtCOj6LbW1I3azIcoEp~qIiQIf6ReABjjOqy~u4Uxb1n8CcZ1wf8mA2sOw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 -
