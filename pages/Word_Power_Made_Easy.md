@@ -275,24 +275,24 @@ status:: 正在读
 					  4. 【谑】(爱情的)俘虏[C]
 					  5. 【史】(大写)(诺曼人的)征服英国[the S]
 				- boastful: [\`bostfәl;\`bәustfәl] [[card]] 
-				  card-last-interval:: 10.24
-				  card-repeats:: 3
-				  card-ease-factor:: 2.56
-				  card-next-schedule:: 2022-05-29T19:08:08.588Z
-				  card-last-reviewed:: 2022-05-19T14:08:08.589Z
-				  card-last-score:: 5
+				  card-last-interval:: 23.43
+				  card-repeats:: 4
+				  card-ease-factor:: 2.42
+				  card-next-schedule:: 2022-06-22T11:48:25.225Z
+				  card-last-reviewed:: 2022-05-30T01:48:25.226Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- a.
 					  1. 自夸的; 爱自夸的[(+of/about)]
 					  He is boastful of his learning.
 					  他总是夸耀自己的学识。
 				- obnoxious:[әb\`nɑkʃәs;әb\`nɔkʃәs][[card]]
-				  card-last-interval:: -1
-				  card-repeats:: 1
-				  card-ease-factor:: 2.08
-				  card-next-schedule:: 2022-05-29T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-29T01:25:46.226Z
-				  card-last-score:: 1
+				  card-last-interval:: 4
+				  card-repeats:: 2
+				  card-ease-factor:: 1.94
+				  card-next-schedule:: 2022-06-03T01:48:13.126Z
+				  card-last-reviewed:: 2022-05-30T01:48:13.131Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- a.
 					  1. 【文】令人非常不快的, 讨厌的, 可憎的
@@ -453,11 +453,11 @@ status:: 正在读
 						  5. 极大的, 极度的[B]
 						  She lives in mortal terror of her husband's anger. 她极度害怕她丈夫发脾气。
 				- dim:[dIm;dim] [[card]]
-				  card-last-interval:: 10.24
-				  card-repeats:: 3
-				  card-ease-factor:: 2.56
-				  card-next-schedule:: 2022-05-29T19:08:14.101Z
-				  card-last-reviewed:: 2022-05-19T14:08:14.102Z
+				  card-last-interval:: 28.3
+				  card-repeats:: 4
+				  card-ease-factor:: 2.66
+				  card-next-schedule:: 2022-06-27T09:00:39.235Z
+				  card-last-reviewed:: 2022-05-30T02:00:39.237Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- a.
@@ -657,11 +657,11 @@ status:: 正在读
 			- [[English New Word]]
 			  collapsed:: true
 				- excursion：[Ik\`skˏʒәn;ikskә:ʃәn] [[card]]
-				  card-last-interval:: 10.24
-				  card-repeats:: 3
-				  card-ease-factor:: 2.56
-				  card-next-schedule:: 2022-05-29T19:07:02.356Z
-				  card-last-reviewed:: 2022-05-19T14:07:02.357Z
+				  card-last-interval:: 28.3
+				  card-repeats:: 4
+				  card-ease-factor:: 2.66
+				  card-next-schedule:: 2022-06-27T08:48:17.717Z
+				  card-last-reviewed:: 2022-05-30T01:48:17.717Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- n.
@@ -693,12 +693,12 @@ status:: 正在读
 					  "dentist"一词的意思是牙科医生。
 					  3. 【逻】指称
 				- morbid:[\`mɔrbId;\`mɔ:bid] [[card]] 
-				  card-last-interval:: 8.88
-				  card-repeats:: 3
+				  card-last-interval:: -1
+				  card-repeats:: 1
 				  card-ease-factor:: 2.22
-				  card-next-schedule:: 2022-05-29T09:35:44.724Z
-				  card-last-reviewed:: 2022-05-20T12:35:44.726Z
-				  card-last-score:: 3
+				  card-next-schedule:: 2022-05-30T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-30T02:00:29.341Z
+				  card-last-score:: 1
 				  collapsed:: true
 					- a.
 					  1. 疾病的; 疾病所致的
@@ -709,6 +709,8 @@ status:: 正在读
 					  a morbid liking for horrors 对恐怖片病态的喜爱
 					  4. 可怖的; 令人厌恶的
 					  the morbid details of a story 故事中令人毛骨悚然的细节
+					- [:audio {:controls true :src "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mor/morbi/morbid__us_1.mp3"}]
+					-
 				- dispute:[dI\`spjut;di\`spju:t] [[card]] 
 				  card-last-interval:: 11.2
 				  card-repeats:: 3
