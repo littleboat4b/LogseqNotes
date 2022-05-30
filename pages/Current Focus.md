@@ -1,4 +1,5 @@
 - 儿子矫正牙齿
+  collapsed:: true
 	- [Davis Orthodontics](https://www.davisortho.ca/treatment-options/braces/)
 		- Treatment Cost：The average orthodontic case is approximately `$5,000-$8,000`
 		- Treatment Length：Use the sliding scale to adjust treatment duration. Comprehensive treatments range from 6 to 30 months and average 18 months
@@ -24,3 +25,6 @@
 	  id:: 629389da-8335-4e17-b3f8-3061d505c5d1
 		- Mandy推荐，据说价格不错
 		- 周日关门，平时10～6点
+- 插入声音
+	- `[:audio {:controls true :src "https://声音文件的mp3的链接.mp3"}]`
+-

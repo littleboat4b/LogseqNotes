@@ -693,12 +693,12 @@ status:: 正在读
 					  "dentist"一词的意思是牙科医生。
 					  3. 【逻】指称
 				- morbid:[\`mɔrbId;\`mɔ:bid] [[card]] 
-				  card-last-interval:: -1
-				  card-repeats:: 1
-				  card-ease-factor:: 2.22
-				  card-next-schedule:: 2022-05-30T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-30T02:00:29.341Z
-				  card-last-score:: 1
+				  card-last-interval:: 4
+				  card-repeats:: 2
+				  card-ease-factor:: 2.08
+				  card-next-schedule:: 2022-06-03T13:06:31.448Z
+				  card-last-reviewed:: 2022-05-30T13:06:31.453Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- a.
 					  1. 疾病的; 疾病所致的
