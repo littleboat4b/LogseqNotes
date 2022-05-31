@@ -221,11 +221,11 @@ status:: 正在读
 					  My height comes from my heredity.
 					  我的身高来自于遗传。
 				- ruthless: [\`ruθlIs;\`ru:θlis] [[card]]
-				  card-last-interval:: 11.2
-				  card-repeats:: 3
-				  card-ease-factor:: 2.8
-				  card-next-schedule:: 2022-05-30T18:06:20.623Z
-				  card-last-reviewed:: 2022-05-19T14:06:20.624Z
+				  card-last-interval:: 33.64
+				  card-repeats:: 4
+				  card-ease-factor:: 2.9
+				  card-next-schedule:: 2022-07-04T09:36:29.529Z
+				  card-last-reviewed:: 2022-05-31T18:36:29.530Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- a.
@@ -315,11 +315,11 @@ status:: 正在读
 					  The explorers lived on a monotonous diet of beans and rice.
 					  探险者靠吃豆子和米饭这些单调的食物为生。
 				- colony: [\`kɑlәnI;\`kɔlәni] [[card]] 
-				  card-last-interval:: 11.2
-				  card-repeats:: 3
-				  card-ease-factor:: 2.8
-				  card-next-schedule:: 2022-05-30T18:07:19.460Z
-				  card-last-reviewed:: 2022-05-19T14:07:19.461Z
+				  card-last-interval:: 33.64
+				  card-repeats:: 4
+				  card-ease-factor:: 2.9
+				  card-next-schedule:: 2022-07-04T09:36:58.675Z
+				  card-last-reviewed:: 2022-05-31T18:36:58.676Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- n.[C]
@@ -335,11 +335,11 @@ status:: 正在读
 					  A colony of gulls inhabits the island.
 					  一群海鸥栖息于这个岛上。**
 				- futile: [\`fjutḷ;\`fju:tail] [[card]] 
-				  card-last-interval:: 8.88
-				  card-repeats:: 3
-				  card-ease-factor:: 2.22
-				  card-next-schedule:: 2022-05-31T16:01:27.260Z
-				  card-last-reviewed:: 2022-05-22T19:01:27.261Z
+				  card-last-interval:: 14.95
+				  card-repeats:: 4
+				  card-ease-factor:: 2.08
+				  card-next-schedule:: 2022-06-15T16:37:46.457Z
+				  card-last-reviewed:: 2022-05-31T18:37:46.457Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- a.
@@ -383,11 +383,11 @@ status:: 正在读
 					  他们寻找一个可以过隐居生活的地方。
 					  2. 冷僻(处); 荒凉(之地)[C][U]
 				- crowd:[kraʊd;kraud] [[card]] 
-				  card-last-interval:: 11.2
-				  card-repeats:: 3
-				  card-ease-factor:: 2.8
-				  card-next-schedule:: 2022-05-30T18:06:06.709Z
-				  card-last-reviewed:: 2022-05-19T14:06:06.711Z
+				  card-last-interval:: 33.64
+				  card-repeats:: 4
+				  card-ease-factor:: 2.9
+				  card-next-schedule:: 2022-07-04T09:36:09.149Z
+				  card-last-reviewed:: 2022-05-31T18:36:09.154Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- n.
@@ -419,11 +419,11 @@ status:: 正在读
 					  3. (大写)犬儒主义的
 					- 助记法：cynical的读法就是吸你哥.若你把它想成——因为你很嫉妒,所以你去洗你哥的血!
 				- embitter:[Im\`bItɚ;im\`bitә] [[card]] 
-				  card-last-interval:: 11.2
-				  card-repeats:: 3
-				  card-ease-factor:: 2.8
-				  card-next-schedule:: 2022-05-30T18:07:10.882Z
-				  card-last-reviewed:: 2022-05-19T14:07:10.883Z
+				  card-last-interval:: 33.64
+				  card-repeats:: 4
+				  card-ease-factor:: 2.9
+				  card-next-schedule:: 2022-07-04T09:36:48.694Z
+				  card-last-reviewed:: 2022-05-31T18:36:48.694Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- vt.[H]
@@ -502,12 +502,12 @@ status:: 正在读
 					- vi.
 						- 1. 表示轻蔑, 表示鄙视
 				- commitment:[kә\`mItmәnt;kә\`mitmәnt] [[card]] 
-				  card-last-interval:: 11.2
-				  card-repeats:: 3
-				  card-ease-factor:: 2.8
-				  card-next-schedule:: 2022-05-30T18:08:03.540Z
-				  card-last-reviewed:: 2022-05-19T14:08:03.541Z
-				  card-last-score:: 5
+				  card-last-interval:: 28.3
+				  card-repeats:: 4
+				  card-ease-factor:: 2.66
+				  card-next-schedule:: 2022-06-29T01:37:36.097Z
+				  card-last-reviewed:: 2022-05-31T18:37:36.098Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- n.
 					  1. 托付, 交托; 委任[U]
@@ -520,11 +520,11 @@ status:: 正在读
 					  6. 犯罪, 罪行[U][C]
 					  commitment of infanticide 杀婴
 				- austerity:[ɔ\`stєrәtI;ɔ:s\`teriti] [[card]] 
-				  card-last-interval:: 8.32
-				  card-repeats:: 3
-				  card-ease-factor:: 2.08
-				  card-next-schedule:: 2022-05-31T02:01:06.064Z
-				  card-last-reviewed:: 2022-05-22T19:01:06.065Z
+				  card-last-interval:: 15.05
+				  card-repeats:: 4
+				  card-ease-factor:: 1.94
+				  card-next-schedule:: 2022-06-15T19:36:22.371Z
+				  card-last-reviewed:: 2022-05-31T18:36:22.373Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- n.
@@ -554,12 +554,12 @@ status:: 正在读
 						  vi. 冥思苦想；深思熟虑
 						- 【词根】con（一起、共同）+ templ（=temple，n.庙宇）+ ate (动词后缀) -> 一起在庙里想...
 				- abstinence:[\`æbstәnәns;\`æbstinәns] [[card]] 
-				  card-last-interval:: 4
-				  card-repeats:: 2
+				  card-last-interval:: -1
+				  card-repeats:: 1
 				  card-ease-factor:: 2.08
-				  card-next-schedule:: 2022-05-30T13:28:09.357Z
-				  card-last-reviewed:: 2022-05-26T13:28:09.361Z
-				  card-last-score:: 3
+				  card-next-schedule:: 2022-06-01T04:00:00.000Z
+				  card-last-reviewed:: 2022-05-31T18:37:26.705Z
+				  card-last-score:: 1
 				  collapsed:: true
 					- n.[U]
 					  1.  (饮食及享乐方面的)节制; 禁饮; 戒酒[(+from)]
@@ -712,11 +712,11 @@ status:: 正在读
 					- [:audio {:controls true :src "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mor/morbi/morbid__us_1.mp3"}]
 					-
 				- dispute:[dI\`spjut;di\`spju:t] [[card]] 
-				  card-last-interval:: 11.2
-				  card-repeats:: 3
-				  card-ease-factor:: 2.8
-				  card-next-schedule:: 2022-05-30T18:06:26.209Z
-				  card-last-reviewed:: 2022-05-19T14:06:26.210Z
+				  card-last-interval:: 33.64
+				  card-repeats:: 4
+				  card-ease-factor:: 2.9
+				  card-next-schedule:: 2022-07-04T09:36:35.542Z
+				  card-last-reviewed:: 2022-05-31T18:36:35.543Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- vi.

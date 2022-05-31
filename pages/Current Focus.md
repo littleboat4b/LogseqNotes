@@ -27,4 +27,25 @@
 		- 周日关门，平时10～6点
 - 插入声音
 	- `[:audio {:controls true :src "https://声音文件的mp3的链接.mp3"}]`
+- 听彬彬的朗读文件
+	- ssh ruibinling@wws21 '/home/ruibinling/bin/yl.misc.wws21.rbl.organize_reading_audio'
+- 五线谱识谱
+  collapsed:: true
+	- 除了中央C之外，我们还可以记住另外几个do。通过下面这张图你会发现，高音谱和低音谱上的do都是对称关系
+		- ![2022_05_31_image.png](https://cdn.logseq.com/%2F7931a79d-4502-46b5-960f-d524ffe4d9a4cd8f63fa-6bb7-4474-9bb8-180a624468302022_05_31_image.png?Expires=4807620062&Signature=hB8AUFE-ANMEMfAgyCELQj9E0GWY285zodfcCOR2N6B6QuDMGshKe4~gU99LAz4ppGtFv8zCaoA28t-Dbf54qnuFzIMJKahJFK~KMsBhasruBnubkNBmBj8kwAMSw8TCyGEpXpY3IJDeDnqSCcnEgsnq7vgJ~bsqAZasPEquc4ainc9hXVx-4QYxqwur733-jtskF-fS6TgV5fmzElXZ49S~1nHNiBtjo8kaa-4YBvhrO6bMJ~pXlZ0L3MDqvv4rrlamB~7ZUJZ6RR8Ji0fEIER8a81wmO3JrQlGulMaJR49Lo3ZMBYjXqbCE1TDPJwALsT08LQq9ULlu0bsX0ZWBg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+		- 比中央C高八度的do，在高音谱表从上往下数第二间
+		- 比中央C低八度的do，在低音谱表从下往上数第二间
+		- 更高八度和更低八度的do，分别在高音谱表上加二线和低音谱表下加二线
+		- 高音谱我们可以用FACE认谱法记住四条上的音。
+			- 四条间上的音从下往上数依次是F(fa-4)、A(la-5)、C(do-1)、E(mi-3)，它们正好构成了单词face（脸）
+			- ![2022_05_31_image.png](https://cdn.logseq.com/%2F7931a79d-4502-46b5-960f-d524ffe4d9a41e2a59ab-80fa-46a6-87ba-90133d79fd5d2022_05_31_image.png?Expires=4807620143&Signature=Qw4nUVi73nbA9mYA5N848A1JLKOVeGHnUfuHeMEyhAh6UzJYWxt6pD4U5QmQZXY4NhGpdPoIz-p8liM7r26tSOrhr6SFmWnGUHAnyqf6WOpJ-pqaTFeJJWZCUnOqW8CyQd7Kv~s9IdR2tfwLAmJn087y5Ye1533OPVgcx8O1evLaSLowtuYBwo7C704Urf-kMg33mJSYds9KTXUypsDzQfq72DU49fS84~iLSu20cA2VPg~ihSRsY5cz39axtWHwZsdmhNEIQzJbbT91-Oz9bTjPxSmTbiarw4jlGOrWzrHOai9UTmK4L2kZxVWGOPZqZDb~PgEtkZHmJPqLGQddBA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+			- ==G(sol-5)==
+	- 低音谱我们可以记住中间三条线上的音，从下往上依次是B(xi-5)、D(re-2)、F(fa-4)，正好是贝多芬首字母的缩写，你可以把它叫做“贝多芬认谱法”
+		- ![2022_05_31_image.png](https://cdn.logseq.com/%2F7931a79d-4502-46b5-960f-d524ffe4d9a457e3624f-4c3f-47cb-bb53-d341da316f072022_05_31_image.png?Expires=4807620181&Signature=JI0iYQmw2fXoYTQuKuHZx72bZecZypPpSeOVxUbHh4vF4-KNVZI0T0NnM-X~zItC260dhrTIGqjqjZ8MAuZyXIouJE6iBefuF4GdrvW~Xm6i9yyaW6X153o7yBIbobtRGg7TJm0QlRXkG4X7qdvldu1OI2wnBS~bYchr3y2eaojpaoJrgQ3nLx6AvgyTOvRdLMQGgaYMqEfRoWJr1bh7ag-3koj57Lgz~VWwWB9xwQzpSSlJgIU4j1hpXlF90pRjWqBAyv6RFi5eR0tWGG8~5mWk3BvBvaeRSWGeaMioifNFo0SZjDixEATAazXNZ5UiYxmMhTOpKEMdvfsIU0OVlw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+	- 把高音谱上的音“加2”，就能知道它在低音谱上是什么音。
+		- ![2022_05_31_image.png](https://cdn.logseq.com/%2F7931a79d-4502-46b5-960f-d524ffe4d9a4e3c4ac84-fc28-4357-bf98-379eec5eebd72022_05_31_image.png?Expires=4807620286&Signature=le7cpDc2Vzh8T2TonoGpfmGbdSz~mxAqh744HMGsNq3Npa~Co3~A0PiwJ6HI7fW~3AAUfhs~sdb72Lj3ghoLrsDy8w27OaMBMJ1iRISrH2bUYgZBz5FQ~9zyMrBNAapbbDkdWAs6T~WpEj7rM4jo2FLh5XAlTjc-xhLEQxlT71AA3gsrJa119z3n~JbaW8Yp7ahq714e432QbeULHBbz~bf0Kas6S3P5ZtxePRsyhGweuo3BtC7mfHd7dU3HCM0xK3H2iAxtkXcqdAvE-5-33XyaAKYUMPELxwM3T0qToyMTzMnxnGM5VNrTqVJqWsj6idZHittjdP-pvQ2NeCJ-zQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+		- 在高音谱上是do，在低音谱上就是mi；
+		  在高音谱上是re，在低音谱上就是fa；
+		  在高音谱上是mi，在低音谱上就是sol...
+-
 -

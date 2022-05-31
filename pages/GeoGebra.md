@@ -277,7 +277,6 @@ status:: 正在学习
 - Geogebra深入—动态
   id:: 626d23d0-c2a7-4cc8-8adb-a9e16cf1e76c
 	- **3.1 变量、滑动条**
-	  collapsed:: true
 		- 动态数学软件
 			- 对象可拖动
 			- 变量可改变
@@ -327,7 +326,6 @@ status:: 正在学习
 								- Advanced -> Condition to show -> 填入b
 								- 这样这个`b的☑（复选框）`就可以控制函数是否显示了
 	- 3.2 动点、轨迹
-	  collapsed:: true
 		- ==Point - 动点==
 		  id:: 627488dd-a622-4f96-88b8-a9eca5d9ceb9
 		  Point - 对象上的点（动点/半自由点）
@@ -357,7 +355,6 @@ status:: 正在学习
 					- 可以查看所有objects的构造顺序
 					- 可以一步一步的显示构建的过程。
 	- 3.3 曲线、不等式
-	  collapsed:: true
 		- 曲线 Curve
 		  点、线是Geogebra最重要的元素，有很多种方法产生曲线
 		- 曲线六法
@@ -467,14 +464,12 @@ status:: 正在学习
 - Geogebra技巧—艺术性
   id:: 626d23dc-f9ec-4669-979e-01cd90c5f34a
 	- 实现重复的手段（重复是一种美）
-	  collapsed:: true
 		- [自定义工具](((62829f01-784c-4c6b-be9a-599c5293c5a7)))
 		- [列表 List](((6282a42c-11c7-4aca-bf4a-1f755fa37d00)))
 		- [序列 Sequence](((6282a432-53ac-4394-a1fa-ce56f24f4392)))
 		- [迭代 Iteration](((62829f59-1465-4ab6-8431-7fec304b0ace)))
 	- 自定义工具
 	  id:: 62829f01-784c-4c6b-be9a-599c5293c5a7
-	  collapsed:: true
 		- 创建新工具
 			- Tools(工具) -> Create New Tool (创建新工具)
 			- 用Save as 可以把工具可以保存到.ggt文件中
@@ -485,7 +480,6 @@ status:: 正在学习
 	- 列表与序列
 		- 列表（list）
 		  id:: 6282a42c-11c7-4aca-bf4a-1f755fa37d00
-		  collapsed:: true
 			- 定义：
 				- 多个数据或多个对象的合集
 				- 数据是==有顺序==的，可重复的
@@ -527,7 +521,6 @@ status:: 正在学习
 						- Sequence((Element({1,3,6},n)^2,n,1,Lenght({1,3,6})))
 		- 序列 Sequence()
 		  id:: 6282a432-53ac-4394-a1fa-ce56f24f4392
-		  collapsed:: true
 			- 定义
 				- 序列是比较有规则的列表
 					- 简答的
@@ -681,17 +674,40 @@ status:: 正在学习
 				- SetActiveView - 激活绘图区
 				- SetAxesRatio - 坐标轴比例
 			- 其他重要指令
-				- SetValue - 赋值
+				- **SetValue - 赋值**
 					- SetValue(a, a+1) - 从a变成a+1
 						- a 是自由对象，不依赖另外的值存在，比如定义了的对象
 					- SetValue(P, CopyFreeObject(%0))
 						- CopyFreeObject() - 拷贝P点，成为一个自由对象，和原来的P点没有任何关系
+				- if - 进行判断
 				- StartAnimation - 开启动画
 				- **UpdateConstruction - 更新作图**
 				- ZoomIn - 放大
 				- ZoomOut - 缩小
 				- Pan - 平移视图（上下左右移动）
 				- SetTrace - 追踪
-				-
+		- 变量与属性
+			- 应该用脚本，还是用变量
+			- 变量用法比较广，而且尽量用变量
+			- 脚本用得少一些
+		- 几个高级脚本技术
+			- Execute - 执行
+				- 可完成一般意义上的循环
+				- Execute[ , , ,..., ] - 内容为列表，用字符串描述的指令
+			- Repeat - 重复
+				- 重复执行简单命令，主要用于Turtle指令的执行
+			- Turtle - 海龟
+				- 画图的指令
+	- 交互与控制
+		- 交互控件（Action Object Tool）
+			- Button(按钮) --- 命令
+			- Slide(滑动条) --- 数值变量
+			- Checkbox(复选框) --- 逻辑变量
+				- 逻辑量
+				- 控制其他对象是否显示
+					- 对象右击，属性，Advanced(高级)
+					- Condition to Show Object(显示条件)
+			- InputBox(输入框) --- 数值、文本、函数
+			- DropDown(下拉框) --- 列表
 	- ![2022_05_27_image.png](https://cdn.logseq.com/%2F7931a79d-4502-46b5-960f-d524ffe4d9a490115a90-d9cd-4bbf-bbd8-45b5a93af3182022_05_27_image.png?Expires=4807259689&Signature=F7H2lCayrTaRPw5dSKEH1gE3op8c6j0JDZMhPFj5huj55rndFtOe-q7kXzuuP2GkJ8lxmPUeY5bk7Vslx98LvPMzOK3aMt3-ZBWe0FBTcAQmJyBvPvYY8iwrz0gA~FKqmTKllay41JkeG-RkccS~UcoW5G8XE48Z5m3zpQAddzW2Yfd4WQAF2MzFVvRri8Cfw5K4bYQMW-uGQL9Naz9L7yL0b9tjiQga7ZxV7ftTPEVPNseUtCrjHl5obLrFtD1g4NKJcZYu9GUN4QkzyP4GTEMw8bpBxtCOj6LbW1I3azIcoEp~qIiQIf6ReABjjOqy~u4Uxb1n8CcZ1wf8mA2sOw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 -
