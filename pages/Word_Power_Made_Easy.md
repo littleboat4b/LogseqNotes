@@ -554,12 +554,12 @@ status:: 正在读
 						  vi. 冥思苦想；深思熟虑
 						- 【词根】con（一起、共同）+ templ（=temple，n.庙宇）+ ate (动词后缀) -> 一起在庙里想...
 				- abstinence:[\`æbstәnәns;\`æbstinәns] [[card]] 
-				  card-last-interval:: -1
-				  card-repeats:: 1
-				  card-ease-factor:: 2.08
-				  card-next-schedule:: 2022-06-01T04:00:00.000Z
-				  card-last-reviewed:: 2022-05-31T18:37:26.705Z
-				  card-last-score:: 1
+				  card-last-interval:: 4
+				  card-repeats:: 2
+				  card-ease-factor:: 1.94
+				  card-next-schedule:: 2022-06-05T13:29:23.541Z
+				  card-last-reviewed:: 2022-06-01T13:29:23.549Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- n.[U]
 					  1.  (饮食及享乐方面的)节制; 禁饮; 戒酒[(+from)]
