@@ -403,11 +403,11 @@ status:: 正在读
 					  People crowded into the cinema.
 					  人们挤进电影院。
 				- cynical:[\`sInIkḷ;\`sinikәl] [[card]] 
-				  card-last-interval:: 8.32
-				  card-repeats:: 3
-				  card-ease-factor:: 2.08
-				  card-next-schedule:: 2022-06-01T19:30:17.440Z
-				  card-last-reviewed:: 2022-05-24T12:30:17.441Z
+				  card-last-interval:: 15.05
+				  card-repeats:: 4
+				  card-ease-factor:: 1.94
+				  card-next-schedule:: 2022-06-17T02:00:50.876Z
+				  card-last-reviewed:: 2022-06-02T01:00:50.881Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- a.
