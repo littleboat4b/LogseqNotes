@@ -30,7 +30,6 @@
 - 听彬彬的朗读文件
 	- ssh ruibinling@wws21 '/home/ruibinling/bin/yl.misc.wws21.rbl.organize_reading_audio'
 - 五线谱识谱
-  collapsed:: true
 	- 除了中央C之外，我们还可以记住另外几个do。通过下面这张图你会发现，高音谱和低音谱上的do都是对称关系
 		- ![2022_05_31_image.png](https://cdn.logseq.com/%2F7931a79d-4502-46b5-960f-d524ffe4d9a4cd8f63fa-6bb7-4474-9bb8-180a624468302022_05_31_image.png?Expires=4807620062&Signature=hB8AUFE-ANMEMfAgyCELQj9E0GWY285zodfcCOR2N6B6QuDMGshKe4~gU99LAz4ppGtFv8zCaoA28t-Dbf54qnuFzIMJKahJFK~KMsBhasruBnubkNBmBj8kwAMSw8TCyGEpXpY3IJDeDnqSCcnEgsnq7vgJ~bsqAZasPEquc4ainc9hXVx-4QYxqwur733-jtskF-fS6TgV5fmzElXZ49S~1nHNiBtjo8kaa-4YBvhrO6bMJ~pXlZ0L3MDqvv4rrlamB~7ZUJZ6RR8Ji0fEIER8a81wmO3JrQlGulMaJR49Lo3ZMBYjXqbCE1TDPJwALsT08LQq9ULlu0bsX0ZWBg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 		- 比中央C高八度的do，在高音谱表从上往下数第二间
