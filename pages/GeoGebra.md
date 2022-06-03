@@ -50,7 +50,6 @@ status:: 正在学习
   id:: 626d23c2-0160-43e2-b378-b447d072ebf6
   collapsed:: true
 	- **2.1 Geogebra指令 -（command）- 命令**
-	  collapsed:: true
 		- 优点：全面（比工具条多）、快捷、精确（比鼠标点更精确）、复杂
 		- **语法**：
 		  例: ==c==: ==Circle(A,3)==
@@ -111,7 +110,6 @@ status:: 正在学习
 				- 一般变量不要用x，y，z（除非在函数中）
 			-
 	- **2.3 几何对象的构建**
-	  collapsed:: true
 		- 点 - 最重要，构成其他对象的基础
 		  collapsed:: true
 			- 点的表示
@@ -161,7 +159,6 @@ status:: 正在学习
 			- `Circle(O,A,B)` 弧 {{cloze 过圆心O和AB两点做圆弧}}
 			- `CircumcircularArc(A,B,C)` {{cloze 过ABC三点做圆弧}}
 	- **2.4 几何对象的度量**
-	  collapsed:: true
 		- 常规度量
 			- `Distance()` 距离
 				- `Distantce(A,B)` - AB两点间的距离
@@ -200,7 +197,6 @@ status:: 正在学习
 				- f,g两条直线是否垂直，`ture or false`
 				- 可以使用符号`⟂`，用浮动键盘输入
 	- **2.5 几何对象的变换**
-	  collapsed:: true
 		- 变换
 		  collapsed:: true
 			- `Translate()` {{cloze 平移}}
@@ -227,7 +223,6 @@ status:: 正在学习
 				  CLOCK: [2022-05-03 Tue 17:05:05]
 				  :END:
 	- **2.6 函数与分段函数**
-	  collapsed:: true
 		- 函数的输入
 			- 一般输入（以下几种都可以）
 				- `x^2`, `f:x^2`, `f(x):x^2`, `f(x)=x^2`, `f(t)=t^2`
@@ -255,7 +250,6 @@ status:: 正在学习
 				- 或者： `|| (∨)`
 				- 非： `！(﹁)`
 	- **2.7 函数的根、极值**
-	  collapsed:: true
 		- Root(f) 零点
 			- 求`f函数`的根，函数不止一个根
 			- ComplexRoot(f) - 求`f函数`的复数根，函数不止一个根
