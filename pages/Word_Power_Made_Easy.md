@@ -49,11 +49,11 @@ status:: 正在读
 			- teaser: [\`tizɚ;\`ti:zә] < {{cloze n.1. 戏弄者, 嘲弄者; 欺负他人者 2. 【口】难事, 难题}}
 			- obscure: [әb\`skjʊr;әb\`skjuә] [[card]]
 			  card-last-score:: 3
-			  card-repeats:: 4
-			  card-next-schedule:: 2022-06-08T13:30:26.178Z
-			  card-last-interval:: 15.05
-			  card-ease-factor:: 1.94
-			  card-last-reviewed:: 2022-05-24T12:30:26.180Z
+			  card-repeats:: 5
+			  card-next-schedule:: 2022-07-03T08:22:26.111Z
+			  card-last-interval:: 23.33
+			  card-ease-factor:: 1.8
+			  card-last-reviewed:: 2022-06-10T01:22:26.115Z
 			  collapsed:: true
 				- a.
 				  1. 暗的, 黑暗的; 朦胧的
@@ -61,6 +61,9 @@ status:: 正在读
 				  房间太暗, 不能看书。
 				  2. 模糊的; 含糊不清的; 晦涩的, 难解的[(+to)]
 				  The meaning of the passage is obscure.
+				-
+				- 前缀obs是上面+词根cure是关心,关心
+				- ob 障碍 ->（眼睛）有障碍 -> obscure 模糊的
 			- acquaint: [ә\`kwent;ә\`kweint] [[card]]
 			  card-last-score:: 5
 			  card-repeats:: 4
@@ -90,11 +93,11 @@ status:: 正在读
 				  vt. 使注视得
 			- absurd: [әb\`sˏd;әb\`sә:d] [[card]]
 			  card-last-score:: 3
-			  card-repeats:: 3
-			  card-next-schedule:: 2022-06-05T19:25:22.124Z
-			  card-last-interval:: 7.76
-			  card-ease-factor:: 1.94
-			  card-last-reviewed:: 2022-05-29T01:25:22.128Z
+			  card-repeats:: 2
+			  card-next-schedule:: 2022-06-14T01:19:25.895Z
+			  card-last-interval:: 4
+			  card-ease-factor:: 1.8
+			  card-last-reviewed:: 2022-06-10T01:19:25.899Z
 			  collapsed:: true
 				- a.
 				  1. 不合理的, 荒谬的; 可笑的, 愚蠢的
@@ -255,11 +258,11 @@ status:: 正在读
 					  我对他的诗作没有什么好评。
 					- **arrogant/conceit都有“傲慢、狂妄”的意思**
 				- conquest: [\`kɑŋkwєst;\`kɔŋkwest] [[card]] 
-				  card-last-interval:: 11.2
-				  card-repeats:: 3
-				  card-ease-factor:: 2.8
-				  card-next-schedule:: 2022-06-02T23:01:32.011Z
-				  card-last-reviewed:: 2022-05-22T19:01:32.012Z
+				  card-last-interval:: 33.64
+				  card-repeats:: 4
+				  card-ease-factor:: 2.9
+				  card-next-schedule:: 2022-07-07T14:36:53.768Z
+				  card-last-reviewed:: 2022-06-03T23:36:53.774Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- n.
@@ -289,9 +292,9 @@ status:: 正在读
 				- obnoxious:[әb\`nɑkʃәs;әb\`nɔkʃәs][[card]]
 				  card-last-interval:: 4
 				  card-repeats:: 2
-				  card-ease-factor:: 1.94
-				  card-next-schedule:: 2022-06-03T01:48:13.126Z
-				  card-last-reviewed:: 2022-05-30T01:48:13.131Z
+				  card-ease-factor:: 1.8
+				  card-next-schedule:: 2022-06-11T17:24:28.881Z
+				  card-last-reviewed:: 2022-06-07T17:24:28.882Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- a.
@@ -554,11 +557,11 @@ status:: 正在读
 						  vi. 冥思苦想；深思熟虑
 						- 【词根】con（一起、共同）+ templ（=temple，n.庙宇）+ ate (动词后缀) -> 一起在庙里想...
 				- abstinence:[\`æbstәnәns;\`æbstinәns] [[card]] 
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 1.94
-				  card-next-schedule:: 2022-06-05T13:29:23.541Z
-				  card-last-reviewed:: 2022-06-01T13:29:23.549Z
+				  card-last-interval:: 7.2
+				  card-repeats:: 3
+				  card-ease-factor:: 1.8
+				  card-next-schedule:: 2022-06-14T21:24:44.917Z
+				  card-last-reviewed:: 2022-06-07T17:24:44.918Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- n.[U]
@@ -693,11 +696,11 @@ status:: 正在读
 					  "dentist"一词的意思是牙科医生。
 					  3. 【逻】指称
 				- morbid:[\`mɔrbId;\`mɔ:bid] [[card]] 
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 2.08
-				  card-next-schedule:: 2022-06-03T13:06:31.448Z
-				  card-last-reviewed:: 2022-05-30T13:06:31.453Z
+				  card-last-interval:: 7.76
+				  card-repeats:: 3
+				  card-ease-factor:: 1.94
+				  card-next-schedule:: 2022-06-11T17:36:49.079Z
+				  card-last-reviewed:: 2022-06-03T23:36:49.080Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- a.
