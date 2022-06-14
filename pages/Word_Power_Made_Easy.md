@@ -108,12 +108,12 @@ status:: 正在读
 				- 【词根】ab(away)+surd(sure确信)→不能令人信的→不合理的
 				- [:audio {:controls true :src "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abs/absur/absurd__gb_1.mp3"}]
 			- insatiable: [In\`seʃIәbḷ;in\`seiʃiәbl] [[card]]
-			  card-last-score:: 5
-			  card-repeats:: 4
-			  card-next-schedule:: 2022-06-13T07:01:17.666Z
-			  card-last-interval:: 21.53
-			  card-ease-factor:: 2.32
-			  card-last-reviewed:: 2022-05-22T19:01:17.667Z
+			  card-last-score:: 3
+			  card-repeats:: 5
+			  card-next-schedule:: 2022-07-25T04:28:57.134Z
+			  card-last-interval:: 41.44
+			  card-ease-factor:: 2.18
+			  card-last-reviewed:: 2022-06-13T18:28:57.134Z
 			  collapsed:: true
 				- a.
 				  1. 永不满足的; 贪得无厌的[(+for/of)]
@@ -122,12 +122,12 @@ status:: 正在读
 				  He had an insatiable love for music.
 				  他对音乐爱得入迷。
 			- prodigious: [prә\`dIdʒәs;prә\`didʒәs] [[card]]
-			  card-last-score:: 3
-			  card-repeats:: 4
-			  card-next-schedule:: 2022-06-10T05:30:50.849Z
-			  card-last-interval:: 16.72
-			  card-ease-factor:: 2.08
-			  card-last-reviewed:: 2022-05-24T12:30:50.851Z
+			  card-last-score:: 5
+			  card-repeats:: 5
+			  card-next-schedule:: 2022-07-25T04:28:46.779Z
+			  card-last-interval:: 41.44
+			  card-ease-factor:: 2.18
+			  card-last-reviewed:: 2022-06-13T18:28:46.779Z
 			  collapsed:: true
 				- a.
 				  1. 巨大的; 庞大的
@@ -213,11 +213,11 @@ status:: 正在读
 						- e. does not pursue pleasures of the flesh
 			- [[English New Word]]
 				- heredity: [hә\`rєdәtI;hi\`rediti] [[card]]
-				  card-last-interval:: 15.05
-				  card-repeats:: 4
-				  card-ease-factor:: 1.94
-				  card-next-schedule:: 2022-06-13T02:26:59.316Z
-				  card-last-reviewed:: 2022-05-29T01:26:59.317Z
+				  card-last-interval:: 22.55
+				  card-repeats:: 5
+				  card-ease-factor:: 1.8
+				  card-next-schedule:: 2022-07-06T07:28:37.148Z
+				  card-last-reviewed:: 2022-06-13T18:28:37.149Z
 				  card-last-score:: 3
 					- n.
 					  1. 遗传[U]
@@ -238,11 +238,11 @@ status:: 正在读
 					  如果我们要杜绝不必要的浪费, 就得硬著心肠做。
 					  形变: more ruthless; most ruthless
 				- conceit: [kәn\`sit;kәn\`si:t] [[card]] 
-				  card-last-interval:: 17.31
-				  card-repeats:: 4
-				  card-ease-factor:: 2.08
-				  card-next-schedule:: 2022-06-12T03:02:21.427Z
-				  card-last-reviewed:: 2022-05-25T20:02:21.430Z
+				  card-last-interval:: 29.21
+				  card-repeats:: 5
+				  card-ease-factor:: 1.94
+				  card-next-schedule:: 2022-07-12T23:28:24.427Z
+				  card-last-reviewed:: 2022-06-13T18:28:24.431Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- n.
@@ -290,11 +290,11 @@ status:: 正在读
 					  He is boastful of his learning.
 					  他总是夸耀自己的学识。
 				- obnoxious:[әb\`nɑkʃәs;әb\`nɔkʃәs][[card]]
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 1.8
-				  card-next-schedule:: 2022-06-11T17:24:28.881Z
-				  card-last-reviewed:: 2022-06-07T17:24:28.882Z
+				  card-last-interval:: 6.64
+				  card-repeats:: 3
+				  card-ease-factor:: 1.66
+				  card-next-schedule:: 2022-06-20T09:28:03.472Z
+				  card-last-reviewed:: 2022-06-13T18:28:03.474Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- a.
@@ -538,12 +538,12 @@ status:: 正在读
 					  early Christian austerities 早期基督教徒的苦行
 					  **4. 紧缩, 严格的节制消费[U]**
 				- contemplation:[ˏkɑntєm\`pleʃәn;ˏkɔntem\`pleiʃәn] [[card]] 
-				  card-last-interval:: 14.39
-				  card-repeats:: 4
-				  card-ease-factor:: 2.08
-				  card-next-schedule:: 2022-06-12T10:27:17.282Z
-				  card-last-reviewed:: 2022-05-29T01:27:17.283Z
-				  card-last-score:: 3
+				  card-last-interval:: 41.44
+				  card-repeats:: 5
+				  card-ease-factor:: 2.18
+				  card-next-schedule:: 2022-07-25T04:29:42.951Z
+				  card-last-reviewed:: 2022-06-13T18:29:42.952Z
+				  card-last-score:: 5
 				  collapsed:: true
 					- n.[U]
 					  1. 凝视; 沉思, 冥想
@@ -553,8 +553,6 @@ status:: 正在读
 					  **3. 意图; 期望**
 					  She bought three dresses in contemplation of her trip. 她为了作一次旅行买了三套衣服。
 					- 助记法：
-						- contemplate => vt. 沉思；注视；思忖；预期
-						  vi. 冥思苦想；深思熟虑
 						- 【词根】con（一起、共同）+ templ（=temple，n.庙宇）+ ate (动词后缀) -> 一起在庙里想...
 				- abstinence:[\`æbstәnәns;\`æbstinәns] [[card]] 
 				  card-last-interval:: 7.2
@@ -680,11 +678,11 @@ status:: 正在读
 					  excursion from the major theme
 					  偏离主题
 				- denote:[dI\`not;di\`nәut] [[card]]
-				  card-last-interval:: 17.31
-				  card-repeats:: 4
-				  card-ease-factor:: 2.08
-				  card-next-schedule:: 2022-06-12T02:59:00.542Z
-				  card-last-reviewed:: 2022-05-25T19:59:00.543Z
+				  card-last-interval:: 29.21
+				  card-repeats:: 5
+				  card-ease-factor:: 1.94
+				  card-next-schedule:: 2022-07-12T23:28:12.459Z
+				  card-last-reviewed:: 2022-06-13T18:28:12.460Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- vt.
@@ -696,11 +694,11 @@ status:: 正在读
 					  "dentist"一词的意思是牙科医生。
 					  3. 【逻】指称
 				- morbid:[\`mɔrbId;\`mɔ:bid] [[card]] 
-				  card-last-interval:: 7.76
-				  card-repeats:: 3
-				  card-ease-factor:: 1.94
-				  card-next-schedule:: 2022-06-11T17:36:49.079Z
-				  card-last-reviewed:: 2022-06-03T23:36:49.080Z
+				  card-last-interval:: 12.53
+				  card-repeats:: 4
+				  card-ease-factor:: 1.8
+				  card-next-schedule:: 2022-06-26T06:29:10.109Z
+				  card-last-reviewed:: 2022-06-13T18:29:10.109Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- a.
