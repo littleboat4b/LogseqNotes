@@ -65,12 +65,12 @@ status:: 正在读
 				- 前缀obs是上面+词根cure是关心,关心
 				- ob 障碍 ->（眼睛）有障碍 -> obscure 模糊的
 			- acquaint: [ә\`kwent;ә\`kweint] [[card]]
-			  card-last-score:: 5
-			  card-repeats:: 4
-			  card-next-schedule:: 2022-06-15T17:35:35.839Z
-			  card-last-interval:: 26.21
-			  card-ease-factor:: 2.56
-			  card-last-reviewed:: 2022-05-20T12:35:35.841Z
+			  card-last-score:: 3
+			  card-repeats:: 5
+			  card-next-schedule:: 2022-08-11T12:48:05.860Z
+			  card-last-interval:: 56.69
+			  card-ease-factor:: 2.42
+			  card-last-reviewed:: 2022-06-15T20:48:05.861Z
 			  collapsed:: true
 				- vt.[(+with)]
 				- 1. 使认识, 介绍
@@ -92,12 +92,12 @@ status:: 正在读
 				  Did you spend hours every day poring over a dictionary?
 				  vt. 使注视得
 			- absurd: [әb\`sˏd;әb\`sә:d] [[card]]
-			  card-last-score:: 3
-			  card-repeats:: 2
-			  card-next-schedule:: 2022-06-14T01:19:25.895Z
-			  card-last-interval:: 4
-			  card-ease-factor:: 1.8
-			  card-last-reviewed:: 2022-06-10T01:19:25.899Z
+			  card-last-score:: 5
+			  card-repeats:: 3
+			  card-next-schedule:: 2022-06-22T03:45:33.901Z
+			  card-last-interval:: 7.6
+			  card-ease-factor:: 1.9
+			  card-last-reviewed:: 2022-06-14T13:45:33.917Z
 			  collapsed:: true
 				- a.
 				  1. 不合理的, 荒谬的; 可笑的, 愚蠢的
@@ -169,49 +169,48 @@ status:: 正在读
 			- Idears
 				- An egoist - me first
 					- egoist: [\`igoIst;\`egәuist] {{cloze n. 1. 利己主义者; 自我中心者; 自负的人}}
+					- egoist	EE′-gō-ist
+						- g. believes in self-advancement
 					- aboveboard: [ә\`bʌv\`bord;ә\`bʌv\`bɔ:d] {{cloze ad. 1. 率直地; 光明正大地; 公开地}}
 				- An egotist - the height of conceit
 					- egotist:[\`igәtIst;\`egәutist] {{cloze n.1. 自大者; 自我中心的人}}
+					- egotist	EE′-gō-tist
+						- c. talks about accomplishments
 					- amorous: [\`æmәrәs;\`æmәrәs] {{cloze a. 1. 色情的; 2. 恋爱的; 传情的; 多情的; 3. 热情的}}
 				- An altruist - let me help you
 					- altruist:[\`æltrʊˏIst;\`æltruist] {{cloze n.1. 利他主义者}}
+					- altruist	AL′-tr-ist
+						- f. is interested in the welfare of others
 				- An introvert - leave me alone
 					- introvert:[\`Intrәˏvˏt;\`intrәuˏvә:t] {{cloze n.1. 内向的人}}
+					- introvert	IN′-trƏ-vurt′
+						- a. turns thoughts inward
 				- An extrovert - let's do it together
 					- extrovert: [\`єkstrovˏt;\`ekstrәuvә:t] {{cloze n.1. 个性外向的人}}
+					- extrovert	EKS′-trƏ-vurt′
+						- j. turns thoughts outward
 				- An ambivert - neither extreme
 					- ambivert:[\`æmbIvɚt;\`æmbivә:t]` {{cloze n.1. 【心】既外向又内向的人}}
+					- ambivert	AM′-bƏ-vurt′
+						- h. turns thoughts both inward and outward
 				- A misanthrope - people are no damn good
 					- misanthrope: [\`mIzәnˏθrop;\`mizәnθrәup]  {{cloze n. 1. 不愿与人来往者; 厌世者}}
+					- misanthrope	MIS′-Ən-thrōp′
+						- d. hates people
 				- A misogynist - women are no damn good
 					- misogynist: [maI\`sɑdʒInIst;mai\`sɔdʒinist] {{cloze n.1. 【心】厌恶女人的人}}
+					- misogynist	mƏ-SOJ′-Ə-nist
+						- i. hates women
 				- A misogamist - "marriage is an institution - and who wants to live in an institution"
 					- misogamist:[mI\`sɑgәmIst;mi\`sɔgәmist] {{cloze n. 1. 厌恶结婚的人}}
+					- misogamist	mƏ-SOG′-Ə-mist
+						- b. hates marriage
 				- An ascetic - "... that the flesh is heir to ..."
 					- ascetic:[ә\`sєtIk;ә\`setik] {{cloze n. 1. 禁欲主义者; 苦行者; 苦修者a. 1. 禁欲主义的; 苦行的}}
-			- Using the words
-				- Can you pronounce the words?
-					- 1. egoist	EE′-gō-ist
-						- g. believes in self-advancement
-					- 2. egotist	EE′-gō-tist
-						- c. talks about accomplishments
-					- 3. altruist	AL′-tr-ist
-						- f. is interested in the welfare of others
-					- 4. introvert	IN′-trƏ-vurt′
-						- a. turns thoughts inward
-					- 5. extrovert	EKS′-trƏ-vurt′
-						- j. turns thoughts outward
-					- 6. ambivert	AM′-bƏ-vurt′
-						- h. turns thoughts both inward and outward
-					- 7. misanthrope	MIS′-Ən-thrōp′
-						- d. hates people
-					- 8. misogynist	mƏ-SOJ′-Ə-nist
-						- i. hates women
-					- 9. misogamist	mƏ-SOG′-Ə-mist
-						- b. hates marriage
-					- 10. ascetic	Ə-SET′-ik
+					- ascetic	Ə-SET′-ik
 						- e. does not pursue pleasures of the flesh
 			- [[English New Word]]
+			  collapsed:: true
 				- heredity: [hә\`rєdәtI;hi\`rediti] [[card]]
 				  card-last-interval:: 22.55
 				  card-repeats:: 5
@@ -219,6 +218,7 @@ status:: 正在读
 				  card-next-schedule:: 2022-07-06T07:28:37.148Z
 				  card-last-reviewed:: 2022-06-13T18:28:37.149Z
 				  card-last-score:: 3
+				  collapsed:: true
 					- n.
 					  1. 遗传[U]
 					  My height comes from my heredity.
@@ -303,11 +303,11 @@ status:: 正在读
 					  一种难闻的气味
 					  形变: more obnoxious; most obnoxious
 				- monotonous:[mә\`nɑtәnәs;mә\`nɔtәnәs] [[card]] 
-				  card-last-interval:: 17.31
-				  card-repeats:: 4
-				  card-ease-factor:: 2.08
-				  card-next-schedule:: 2022-06-13T18:58:49.307Z
-				  card-last-reviewed:: 2022-05-27T11:58:49.313Z
+				  card-last-interval:: 29.21
+				  card-repeats:: 5
+				  card-ease-factor:: 1.94
+				  card-next-schedule:: 2022-07-13T19:05:08.396Z
+				  card-last-reviewed:: 2022-06-14T14:05:08.400Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- a.
@@ -317,6 +317,8 @@ status:: 正在读
 					  2. 因单一而使人厌倦的; 无变化的; 无聊的
 					  The explorers lived on a monotonous diet of beans and rice.
 					  探险者靠吃豆子和米饭这些单调的食物为生。
+					- `[:audio {:controls true :src "声音文件的mp3的链接"}]`
+					- [:audio {:controls true :src "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/monoto05.mp3"}]
 				- colony: [\`kɑlәnI;\`kɔlәni] [[card]] 
 				  card-last-interval:: 33.64
 				  card-repeats:: 4
@@ -338,11 +340,11 @@ status:: 正在读
 					  A colony of gulls inhabits the island.
 					  一群海鸥栖息于这个岛上。**
 				- futile: [\`fjutḷ;\`fju:tail] [[card]] 
-				  card-last-interval:: 14.95
-				  card-repeats:: 4
-				  card-ease-factor:: 2.08
-				  card-next-schedule:: 2022-06-15T16:37:46.457Z
-				  card-last-reviewed:: 2022-05-31T18:37:46.457Z
+				  card-last-interval:: 29.21
+				  card-repeats:: 5
+				  card-ease-factor:: 1.94
+				  card-next-schedule:: 2022-07-15T01:48:26.349Z
+				  card-last-reviewed:: 2022-06-15T20:48:26.350Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- a.
@@ -523,11 +525,11 @@ status:: 正在读
 					  6. 犯罪, 罪行[U][C]
 					  commitment of infanticide 杀婴
 				- austerity:[ɔ\`stєrәtI;ɔ:s\`teriti] [[card]] 
-				  card-last-interval:: 15.05
-				  card-repeats:: 4
-				  card-ease-factor:: 1.94
-				  card-next-schedule:: 2022-06-15T19:36:22.371Z
-				  card-last-reviewed:: 2022-05-31T18:36:22.373Z
+				  card-last-interval:: 23.33
+				  card-repeats:: 5
+				  card-ease-factor:: 1.8
+				  card-next-schedule:: 2022-07-09T03:47:51.924Z
+				  card-last-reviewed:: 2022-06-15T20:47:51.926Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- n.
@@ -555,11 +557,11 @@ status:: 正在读
 					- 助记法：
 						- 【词根】con（一起、共同）+ templ（=temple，n.庙宇）+ ate (动词后缀) -> 一起在庙里想...
 				- abstinence:[\`æbstәnәns;\`æbstinәns] [[card]] 
-				  card-last-interval:: 7.2
-				  card-repeats:: 3
-				  card-ease-factor:: 1.8
-				  card-next-schedule:: 2022-06-14T21:24:44.917Z
-				  card-last-reviewed:: 2022-06-07T17:24:44.918Z
+				  card-last-interval:: 11.02
+				  card-repeats:: 4
+				  card-ease-factor:: 1.66
+				  card-next-schedule:: 2022-06-26T02:13:21.180Z
+				  card-last-reviewed:: 2022-06-15T02:13:21.184Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- n.[U]
