@@ -6,6 +6,7 @@
 	- TODO 煮饭
 	- TODO 洗碗
 	- TODO 扫地
+	- TODO 运动
 - 每周常规
   template:: 每周常规
 	- TODO 洗衣服
@@ -14,8 +15,9 @@
 	- TODO 叠毛巾
 	- TODO 清洁洗手间
 	- TODO 吸尘
-	- 购物清单（周四）
-	  SCHEDULED: <2022-06-09 Thu>
-	- 倒垃圾（周四）
-	  SCHEDULED: <2022-06-09 Thu ++1w>
+	- TODO 购物清单（周四）
+	  SCHEDULED: <2022-06-23 Thu ++1w>
+	- TODO 倒垃圾（周四）
+	  SCHEDULED: <2022-06-16 Thu ++1w>
 	-
+-

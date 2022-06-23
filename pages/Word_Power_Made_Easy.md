@@ -290,11 +290,11 @@ status:: 正在读
 					  He is boastful of his learning.
 					  他总是夸耀自己的学识。
 				- obnoxious:[әb\`nɑkʃәs;әb\`nɔkʃәs][[card]]
-				  card-last-interval:: 6.64
-				  card-repeats:: 3
-				  card-ease-factor:: 1.66
-				  card-next-schedule:: 2022-06-20T09:28:03.472Z
-				  card-last-reviewed:: 2022-06-13T18:28:03.474Z
+				  card-last-interval:: 9.24
+				  card-repeats:: 4
+				  card-ease-factor:: 1.52
+				  card-next-schedule:: 2022-07-01T06:17:23.139Z
+				  card-last-reviewed:: 2022-06-22T01:17:23.143Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- a.
@@ -375,11 +375,11 @@ status:: 正在读
 					  John has a number of nagging worries.
 					  约翰有不少牵肠挂肚的心事。
 				- solitude:[\`sɑlәˏtjud;\`sɔlitju:d] [[card]] 
-				  card-last-interval:: 19.01
-				  card-repeats:: 4
-				  card-ease-factor:: 2.18
-				  card-next-schedule:: 2022-06-17T01:26:13.555Z
-				  card-last-reviewed:: 2022-05-29T01:26:13.556Z
+				  card-last-interval:: 33.96
+				  card-repeats:: 5
+				  card-ease-factor:: 2.04
+				  card-next-schedule:: 2022-07-26T00:17:51.333Z
+				  card-last-reviewed:: 2022-06-22T01:17:51.334Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- n.
@@ -408,11 +408,11 @@ status:: 正在读
 					  People crowded into the cinema.
 					  人们挤进电影院。
 				- cynical:[\`sInIkḷ;\`sinikәl] [[card]] 
-				  card-last-interval:: 15.05
-				  card-repeats:: 4
-				  card-ease-factor:: 1.94
-				  card-next-schedule:: 2022-06-17T02:00:50.876Z
-				  card-last-reviewed:: 2022-06-02T01:00:50.881Z
+				  card-last-interval:: 23.33
+				  card-repeats:: 5
+				  card-ease-factor:: 1.8
+				  card-next-schedule:: 2022-07-15T08:17:42.110Z
+				  card-last-reviewed:: 2022-06-22T01:17:42.111Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- a.
@@ -436,12 +436,12 @@ status:: 正在读
 					  He was embittered by repeated failures. 他因屡遭失败而痛苦。
 					  2. 使更苦; 使怨恨; 激怒
 				- mortal:[\`mɔrtḷ;\`mɔ:tl] [[card]] 
-				  card-last-interval:: 21.53
-				  card-repeats:: 4
-				  card-ease-factor:: 2.32
-				  card-next-schedule:: 2022-06-18T00:01:19.601Z
-				  card-last-reviewed:: 2022-05-27T12:01:19.602Z
-				  card-last-score:: 5
+				  card-last-interval:: 41.44
+				  card-repeats:: 5
+				  card-ease-factor:: 2.18
+				  card-next-schedule:: 2022-08-02T11:18:11.431Z
+				  card-last-reviewed:: 2022-06-22T01:18:11.432Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- n.
 						- 1. 人, 凡人[C][P1]
@@ -480,12 +480,12 @@ status:: 正在读
 					  他不太领会她的挖苦话。
 					  5. 悲观的, 怀疑的
 				- scorn:[skɔrn;skɔ:n] [[card]]
-				  card-last-interval:: 21.53
-				  card-repeats:: 4
+				  card-last-interval:: -1
+				  card-repeats:: 1
 				  card-ease-factor:: 2.32
-				  card-next-schedule:: 2022-06-19T13:25:55.806Z
-				  card-last-reviewed:: 2022-05-29T01:25:55.808Z
-				  card-last-score:: 3
+				  card-next-schedule:: 2022-06-22T04:00:00.000Z
+				  card-last-reviewed:: 2022-06-22T01:17:31.436Z
+				  card-last-score:: 1
 				  collapsed:: true
 					- n.
 						- 1. 轻蔑; 藐视[U][(+for)]
@@ -738,11 +738,11 @@ status:: 正在读
 					  1. 争论; 争执; 争端[C][U][(+about/over/with)]
 					  The dispute was settled last week. 争端在上周解决了。
 				- sentiment:[\`sєntәmәnt;\`sentimәnt][[card]]
-				  card-last-interval:: 19.01
-				  card-repeats:: 4
-				  card-ease-factor:: 2.18
-				  card-next-schedule:: 2022-06-17T01:26:43.879Z
-				  card-last-reviewed:: 2022-05-29T01:26:43.880Z
+				  card-last-interval:: 33.96
+				  card-repeats:: 5
+				  card-ease-factor:: 2.04
+				  card-next-schedule:: 2022-07-26T00:18:03.580Z
+				  card-last-reviewed:: 2022-06-22T01:18:03.581Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- n.
