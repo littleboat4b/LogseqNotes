@@ -92,12 +92,12 @@ status:: 正在读
 				  Did you spend hours every day poring over a dictionary?
 				  vt. 使注视得
 			- absurd: [әb\`sˏd;әb\`sә:d] [[card]]
-			  card-last-score:: 5
-			  card-repeats:: 3
-			  card-next-schedule:: 2022-06-22T03:45:33.901Z
-			  card-last-interval:: 7.6
-			  card-ease-factor:: 1.9
-			  card-last-reviewed:: 2022-06-14T13:45:33.917Z
+			  card-last-score:: 3
+			  card-repeats:: 4
+			  card-next-schedule:: 2022-07-06T11:20:51.399Z
+			  card-last-interval:: 12.39
+			  card-ease-factor:: 1.76
+			  card-last-reviewed:: 2022-06-24T02:20:51.400Z
 			  collapsed:: true
 				- a.
 				  1. 不合理的, 荒谬的; 可笑的, 愚蠢的
@@ -136,11 +136,11 @@ status:: 正在读
 				  2. 异常的; 惊人的; 奇妙的
 			- delusion: [dI\`luʒәn;di\`lu:ʒәn] [[card]]
 			  card-last-score:: 5
-			  card-repeats:: 4
-			  card-next-schedule:: 2022-06-23T02:58:52.415Z
-			  card-last-interval:: 28.3
-			  card-ease-factor:: 2.66
-			  card-last-reviewed:: 2022-05-25T19:58:52.416Z
+			  card-repeats:: 5
+			  card-next-schedule:: 2022-09-16T04:21:05.128Z
+			  card-last-interval:: 84.1
+			  card-ease-factor:: 2.76
+			  card-last-reviewed:: 2022-06-24T02:21:05.129Z
 			  collapsed:: true
 				- n.
 				  1. 迷惑, 欺骗[U]
@@ -152,11 +152,11 @@ status:: 正在读
 				  汤姆怀有错觉, 认为自己是个要人。
 			- superstition: [ˏsupɚ\`stIʃәn;ˏsju:pә\`stiʃәn] [[card]]
 			  card-last-score:: 5
-			  card-repeats:: 4
-			  card-next-schedule:: 2022-06-23T02:58:45.469Z
-			  card-last-interval:: 28.3
-			  card-ease-factor:: 2.66
-			  card-last-reviewed:: 2022-05-25T19:58:45.471Z
+			  card-repeats:: 5
+			  card-next-schedule:: 2022-09-16T04:20:35.430Z
+			  card-last-interval:: 84.1
+			  card-ease-factor:: 2.76
+			  card-last-reviewed:: 2022-06-24T02:20:35.435Z
 			  collapsed:: true
 				- n.[C][U]
 				  1. 迷信; 迷信行为
@@ -278,11 +278,11 @@ status:: 正在读
 					  4. 【谑】(爱情的)俘虏[C]
 					  5. 【史】(大写)(诺曼人的)征服英国[the S]
 				- boastful: [\`bostfәl;\`bәustfәl] [[card]] 
-				  card-last-interval:: 23.43
-				  card-repeats:: 4
-				  card-ease-factor:: 2.42
-				  card-next-schedule:: 2022-06-22T11:48:25.225Z
-				  card-last-reviewed:: 2022-05-30T01:48:25.226Z
+				  card-last-interval:: 47.41
+				  card-repeats:: 5
+				  card-ease-factor:: 2.28
+				  card-next-schedule:: 2022-08-10T11:21:26.245Z
+				  card-last-reviewed:: 2022-06-24T02:21:26.246Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- a.
@@ -480,12 +480,12 @@ status:: 正在读
 					  他不太领会她的挖苦话。
 					  5. 悲观的, 怀疑的
 				- scorn:[skɔrn;skɔ:n] [[card]]
-				  card-last-interval:: -1
-				  card-repeats:: 1
-				  card-ease-factor:: 2.32
-				  card-next-schedule:: 2022-06-22T04:00:00.000Z
-				  card-last-reviewed:: 2022-06-22T01:17:31.436Z
-				  card-last-score:: 1
+				  card-last-interval:: 4
+				  card-repeats:: 2
+				  card-ease-factor:: 2.18
+				  card-next-schedule:: 2022-06-28T02:21:13.538Z
+				  card-last-reviewed:: 2022-06-24T02:21:13.539Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- n.
 						- 1. 轻蔑; 藐视[U][(+for)]
@@ -757,12 +757,12 @@ status:: 正在读
 					  5. 简单的致词; 感想[S]
 					  Mr.Jones was called on for a sentiment. 琼斯先生应邀发表感想。
 				- inferior:\[In\`fIrIɚ;in\`fiәriә] [[card]] 
-				  card-last-interval:: 26.21
-				  card-repeats:: 4
-				  card-ease-factor:: 2.56
-				  card-next-schedule:: 2022-06-22T17:01:10.789Z
-				  card-last-reviewed:: 2022-05-27T12:01:10.790Z
-				  card-last-score:: 5
+				  card-last-interval:: 56.69
+				  card-repeats:: 5
+				  card-ease-factor:: 2.42
+				  card-next-schedule:: 2022-08-19T18:21:20.668Z
+				  card-last-reviewed:: 2022-06-24T02:21:20.669Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- a.[Z]
 					  1. (地位等)低等的; 下级的; 低于…的[(+to)]

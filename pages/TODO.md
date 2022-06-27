@@ -16,8 +16,14 @@
 	- TODO 清洁洗手间
 	- TODO 吸尘
 	- TODO 购物清单（周四）
-	  SCHEDULED: <2022-06-23 Thu ++1w>
+	  SCHEDULED: <2022-06-30 Thu ++1w>
+	  :LOGBOOK:
+	  * State "DONE" from "TODO" [2022-06-24 Fri 15:05]
+	  :END:
 	- TODO 倒垃圾（周四）
-	  SCHEDULED: <2022-06-16 Thu ++1w>
+	  SCHEDULED: <2022-06-30 Thu ++1w>
+	  :LOGBOOK:
+	  * State "DONE" from "TODO" [2022-06-23 Thu 17:01]
+	  :END:
 	-
 -
