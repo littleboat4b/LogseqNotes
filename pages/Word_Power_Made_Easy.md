@@ -80,12 +80,12 @@ status:: 正在读
 				  I acquainted him with the facts of the case.
 				  我让他熟悉了案情
 			- pore: *[pɒ:] [[card]]
-			  card-last-score:: 5
-			  card-repeats:: 4
-			  card-next-schedule:: 2022-06-29T04:28:16.041Z
-			  card-last-interval:: 33.64
-			  card-ease-factor:: 2.9
-			  card-last-reviewed:: 2022-05-26T13:28:16.043Z
+			  card-last-score:: 3
+			  card-repeats:: 5
+			  card-next-schedule:: 2022-09-21T20:48:58.547Z
+			  card-last-interval:: 84.1
+			  card-ease-factor:: 2.76
+			  card-last-reviewed:: 2022-06-29T18:48:58.548Z
 			  collapsed:: true
 				- n. 毛孔, 小孔, 气孔
 				  vi. 专心阅读, 细想, 钻研, 沉思, 注视
@@ -360,11 +360,11 @@ status:: 正在读
 					  那个没出息的青年人只会浪费钱。
 					- 助记法：fu（覆盖）+ tile（瓦片，瓷砖）-> 台风来啦！覆盖瓦片是没用的。
 				- nagging:[\`nægIŋ;\`nægiŋ] [[card]] 
-				  card-last-interval:: 31.36
-				  card-repeats:: 4
-				  card-ease-factor:: 2.8
-				  card-next-schedule:: 2022-06-27T21:12:44.609Z
-				  card-last-reviewed:: 2022-05-27T13:12:44.611Z
+				  card-last-interval:: 97.56
+				  card-repeats:: 5
+				  card-ease-factor:: 2.9
+				  card-next-schedule:: 2022-10-05T07:48:19.076Z
+				  card-last-reviewed:: 2022-06-29T18:48:19.079Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- a.
@@ -458,11 +458,11 @@ status:: 正在读
 						  5. 极大的, 极度的[B]
 						  She lives in mortal terror of her husband's anger. 她极度害怕她丈夫发脾气。
 				- dim:[dIm;dim] [[card]]
-				  card-last-interval:: 28.3
-				  card-repeats:: 4
-				  card-ease-factor:: 2.66
-				  card-next-schedule:: 2022-06-27T09:00:39.235Z
-				  card-last-reviewed:: 2022-05-30T02:00:39.237Z
+				  card-last-interval:: 84.1
+				  card-repeats:: 5
+				  card-ease-factor:: 2.76
+				  card-next-schedule:: 2022-09-21T20:49:05.819Z
+				  card-last-reviewed:: 2022-06-29T18:49:05.820Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- a.
@@ -480,12 +480,12 @@ status:: 正在读
 					  他不太领会她的挖苦话。
 					  5. 悲观的, 怀疑的
 				- scorn:[skɔrn;skɔ:n] [[card]]
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 2.18
-				  card-next-schedule:: 2022-06-28T02:21:13.538Z
-				  card-last-reviewed:: 2022-06-24T02:21:13.539Z
-				  card-last-score:: 3
+				  card-last-interval:: 9.12
+				  card-repeats:: 3
+				  card-ease-factor:: 2.28
+				  card-next-schedule:: 2022-07-08T20:47:52.301Z
+				  card-last-reviewed:: 2022-06-29T18:47:52.305Z
+				  card-last-score:: 5
 				  collapsed:: true
 					- n.
 						- 1. 轻蔑; 藐视[U][(+for)]
@@ -507,12 +507,12 @@ status:: 正在读
 					- vi.
 						- 1. 表示轻蔑, 表示鄙视
 				- commitment:[kә\`mItmәnt;kә\`mitmәnt] [[card]] 
-				  card-last-interval:: 28.3
-				  card-repeats:: 4
-				  card-ease-factor:: 2.66
-				  card-next-schedule:: 2022-06-29T01:37:36.097Z
-				  card-last-reviewed:: 2022-05-31T18:37:36.098Z
-				  card-last-score:: 3
+				  card-last-interval:: 84.1
+				  card-repeats:: 5
+				  card-ease-factor:: 2.76
+				  card-next-schedule:: 2022-09-21T20:48:29.737Z
+				  card-last-reviewed:: 2022-06-29T18:48:29.738Z
+				  card-last-score:: 5
 				  collapsed:: true
 					- n.
 					  1. 托付, 交托; 委任[U]
@@ -557,11 +557,11 @@ status:: 正在读
 					- 助记法：
 						- 【词根】con（一起、共同）+ templ（=temple，n.庙宇）+ ate (动词后缀) -> 一起在庙里想...
 				- abstinence:[\`æbstәnәns;\`æbstinәns] [[card]] 
-				  card-last-interval:: 11.02
-				  card-repeats:: 4
-				  card-ease-factor:: 1.66
-				  card-next-schedule:: 2022-06-26T02:13:21.180Z
-				  card-last-reviewed:: 2022-06-15T02:13:21.184Z
+				  card-last-interval:: 14.05
+				  card-repeats:: 5
+				  card-ease-factor:: 1.52
+				  card-next-schedule:: 2022-07-13T19:48:12.089Z
+				  card-last-reviewed:: 2022-06-29T18:48:12.089Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- n.[U]
@@ -660,11 +660,11 @@ status:: 正在读
 			- [[English New Word]]
 			  collapsed:: true
 				- excursion：[Ik\`skˏʒәn;ikskә:ʃәn] [[card]]
-				  card-last-interval:: 28.3
-				  card-repeats:: 4
-				  card-ease-factor:: 2.66
-				  card-next-schedule:: 2022-06-27T08:48:17.717Z
-				  card-last-reviewed:: 2022-05-30T01:48:17.717Z
+				  card-last-interval:: 84.1
+				  card-repeats:: 5
+				  card-ease-factor:: 2.76
+				  card-next-schedule:: 2022-09-21T20:47:59.607Z
+				  card-last-reviewed:: 2022-06-29T18:47:59.610Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- n.
@@ -696,12 +696,12 @@ status:: 正在读
 					  "dentist"一词的意思是牙科医生。
 					  3. 【逻】指称
 				- morbid:[\`mɔrbId;\`mɔ:bid] [[card]] 
-				  card-last-interval:: 12.53
-				  card-repeats:: 4
+				  card-last-interval:: -1
+				  card-repeats:: 1
 				  card-ease-factor:: 1.8
-				  card-next-schedule:: 2022-06-26T06:29:10.109Z
-				  card-last-reviewed:: 2022-06-13T18:29:10.109Z
-				  card-last-score:: 3
+				  card-next-schedule:: 2022-06-30T04:00:00.000Z
+				  card-last-reviewed:: 2022-06-29T18:48:49.533Z
+				  card-last-score:: 1
 				  collapsed:: true
 					- a.
 					  1. 疾病的; 疾病所致的
