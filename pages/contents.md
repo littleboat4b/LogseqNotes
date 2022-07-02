@@ -55,6 +55,7 @@
 		-
 	-
 - [[阅读笔记]]
+  collapsed:: true
 	- [[Word_Power_Made_Easy]]
 		- ((6272cac5-ea41-40e6-98ba-fe0e3bd5eaed))
 			- ((62707813-2a31-4956-bd16-cb6932b4d86a))
@@ -87,8 +88,8 @@
 		- [[comment]]
 	- [[English New Word]]
 - [[TODO]]
-	-
 - [[生活百事]]
+  collapsed:: true
 	- [[美食]]
 		- [[汤]]
 			- [[鱼骨汤]]

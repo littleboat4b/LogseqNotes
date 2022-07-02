@@ -290,12 +290,12 @@ status:: 正在读
 					  He is boastful of his learning.
 					  他总是夸耀自己的学识。
 				- obnoxious:[әb\`nɑkʃәs;әb\`nɔkʃәs][[card]]
-				  card-last-interval:: 9.24
-				  card-repeats:: 4
+				  card-last-interval:: -1
+				  card-repeats:: 1
 				  card-ease-factor:: 1.52
-				  card-next-schedule:: 2022-07-01T06:17:23.139Z
-				  card-last-reviewed:: 2022-06-22T01:17:23.143Z
-				  card-last-score:: 3
+				  card-next-schedule:: 2022-07-03T04:00:00.000Z
+				  card-last-reviewed:: 2022-07-02T12:30:13.875Z
+				  card-last-score:: 1
 				  collapsed:: true
 					- a.
 					  1. 【文】令人非常不快的, 讨厌的, 可憎的
@@ -696,12 +696,12 @@ status:: 正在读
 					  "dentist"一词的意思是牙科医生。
 					  3. 【逻】指称
 				- morbid:[\`mɔrbId;\`mɔ:bid] [[card]] 
-				  card-last-interval:: -1
-				  card-repeats:: 1
-				  card-ease-factor:: 1.8
-				  card-next-schedule:: 2022-06-30T04:00:00.000Z
-				  card-last-reviewed:: 2022-06-29T18:48:49.533Z
-				  card-last-score:: 1
+				  card-last-interval:: 4
+				  card-repeats:: 2
+				  card-ease-factor:: 1.66
+				  card-next-schedule:: 2022-07-06T12:30:33.242Z
+				  card-last-reviewed:: 2022-07-02T12:30:33.244Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- a.
 					  1. 疾病的; 疾病所致的
