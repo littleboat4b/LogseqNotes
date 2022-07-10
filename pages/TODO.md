@@ -1,6 +1,7 @@
 - 每日常规
   template:: 每日常规
 	- TODO 听《一生的忠告》
+		- ssh ruibinling@wws21 '/home/ruibinling/bin/yl.misc.wws21.rbl.organize_reading_audio'
 	- TODO 写日记
 	- TODO MOOC上课
 	- TODO 煮饭
@@ -16,8 +17,8 @@
 	- TODO 清洁洗手间
 	- TODO 吸尘
 	- TODO 下载跟着书本去旅行
-	  SCHEDULED: <2022-07-04 Mon ++1w>
-		- 2021年2月份
+	  SCHEDULED: <2022-07-11 Mon ++1w>
+		- https://tv.cctv.com/lm/gzsbqlx/
 		- 2021年4月份
 	- TODO 购物清单（周四）
 	  SCHEDULED: <2022-07-07 Thu ++1w>

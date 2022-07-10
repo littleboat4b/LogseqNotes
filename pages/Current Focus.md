@@ -1,5 +1,4 @@
 - 儿子矫正牙齿
-  collapsed:: true
 	- [Davis Orthodontics](https://www.davisortho.ca/treatment-options/braces/)
 		- Treatment Cost：The average orthodontic case is approximately `$5,000-$8,000`
 		- Treatment Length：Use the sliding scale to adjust treatment duration. Comprehensive treatments range from 6 to 30 months and average 18 months
@@ -25,6 +24,17 @@
 	  id:: 629389da-8335-4e17-b3f8-3061d505c5d1
 		- Mandy推荐，据说价格不错
 		- 周日关门，平时10～6点
+	- [Richmondhill Orthodontics](https://www.richmondhillorthodontics.com/)
+		- Milliken Mill IB 家长推荐
+		- Dr. Jeffrey Tse
+		- Office hour
+			- Sunday: Closed
+			  Monday: Closed
+			  Tuesday: Closed (Dr. Tse teaches every Tuesday)
+			  Wednesday: 10:00am to 7:00pm
+			  Thursday: 10:00am to 7:00pm
+			  Friday: 10:00am to 7:00pm
+			  Saturday: 10:00am to 6:00pm
 - 插入声音
 	- `[:audio {:controls true :src "https://声音文件的mp3的链接.mp3"}]`
 - 听彬彬的朗读文件

@@ -48,12 +48,12 @@ status:: 正在读
 			- senility: [sә\`nIlәtI;si\`niliti] {{cloze n.1. 高龄; 衰老; 年老糊涂}}
 			- teaser: [\`tizɚ;\`ti:zә] < {{cloze n.1. 戏弄者, 嘲弄者; 欺负他人者 2. 【口】难事, 难题}}
 			- obscure: [әb\`skjʊr;әb\`skjuә] [[card]]
-			  card-last-score:: 3
-			  card-repeats:: 5
-			  card-next-schedule:: 2022-07-03T08:22:26.111Z
-			  card-last-interval:: 23.33
+			  card-last-score:: 1
+			  card-repeats:: 1
+			  card-next-schedule:: 2022-07-08T04:00:00.000Z
+			  card-last-interval:: -1
 			  card-ease-factor:: 1.8
-			  card-last-reviewed:: 2022-06-10T01:22:26.115Z
+			  card-last-reviewed:: 2022-07-07T21:39:57.747Z
 			  collapsed:: true
 				- a.
 				  1. 暗的, 黑暗的; 朦胧的
@@ -93,11 +93,11 @@ status:: 正在读
 				  vt. 使注视得
 			- absurd: [әb\`sˏd;әb\`sә:d] [[card]]
 			  card-last-score:: 3
-			  card-repeats:: 4
-			  card-next-schedule:: 2022-07-06T11:20:51.399Z
-			  card-last-interval:: 12.39
-			  card-ease-factor:: 1.76
-			  card-last-reviewed:: 2022-06-24T02:20:51.400Z
+			  card-repeats:: 5
+			  card-next-schedule:: 2022-07-24T21:40:29.550Z
+			  card-last-interval:: 17.01
+			  card-ease-factor:: 1.62
+			  card-last-reviewed:: 2022-07-07T21:40:29.551Z
 			  collapsed:: true
 				- a.
 				  1. 不合理的, 荒谬的; 可笑的, 愚蠢的
@@ -212,11 +212,11 @@ status:: 正在读
 			- [[English New Word]]
 			  collapsed:: true
 				- heredity: [hә\`rєdәtI;hi\`rediti] [[card]]
-				  card-last-interval:: 22.55
-				  card-repeats:: 5
-				  card-ease-factor:: 1.8
-				  card-next-schedule:: 2022-07-06T07:28:37.148Z
-				  card-last-reviewed:: 2022-06-13T18:28:37.149Z
+				  card-last-interval:: 30.37
+				  card-repeats:: 6
+				  card-ease-factor:: 1.66
+				  card-next-schedule:: 2022-08-07T05:41:19.714Z
+				  card-last-reviewed:: 2022-07-07T21:41:19.715Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- n.
@@ -224,12 +224,12 @@ status:: 正在读
 					  My height comes from my heredity.
 					  我的身高来自于遗传。
 				- ruthless: [\`ruθlIs;\`ru:θlis] [[card]]
-				  card-last-interval:: 33.64
-				  card-repeats:: 4
+				  card-last-interval:: -1
+				  card-repeats:: 1
 				  card-ease-factor:: 2.9
-				  card-next-schedule:: 2022-07-04T09:36:29.529Z
-				  card-last-reviewed:: 2022-05-31T18:36:29.530Z
-				  card-last-score:: 5
+				  card-next-schedule:: 2022-07-08T04:00:00.000Z
+				  card-last-reviewed:: 2022-07-07T21:38:34.792Z
+				  card-last-score:: 1
 				  collapsed:: true
 					- a.
 					  1. 无情的, 残忍的
@@ -258,12 +258,12 @@ status:: 正在读
 					  我对他的诗作没有什么好评。
 					- **arrogant/conceit都有“傲慢、狂妄”的意思**
 				- conquest: [\`kɑŋkwєst;\`kɔŋkwest] [[card]] 
-				  card-last-interval:: 33.64
-				  card-repeats:: 4
-				  card-ease-factor:: 2.9
-				  card-next-schedule:: 2022-07-07T14:36:53.768Z
-				  card-last-reviewed:: 2022-06-03T23:36:53.774Z
-				  card-last-score:: 5
+				  card-last-interval:: 84.1
+				  card-repeats:: 5
+				  card-ease-factor:: 2.76
+				  card-next-schedule:: 2022-09-29T23:41:08.050Z
+				  card-last-reviewed:: 2022-07-07T21:41:08.051Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- n.
 					  1. 征服; 克服; 占领[U]
@@ -290,12 +290,12 @@ status:: 正在读
 					  He is boastful of his learning.
 					  他总是夸耀自己的学识。
 				- obnoxious:[әb\`nɑkʃәs;әb\`nɔkʃәs][[card]]
-				  card-last-interval:: -1
-				  card-repeats:: 1
-				  card-ease-factor:: 1.52
-				  card-next-schedule:: 2022-07-03T04:00:00.000Z
-				  card-last-reviewed:: 2022-07-02T12:30:13.875Z
-				  card-last-score:: 1
+				  card-last-interval:: 4
+				  card-repeats:: 2
+				  card-ease-factor:: 1.38
+				  card-next-schedule:: 2022-07-11T21:37:22.789Z
+				  card-last-reviewed:: 2022-07-07T21:37:22.793Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- a.
 					  1. 【文】令人非常不快的, 讨厌的, 可憎的
@@ -320,11 +320,11 @@ status:: 正在读
 					- `[:audio {:controls true :src "声音文件的mp3的链接"}]`
 					- [:audio {:controls true :src "https://media.merriam-webster.com/audio/prons/en/us/mp3/m/monoto05.mp3"}]
 				- colony: [\`kɑlәnI;\`kɔlәni] [[card]] 
-				  card-last-interval:: 33.64
-				  card-repeats:: 4
-				  card-ease-factor:: 2.9
-				  card-next-schedule:: 2022-07-04T09:36:58.675Z
-				  card-last-reviewed:: 2022-05-31T18:36:58.676Z
+				  card-last-interval:: 108
+				  card-repeats:: 5
+				  card-ease-factor:: 3
+				  card-next-schedule:: 2022-10-22T21:27:15.824Z
+				  card-last-reviewed:: 2022-07-06T21:27:15.827Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- n.[C]
@@ -388,12 +388,12 @@ status:: 正在读
 					  他们寻找一个可以过隐居生活的地方。
 					  2. 冷僻(处); 荒凉(之地)[C][U]
 				- crowd:[kraʊd;kraud] [[card]] 
-				  card-last-interval:: 33.64
-				  card-repeats:: 4
-				  card-ease-factor:: 2.9
-				  card-next-schedule:: 2022-07-04T09:36:09.149Z
-				  card-last-reviewed:: 2022-05-31T18:36:09.154Z
-				  card-last-score:: 5
+				  card-last-interval:: 84.1
+				  card-repeats:: 5
+				  card-ease-factor:: 2.76
+				  card-next-schedule:: 2022-09-29T23:42:04.813Z
+				  card-last-reviewed:: 2022-07-07T21:42:04.814Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- n.
 					  1. 人群[C][G]
@@ -424,12 +424,12 @@ status:: 正在读
 					  3. (大写)犬儒主义的
 					- 助记法：cynical的读法就是吸你哥.若你把它想成——因为你很嫉妒,所以你去洗你哥的血!
 				- embitter:[Im\`bItɚ;im\`bitә] [[card]] 
-				  card-last-interval:: 33.64
-				  card-repeats:: 4
-				  card-ease-factor:: 2.9
-				  card-next-schedule:: 2022-07-04T09:36:48.694Z
-				  card-last-reviewed:: 2022-05-31T18:36:48.694Z
-				  card-last-score:: 5
+				  card-last-interval:: 84.1
+				  card-repeats:: 5
+				  card-ease-factor:: 2.76
+				  card-next-schedule:: 2022-09-29T23:40:08.395Z
+				  card-last-reviewed:: 2022-07-07T21:40:08.396Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- vt.[H]
 					  1. 使难受, 使痛苦; 使有苦味
@@ -696,11 +696,11 @@ status:: 正在读
 					  "dentist"一词的意思是牙科医生。
 					  3. 【逻】指称
 				- morbid:[\`mɔrbId;\`mɔ:bid] [[card]] 
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 1.66
-				  card-next-schedule:: 2022-07-06T12:30:33.242Z
-				  card-last-reviewed:: 2022-07-02T12:30:33.244Z
+				  card-last-interval:: 5.87
+				  card-repeats:: 3
+				  card-ease-factor:: 1.52
+				  card-next-schedule:: 2022-07-13T17:41:30.824Z
+				  card-last-reviewed:: 2022-07-07T21:41:30.825Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- a.
@@ -715,12 +715,12 @@ status:: 正在读
 					- [:audio {:controls true :src "https://www.oxfordlearnersdictionaries.com/media/english/us_pron/m/mor/morbi/morbid__us_1.mp3"}]
 					-
 				- dispute:[dI\`spjut;di\`spju:t] [[card]] 
-				  card-last-interval:: 33.64
-				  card-repeats:: 4
-				  card-ease-factor:: 2.9
-				  card-next-schedule:: 2022-07-04T09:36:35.542Z
-				  card-last-reviewed:: 2022-05-31T18:36:35.543Z
-				  card-last-score:: 5
+				  card-last-interval:: 84.1
+				  card-repeats:: 5
+				  card-ease-factor:: 2.76
+				  card-next-schedule:: 2022-09-29T23:42:32.279Z
+				  card-last-reviewed:: 2022-07-07T21:42:32.280Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- vi.
 					  1. 争论; 争执[(+about/on/over/with/against)]
