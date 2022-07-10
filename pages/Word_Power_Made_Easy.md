@@ -48,12 +48,12 @@ status:: 正在读
 			- senility: [sә\`nIlәtI;si\`niliti] {{cloze n.1. 高龄; 衰老; 年老糊涂}}
 			- teaser: [\`tizɚ;\`ti:zә] < {{cloze n.1. 戏弄者, 嘲弄者; 欺负他人者 2. 【口】难事, 难题}}
 			- obscure: [әb\`skjʊr;әb\`skjuә] [[card]]
-			  card-last-score:: 1
-			  card-repeats:: 1
-			  card-next-schedule:: 2022-07-08T04:00:00.000Z
-			  card-last-interval:: -1
-			  card-ease-factor:: 1.8
-			  card-last-reviewed:: 2022-07-07T21:39:57.747Z
+			  card-last-score:: 3
+			  card-repeats:: 2
+			  card-next-schedule:: 2022-07-14T01:56:31.165Z
+			  card-last-interval:: 4
+			  card-ease-factor:: 1.66
+			  card-last-reviewed:: 2022-07-10T01:56:31.166Z
 			  collapsed:: true
 				- a.
 				  1. 暗的, 黑暗的; 朦胧的
@@ -224,12 +224,12 @@ status:: 正在读
 					  My height comes from my heredity.
 					  我的身高来自于遗传。
 				- ruthless: [\`ruθlIs;\`ru:θlis] [[card]]
-				  card-last-interval:: -1
-				  card-repeats:: 1
-				  card-ease-factor:: 2.9
-				  card-next-schedule:: 2022-07-08T04:00:00.000Z
-				  card-last-reviewed:: 2022-07-07T21:38:34.792Z
-				  card-last-score:: 1
+				  card-last-interval:: 4
+				  card-repeats:: 2
+				  card-ease-factor:: 2.76
+				  card-next-schedule:: 2022-07-14T01:56:00.418Z
+				  card-last-reviewed:: 2022-07-10T01:56:00.419Z
+				  card-last-score:: 3
 				  collapsed:: true
 					- a.
 					  1. 无情的, 残忍的
@@ -480,11 +480,11 @@ status:: 正在读
 					  他不太领会她的挖苦话。
 					  5. 悲观的, 怀疑的
 				- scorn:[skɔrn;skɔ:n] [[card]]
-				  card-last-interval:: 9.12
-				  card-repeats:: 3
-				  card-ease-factor:: 2.28
-				  card-next-schedule:: 2022-07-08T20:47:52.301Z
-				  card-last-reviewed:: 2022-06-29T18:47:52.305Z
+				  card-last-interval:: 22.66
+				  card-repeats:: 4
+				  card-ease-factor:: 2.38
+				  card-next-schedule:: 2022-08-01T16:55:25.277Z
+				  card-last-reviewed:: 2022-07-10T01:55:25.281Z
 				  card-last-score:: 5
 				  collapsed:: true
 					- n.
@@ -525,11 +525,11 @@ status:: 正在读
 					  6. 犯罪, 罪行[U][C]
 					  commitment of infanticide 杀婴
 				- austerity:[ɔ\`stєrәtI;ɔ:s\`teriti] [[card]] 
-				  card-last-interval:: 23.33
-				  card-repeats:: 5
-				  card-ease-factor:: 1.8
-				  card-next-schedule:: 2022-07-09T03:47:51.924Z
-				  card-last-reviewed:: 2022-06-15T20:47:51.926Z
+				  card-last-interval:: 30.37
+				  card-repeats:: 6
+				  card-ease-factor:: 1.66
+				  card-next-schedule:: 2022-08-09T09:56:09.891Z
+				  card-last-reviewed:: 2022-07-10T01:56:09.892Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- n.
