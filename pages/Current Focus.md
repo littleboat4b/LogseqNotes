@@ -38,6 +38,7 @@
 	- ==[UnionvillageDental](https://unionvillagedental.com/%E4%B8%AD%E6%96%87)==
 		- Milliken Mill IB 家长推荐
 		- 李胜彩医生 - 来自大陆，有30年工作经验的副主任医生
+		- 离家和学校都不远
 		- Office hour：
 			- 周一：请提前预约
 			- 其余时间：8:30am - 6:30pm
