@@ -290,11 +290,11 @@ status:: 正在读
 					  He is boastful of his learning.
 					  他总是夸耀自己的学识。
 				- obnoxious:[әb\`nɑkʃәs;әb\`nɔkʃәs][[card]]
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 1.38
-				  card-next-schedule:: 2022-07-11T21:37:22.789Z
-				  card-last-reviewed:: 2022-07-07T21:37:22.793Z
+				  card-last-interval:: 5.2
+				  card-repeats:: 3
+				  card-ease-factor:: 1.3
+				  card-next-schedule:: 2022-07-18T00:45:22.229Z
+				  card-last-reviewed:: 2022-07-12T20:45:22.233Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- a.
@@ -302,6 +302,7 @@ status:: 正在读
 					  an obnoxious smell
 					  一种难闻的气味
 					  形变: more obnoxious; most obnoxious
+					- 【词根】`ob 加强` + `nox 伤害；毒`+ `ious 有…性质的`→ 又坏又毒→ 令人讨厌的
 				- monotonous:[mә\`nɑtәnәs;mә\`nɔtәnәs] [[card]] 
 				  card-last-interval:: 29.21
 				  card-repeats:: 5

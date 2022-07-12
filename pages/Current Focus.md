@@ -1,5 +1,6 @@
 - 儿子矫正牙齿
 	- ==[Davis Orthodontics](https://www.davisortho.ca/treatment-options/braces/)==
+		- 905-884-7550 - Richmond Hill Office
 		- Treatment Cost：The average orthodontic case is approximately `$5,000-$8,000`
 		- Treatment Length：Use the sliding scale to adjust treatment duration. Comprehensive treatments range from 6 to 30 months and average 18 months
 		- `$6800` - 18个月 -  $94/周
@@ -20,10 +21,6 @@
 		- Milliken Mill IB 家长推荐，执业23年。
 		- 周日和周一关门
 		- 9390 Woodbine Ave, Suite 321 (3rd floor)
-	- ==[RM Dentistry](https://richmondhilldental.ca/)==
-	  id:: 629389da-8335-4e17-b3f8-3061d505c5d1
-		- Mandy推荐，据说价格不错
-		- 周日关门，平时10～6点
 	- [Richmondhill Orthodontics](https://www.richmondhillorthodontics.com/)
 		- Milliken Mill IB 家长推荐
 		- Dr. Jeffrey Tse
@@ -42,6 +39,12 @@
 		- Office hour：
 			- 周一：请提前预约
 			- 其余时间：8:30am - 6:30pm
+	- [RM Dentistry](https://richmondhilldental.ca/) -  不考虑
+	  id:: 629389da-8335-4e17-b3f8-3061d505c5d1
+	  background-color:: #49767b
+		- 咨询价格\$280(拍两张片和一个全景片，每张\$60，全口检查 \$100)
+		- Mandy推荐，据说价格不错
+		- 周日关门，平时10～6点
 - 插入声音
 	- `[:audio {:controls true :src "https://声音文件的mp3的链接.mp3"}]`
 - 听彬彬的朗读文件
