@@ -6,24 +6,23 @@
 		- `$6800` - 18个月 -  $94/周
 		- Rolia有人推荐，连锁大店，声明在外
 		- 周六周日关门，周五到下午1点
-		- 有点远
-	- [Docbraces MCO Markham in Markham, Ontario](https://docbraces.com/on/locations/mcomarkham#)
-		- Rolia有人推荐，连锁大店，声明在外
-		- 周六周日关门，周五到下午5:30
-		- 4581 Hwy 7`#103d` ， Markham, ON L3R 1M6
-	- [万锦箍牙中心](https://markhambraces.com/chinese/)
-	  id:: 629392ea-3ed0-49d6-b6fb-191b2940a9e0
-		- 周日关门，平时下午5点
-		- Milliken Mill IB 家长推荐
-		- 地址:3000 Highway 7 East, Suite 208, Markham, Ont, L3R 6E1
-		  (即 Hwy 7 夾 Woodbine Ave 东北角)
+		- 离家最远，要价$7,000
+			- 10131 Yonge Street
+			  Richmond Hill, Ontario L4C1T5
+			  Phone: 905-884-7550
 	- [DR. PERRY M. LUI ORTHODONTIST](https://www.drperryluidentistry.ca/)
 		- Milliken Mill IB 家长推荐，执业23年。
+		- 离家倒数第二远
 		- 周日和周一关门
 		- 9390 Woodbine Ave, Suite 321 (3rd floor)
-	- [Richmondhill Orthodontics](https://www.richmondhillorthodontics.com/)
+	- ==[Richmondhill Orthodontics](https://www.richmondhillorthodontics.com/)==
 		- Milliken Mill IB 家长推荐
-		- Dr. Jeffrey Tse
+		- Dr. Jeffrey Tse - 在医学院教书的老师
+		- 评价：超过时间也没有要求多付钱
+		- 离家第三近
+			- 650 Highway \#7 East
+			  Suite 101
+			  Richmond Hill, ON L4B 2N7
 		- Office hour
 			- Sunday: Closed
 			  Monday: Closed
@@ -32,10 +31,23 @@
 			  Thursday: 10:00am to 7:00pm
 			  Friday: 10:00am to 7:00pm
 			  Saturday: 10:00am to 6:00pm
+	- [万锦箍牙中心](https://markhambraces.com/chinese/)
+	  id:: 629392ea-3ed0-49d6-b6fb-191b2940a9e0
+		- 周日关门，平时下午5点
+		- Milliken Mill IB 家长推荐
+		- 离家第二近
+		- 地址:3000 Highway 7 East, Suite 208, Markham, Ont, L3R 6E1
+		  (即 Hwy 7 夾 Woodbine Ave 东北角)
+	- [Docbraces MCO Markham in Markham, Ontario](https://docbraces.com/on/locations/mcomarkham#)
+		- Rolia有人推荐，连锁大店，声明在外
+		- 离家最近
+			- 4581 Hwy 7`#103d` ， Markham, ON L3R 1M6
+		- 周六周日关门，周五到下午5:30
 	- ==[UnionvillageDental](https://unionvillagedental.com/%E4%B8%AD%E6%96%87)==
 		- Milliken Mill IB 家长推荐
 		- 李胜彩医生 - 来自大陆，有30年工作经验的副主任医生
 		- 离家和学校都不远
+			- 2 Station Lane, Unionville, ON, CA L3R 1R3
 		- Office hour：
 			- 周一：请提前预约
 			- 其余时间：8:30am - 6:30pm

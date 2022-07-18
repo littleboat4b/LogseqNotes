@@ -49,11 +49,11 @@ status:: 正在读
 			- teaser: [\`tizɚ;\`ti:zә] < {{cloze n.1. 戏弄者, 嘲弄者; 欺负他人者 2. 【口】难事, 难题}}
 			- obscure: [әb\`skjʊr;әb\`skjuә] [[card]]
 			  card-last-score:: 3
-			  card-repeats:: 2
-			  card-next-schedule:: 2022-07-14T01:56:31.165Z
-			  card-last-interval:: 4
-			  card-ease-factor:: 1.66
-			  card-last-reviewed:: 2022-07-10T01:56:31.166Z
+			  card-repeats:: 3
+			  card-next-schedule:: 2022-07-21T03:42:59.183Z
+			  card-last-interval:: 6.08
+			  card-ease-factor:: 1.52
+			  card-last-reviewed:: 2022-07-15T02:42:59.184Z
 			  collapsed:: true
 				- a.
 				  1. 暗的, 黑暗的; 朦胧的
@@ -224,11 +224,11 @@ status:: 正在读
 					  My height comes from my heredity.
 					  我的身高来自于遗传。
 				- ruthless: [\`ruθlIs;\`ru:θlis] [[card]]
-				  card-last-interval:: 4
-				  card-repeats:: 2
-				  card-ease-factor:: 2.76
-				  card-next-schedule:: 2022-07-14T01:56:00.418Z
-				  card-last-reviewed:: 2022-07-10T01:56:00.419Z
+				  card-last-interval:: 10.48
+				  card-repeats:: 3
+				  card-ease-factor:: 2.62
+				  card-next-schedule:: 2022-07-25T13:40:41.441Z
+				  card-last-reviewed:: 2022-07-15T02:40:41.444Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- a.
@@ -238,11 +238,11 @@ status:: 正在读
 					  如果我们要杜绝不必要的浪费, 就得硬著心肠做。
 					  形变: more ruthless; most ruthless
 				- conceit: [kәn\`sit;kәn\`si:t] [[card]] 
-				  card-last-interval:: 29.21
-				  card-repeats:: 5
-				  card-ease-factor:: 1.94
-				  card-next-schedule:: 2022-07-12T23:28:24.427Z
-				  card-last-reviewed:: 2022-06-13T18:28:24.431Z
+				  card-last-interval:: 41.99
+				  card-repeats:: 6
+				  card-ease-factor:: 1.8
+				  card-next-schedule:: 2022-08-26T01:40:54.096Z
+				  card-last-reviewed:: 2022-07-15T02:40:54.097Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- n.
@@ -304,11 +304,11 @@ status:: 正在读
 					  形变: more obnoxious; most obnoxious
 					- 【词根】`ob 加强` + `nox 伤害；毒`+ `ious 有…性质的`→ 又坏又毒→ 令人讨厌的
 				- monotonous:[mә\`nɑtәnәs;mә\`nɔtәnәs] [[card]] 
-				  card-last-interval:: 29.21
-				  card-repeats:: 5
-				  card-ease-factor:: 1.94
-				  card-next-schedule:: 2022-07-13T19:05:08.396Z
-				  card-last-reviewed:: 2022-06-14T14:05:08.400Z
+				  card-last-interval:: 41.99
+				  card-repeats:: 6
+				  card-ease-factor:: 1.8
+				  card-next-schedule:: 2022-08-26T01:42:46.991Z
+				  card-last-reviewed:: 2022-07-15T02:42:46.992Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- a.
@@ -341,21 +341,19 @@ status:: 正在读
 					  A colony of gulls inhabits the island.
 					  一群海鸥栖息于这个岛上。**
 				- futile: [\`fjutḷ;\`fju:tail] [[card]] 
-				  card-last-interval:: 29.21
-				  card-repeats:: 5
-				  card-ease-factor:: 1.94
-				  card-next-schedule:: 2022-07-15T01:48:26.349Z
-				  card-last-reviewed:: 2022-06-15T20:48:26.350Z
+				  card-last-interval:: 41.99
+				  card-repeats:: 6
+				  card-ease-factor:: 1.8
+				  card-next-schedule:: 2022-08-26T01:41:35.052Z
+				  card-last-reviewed:: 2022-07-15T02:41:35.053Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- a.
 					  1. 无益的, 无效的, 无用的; 无希望的
-					  His efforts to save the business were futile.
-					  他挽救企业的努力未能奏效。
+					  His efforts to save the business were futile. 他挽救企业的努力未能奏效。
 					  **2. 不重要的, 微不足道的**
 					  3. 忙于小事的; 缺少目的的
-					  He lived a futile life.
-					  他一生过得庸庸碌碌。
+					  He lived a futile life. 他一生过得庸庸碌碌。
 					  4. (人)愚蠢的, 没有出息的
 					  That futile young man does nothing but waste money.
 					  那个没出息的青年人只会浪费钱。
@@ -558,11 +556,11 @@ status:: 正在读
 					- 助记法：
 						- 【词根】con（一起、共同）+ templ（=temple，n.庙宇）+ ate (动词后缀) -> 一起在庙里想...
 				- abstinence:[\`æbstәnәns;\`æbstinәns] [[card]] 
-				  card-last-interval:: 14.05
-				  card-repeats:: 5
-				  card-ease-factor:: 1.52
-				  card-next-schedule:: 2022-07-13T19:48:12.089Z
-				  card-last-reviewed:: 2022-06-29T18:48:12.089Z
+				  card-last-interval:: 14.51
+				  card-repeats:: 6
+				  card-ease-factor:: 1.38
+				  card-next-schedule:: 2022-07-29T14:42:07.985Z
+				  card-last-reviewed:: 2022-07-15T02:42:07.986Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- n.[U]
@@ -681,11 +679,11 @@ status:: 正在读
 					  excursion from the major theme
 					  偏离主题
 				- denote:[dI\`not;di\`nәut] [[card]]
-				  card-last-interval:: 29.21
-				  card-repeats:: 5
-				  card-ease-factor:: 1.94
-				  card-next-schedule:: 2022-07-12T23:28:12.459Z
-				  card-last-reviewed:: 2022-06-13T18:28:12.460Z
+				  card-last-interval:: 41.99
+				  card-repeats:: 6
+				  card-ease-factor:: 1.8
+				  card-next-schedule:: 2022-08-26T01:41:41.254Z
+				  card-last-reviewed:: 2022-07-15T02:41:41.255Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- vt.
@@ -697,11 +695,11 @@ status:: 正在读
 					  "dentist"一词的意思是牙科医生。
 					  3. 【逻】指称
 				- morbid:[\`mɔrbId;\`mɔ:bid] [[card]] 
-				  card-last-interval:: 5.87
-				  card-repeats:: 3
-				  card-ease-factor:: 1.52
-				  card-next-schedule:: 2022-07-13T17:41:30.824Z
-				  card-last-reviewed:: 2022-07-07T21:41:30.825Z
+				  card-last-interval:: 7.62
+				  card-repeats:: 4
+				  card-ease-factor:: 1.38
+				  card-next-schedule:: 2022-07-22T16:42:23.389Z
+				  card-last-reviewed:: 2022-07-15T02:42:23.390Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- a.
