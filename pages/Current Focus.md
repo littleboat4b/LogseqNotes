@@ -18,7 +18,9 @@
 	- ==[Richmondhill Orthodontics](https://www.richmondhillorthodontics.com/)==
 		- Milliken Mill IB 家长推荐
 		- Dr. Jeffrey Tse - 在医学院教书的老师
-		- 评价：超过时间也没有要求多付钱
+		- 评价：
+			- 超过时间也没有要求多付钱，价格比较贵
+			- 医生的太太生病了不收新病人
 		- 离家第三近
 			- 650 Highway \#7 East
 			  Suite 101

@@ -48,12 +48,12 @@ status:: 正在读
 			- senility: [sә\`nIlәtI;si\`niliti] {{cloze n.1. 高龄; 衰老; 年老糊涂}}
 			- teaser: [\`tizɚ;\`ti:zә] < {{cloze n.1. 戏弄者, 嘲弄者; 欺负他人者 2. 【口】难事, 难题}}
 			- obscure: [әb\`skjʊr;әb\`skjuә] [[card]]
-			  card-last-score:: 3
-			  card-repeats:: 3
-			  card-next-schedule:: 2022-07-21T03:42:59.183Z
-			  card-last-interval:: 6.08
-			  card-ease-factor:: 1.52
-			  card-last-reviewed:: 2022-07-15T02:42:59.184Z
+			  card-last-score:: 5
+			  card-repeats:: 4
+			  card-next-schedule:: 2022-08-01T14:26:13.738Z
+			  card-last-interval:: 10.5
+			  card-ease-factor:: 1.62
+			  card-last-reviewed:: 2022-07-22T02:26:13.739Z
 			  collapsed:: true
 				- a.
 				  1. 暗的, 黑暗的; 朦胧的
@@ -290,11 +290,11 @@ status:: 正在读
 					  He is boastful of his learning.
 					  他总是夸耀自己的学识。
 				- obnoxious:[әb\`nɑkʃәs;әb\`nɔkʃәs][[card]]
-				  card-last-interval:: 5.2
-				  card-repeats:: 3
+				  card-last-interval:: 6.5
+				  card-repeats:: 4
 				  card-ease-factor:: 1.3
-				  card-next-schedule:: 2022-07-18T00:45:22.229Z
-				  card-last-reviewed:: 2022-07-12T20:45:22.233Z
+				  card-next-schedule:: 2022-07-27T11:42:46.312Z
+				  card-last-reviewed:: 2022-07-20T23:42:46.312Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- a.
@@ -407,11 +407,11 @@ status:: 正在读
 					  People crowded into the cinema.
 					  人们挤进电影院。
 				- cynical:[\`sInIkḷ;\`sinikәl] [[card]] 
-				  card-last-interval:: 23.33
-				  card-repeats:: 5
-				  card-ease-factor:: 1.8
-				  card-next-schedule:: 2022-07-15T08:17:42.110Z
-				  card-last-reviewed:: 2022-06-22T01:17:42.111Z
+				  card-last-interval:: 30.37
+				  card-repeats:: 6
+				  card-ease-factor:: 1.66
+				  card-next-schedule:: 2022-08-20T07:41:55.023Z
+				  card-last-reviewed:: 2022-07-20T23:41:55.024Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- a.
