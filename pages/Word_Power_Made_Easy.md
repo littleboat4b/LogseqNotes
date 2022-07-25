@@ -92,12 +92,12 @@ status:: 正在读
 				  Did you spend hours every day poring over a dictionary?
 				  vt. 使注视得
 			- absurd: [әb\`sˏd;әb\`sә:d] [[card]]
-			  card-last-score:: 3
-			  card-repeats:: 5
-			  card-next-schedule:: 2022-07-24T21:40:29.550Z
-			  card-last-interval:: 17.01
+			  card-last-score:: 1
+			  card-repeats:: 1
+			  card-next-schedule:: 2022-07-25T04:00:00.000Z
+			  card-last-interval:: -1
 			  card-ease-factor:: 1.62
-			  card-last-reviewed:: 2022-07-07T21:40:29.551Z
+			  card-last-reviewed:: 2022-07-25T03:31:14.798Z
 			  collapsed:: true
 				- a.
 				  1. 不合理的, 荒谬的; 可笑的, 愚蠢的
@@ -695,12 +695,12 @@ status:: 正在读
 					  "dentist"一词的意思是牙科医生。
 					  3. 【逻】指称
 				- morbid:[\`mɔrbId;\`mɔ:bid] [[card]] 
-				  card-last-interval:: 7.62
-				  card-repeats:: 4
-				  card-ease-factor:: 1.38
-				  card-next-schedule:: 2022-07-22T16:42:23.389Z
-				  card-last-reviewed:: 2022-07-15T02:42:23.390Z
-				  card-last-score:: 3
+				  card-last-interval:: 12.97
+				  card-repeats:: 5
+				  card-ease-factor:: 1.48
+				  card-next-schedule:: 2022-08-06T01:40:01.780Z
+				  card-last-reviewed:: 2022-07-24T02:40:01.781Z
+				  card-last-score:: 5
 				  collapsed:: true
 					- a.
 					  1. 疾病的; 疾病所致的

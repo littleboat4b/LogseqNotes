@@ -82,11 +82,15 @@
 		  在高音谱上是re，在低音谱上就是fa；
 		  在高音谱上是mi，在低音谱上就是sol...
 - 风雅陶笛
+  collapsed:: true
 	- 三管`推广型`AC - ￥838
 	- 三管AC`普及型`熏烧 - ￥1280
 	- 三管`风雅型`素烧/熏烧AC - ￥2480
 		- 三管AC熊猫款 - ￥2280
 	- 三管`Forte型`素烧AC - ￥2480 （三管Forte型白无光AC）
 	- 3管`重吹型`提升款AC - ￥2480
+- Complete KRITA tutorial AND Digital Painting Basics
+	- {{youtube https://www.youtube.com/watch?v=NbNQmE6WPK0}}
+	  id:: 62dd663f-32d1-4f2b-ac67-382292ee2c9f
 -
 -
