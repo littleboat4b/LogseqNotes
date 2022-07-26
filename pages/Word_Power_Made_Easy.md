@@ -92,12 +92,12 @@ status:: 正在读
 				  Did you spend hours every day poring over a dictionary?
 				  vt. 使注视得
 			- absurd: [әb\`sˏd;әb\`sә:d] [[card]]
-			  card-last-score:: 1
-			  card-repeats:: 1
-			  card-next-schedule:: 2022-07-25T04:00:00.000Z
-			  card-last-interval:: -1
-			  card-ease-factor:: 1.62
-			  card-last-reviewed:: 2022-07-25T03:31:14.798Z
+			  card-last-score:: 3
+			  card-repeats:: 2
+			  card-next-schedule:: 2022-07-30T00:54:50.755Z
+			  card-last-interval:: 4
+			  card-ease-factor:: 1.48
+			  card-last-reviewed:: 2022-07-26T00:54:50.758Z
 			  collapsed:: true
 				- a.
 				  1. 不合理的, 荒谬的; 可笑的, 愚蠢的
@@ -109,11 +109,11 @@ status:: 正在读
 				- [:audio {:controls true :src "https://www.oxfordlearnersdictionaries.com/media/english/uk_pron/a/abs/absur/absurd__gb_1.mp3"}]
 			- insatiable: [In\`seʃIәbḷ;in\`seiʃiәbl] [[card]]
 			  card-last-score:: 3
-			  card-repeats:: 5
-			  card-next-schedule:: 2022-07-25T04:28:57.134Z
-			  card-last-interval:: 41.44
-			  card-ease-factor:: 2.18
-			  card-last-reviewed:: 2022-06-13T18:28:57.134Z
+			  card-repeats:: 6
+			  card-next-schedule:: 2022-10-05T15:55:15.947Z
+			  card-last-interval:: 71.65
+			  card-ease-factor:: 2.04
+			  card-last-reviewed:: 2022-07-26T00:55:15.948Z
 			  collapsed:: true
 				- a.
 				  1. 永不满足的; 贪得无厌的[(+for/of)]
@@ -122,12 +122,12 @@ status:: 正在读
 				  He had an insatiable love for music.
 				  他对音乐爱得入迷。
 			- prodigious: [prә\`dIdʒәs;prә\`didʒәs] [[card]]
-			  card-last-score:: 5
-			  card-repeats:: 5
-			  card-next-schedule:: 2022-07-25T04:28:46.779Z
-			  card-last-interval:: 41.44
+			  card-last-score:: 1
+			  card-repeats:: 1
+			  card-next-schedule:: 2022-07-26T04:00:00.000Z
+			  card-last-interval:: -1
 			  card-ease-factor:: 2.18
-			  card-last-reviewed:: 2022-06-13T18:28:46.779Z
+			  card-last-reviewed:: 2022-07-26T00:55:39.598Z
 			  collapsed:: true
 				- a.
 				  1. 巨大的; 庞大的
@@ -224,11 +224,11 @@ status:: 正在读
 					  My height comes from my heredity.
 					  我的身高来自于遗传。
 				- ruthless: [\`ruθlIs;\`ru:θlis] [[card]]
-				  card-last-interval:: 10.48
-				  card-repeats:: 3
-				  card-ease-factor:: 2.62
-				  card-next-schedule:: 2022-07-25T13:40:41.441Z
-				  card-last-reviewed:: 2022-07-15T02:40:41.444Z
+				  card-last-interval:: 24.6
+				  card-repeats:: 4
+				  card-ease-factor:: 2.48
+				  card-next-schedule:: 2022-08-19T14:54:30.968Z
+				  card-last-reviewed:: 2022-07-26T00:54:30.969Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- a.
@@ -374,11 +374,11 @@ status:: 正在读
 					  John has a number of nagging worries.
 					  约翰有不少牵肠挂肚的心事。
 				- solitude:[\`sɑlәˏtjud;\`sɔlitju:d] [[card]] 
-				  card-last-interval:: 33.96
-				  card-repeats:: 5
-				  card-ease-factor:: 2.04
-				  card-next-schedule:: 2022-07-26T00:17:51.333Z
-				  card-last-reviewed:: 2022-06-22T01:17:51.334Z
+				  card-last-interval:: 52.13
+				  card-repeats:: 6
+				  card-ease-factor:: 1.9
+				  card-next-schedule:: 2022-09-16T03:55:26.046Z
+				  card-last-reviewed:: 2022-07-26T00:55:26.046Z
 				  card-last-score:: 3
 				  collapsed:: true
 					- n.
@@ -539,12 +539,12 @@ status:: 正在读
 					  early Christian austerities 早期基督教徒的苦行
 					  **4. 紧缩, 严格的节制消费[U]**
 				- contemplation:[ˏkɑntєm\`pleʃәn;ˏkɔntem\`pleiʃәn] [[card]] 
-				  card-last-interval:: 41.44
-				  card-repeats:: 5
+				  card-last-interval:: -1
+				  card-repeats:: 1
 				  card-ease-factor:: 2.18
-				  card-next-schedule:: 2022-07-25T04:29:42.951Z
-				  card-last-reviewed:: 2022-06-13T18:29:42.952Z
-				  card-last-score:: 5
+				  card-next-schedule:: 2022-07-26T04:00:00.000Z
+				  card-last-reviewed:: 2022-07-26T00:55:04.710Z
+				  card-last-score:: 1
 				  collapsed:: true
 					- n.[U]
 					  1. 凝视; 沉思, 冥想
@@ -737,12 +737,12 @@ status:: 正在读
 					  1. 争论; 争执; 争端[C][U][(+about/over/with)]
 					  The dispute was settled last week. 争端在上周解决了。
 				- sentiment:[\`sєntәmәnt;\`sentimәnt][[card]]
-				  card-last-interval:: 33.96
-				  card-repeats:: 5
-				  card-ease-factor:: 2.04
-				  card-next-schedule:: 2022-07-26T00:18:03.580Z
-				  card-last-reviewed:: 2022-06-22T01:18:03.581Z
-				  card-last-score:: 3
+				  card-last-interval:: 83.89
+				  card-repeats:: 6
+				  card-ease-factor:: 2.14
+				  card-next-schedule:: 2022-10-17T21:54:15.913Z
+				  card-last-reviewed:: 2022-07-26T00:54:15.918Z
+				  card-last-score:: 5
 				  collapsed:: true
 					- n.
 					  1. 感情, 心情; 情操[U][C]
